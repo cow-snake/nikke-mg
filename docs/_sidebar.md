@@ -1,0 +1,9 @@
+# MEGAGUIDE
+  - [Deficit](deficit.md)
+  - [Earlygame](earlygame.md)
+  - [Faq](faq.md)
+  - [Gamecontent](gamecontent/gamecontent.md)
+  - [Introduction](introduction.md)
+  - [Mlem](mlem.md)
+  - [README](README.md)
+  - [Usefullinks](Usefullinks.md)
