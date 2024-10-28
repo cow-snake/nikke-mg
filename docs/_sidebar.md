@@ -1,9 +1,17 @@
-# MEGAGUIDE
-  - [Deficit](deficit.md)
-  - [Earlygame](earlygame.md)
-  - [Faq](faq.md)
-  - [Gamecontent](gamecontent/gamecontent.md)
+  - [Frontpage](frontpage.md)
   - [Introduction](introduction.md)
   - [Mlem](mlem.md)
+  - [FAQ](faq.md)
+  - [Early Game](earlygame.md)
+  - [Game Content](gamecontent.md)
+  - [Mid Game](midgame.md)
+  - [Manual Play](manualplay.md)
+  - [Progression Walls](progressionwalls.md)
+  - [Late Game](lategame.md)
+  - [Raids](raids.md)
+  - [End Game](endgame.md)
+  - [Changelog](changelog.md)
+
+  - test
+  - [Master](master.md)
   - [README](README.md)
-  - [Usefullinks](Usefullinks.md)
