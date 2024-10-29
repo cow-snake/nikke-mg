@@ -48,7 +48,23 @@ Reddit profile:
 GitHub: Soon™
 
 # Table of contents
+  - [Frontpage](frontpage.md)
+  - [Introduction](introduction.md)
+  - [Mlem](mlem.md)
+  - [FAQ](faq.md)
+  - [Early Game](earlygame.md)
+  - [Game Content](gamecontent.md)
+  - [Mid Game](midgame.md)
+  - [Manual Play](manualplay.md)
+  - [Progression Walls](progressionwalls.md)
+  - [Late Game](lategame.md)
+  - [Raids](raids.md)
+  - [End Game](endgame.md)
+  - [Changelog](changelog.md)
 
+  - test
+  - [Master](master.md)
+  - [README](README.md)
 
 **All new contents of the game will have a guide or section added with due time, check the change log for updates**
 
