@@ -4,13 +4,13 @@
 
 NIKKE is a third person shooter role playing game. You are the commander of a squad of NIKKES \-biocybernetic girls with guns- and you command them in actual combat, fighting an endless invasion of aliens called raptures.
 
-**But it’s a gacha, so let’s talk about rates, pity and Free to Play / Spender experience**. 
+**But it’s a gacha, so let’s talk about rates, pity and Free to Play / Spender experience**.
 
 SSR NIKKES rates in all banners are a solid **4%**. If you play other gacha games, just by that you will be blown away, 1 SSR character every 25\~ pulls is really generous.
 
 If this is your first gacha game, 4% may seem low, it is in fact a quite high rate, compared to other gacha games. 
 
-Along with a high rate, the mileage, a “pity system” of sorts, is amazing. For each pull you make, you receive a **ticket** that varies in colors: **Silver** ![Silver Mileage](media/silvermileage.png ':size=50')from standard banner, and **Golden** ![Golden Mileage](media/goldenmileage.png ':size=50') from special banners. Both types of tickets are **permanent** and are not tied to a specific event banner either.   
+Along with a high rate, the mileage, a “pity system” of sorts, is amazing. For each pull you make, you receive a **ticket** that varies in colors: **Silver** ![Silver Mileage](media/silvermileage.png ':size=50')from standard banner, and **Golden** ![Golden Mileage](media/goldenmileage.png ':size=50') from special banners. Both types of tickets are **permanent** and are not tied to a specific event banner either.
 After you gather a total of 200 **Silver** or **Golden** tickets, you can use them to buy a copy or duplicate of the Nikke of your choosing in the **mileage shop**.
 
 On top of that, the currency you use to pull in event banners, **Rainbow Vouchers** ![Rainbow Vouchers](media/rainbowvoucher.png ':size=50')are really easy to get, and you can buy them at any time, each at 300 gems… it may look expensive, but daily gem income is to the very least 200 gems! 

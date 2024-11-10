@@ -1,6 +1,6 @@
 # **Late Game**  
 
-**This will be a pretty quick section,** **as the Late Game stage happens between the time you reach synchro level 241+ and when you clear the Chapter 22-36 Boss Nihilister,** **a second time**. **This then unlocks the new Interception, the [Anomaly](#anomaly-interception-\(ai\)) difficulty.**
+**This will be a pretty quick section,** **as the Late Game stage happens between the time you reach synchro level 241+ and when you clear the Chapter 22-36 Boss Nihilister,** **a second time**. **This then unlocks the new Interception, the [Anomaly](#anomaly-interception-ai) difficulty.**
 
 ### **Mother Whale, Chapter 21 Boss** 
 
@@ -153,12 +153,12 @@ If you shoot it when you’re full burst, you have to command all Nikkes to take
 
 **Each boss comes from the previous Solo Raids with increased difficulty for non level 301+ players. This is because even if the level cap is 400, it’s not fixed like the normal Solo Raids.**   
 **This might sound like a bad thing but,** **at the same time** **even the first stage of AI, Stage 1, gives better rewards than Special Interception**.   
-Another really cool thing is the ![customlockicon](media/customlockicon.png) **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
+Another really cool thing is the ![customlockicon](media/customlockicon.png ':size=25') **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
 
 **There are 5 bosses in total, each with the same set of rewards and also  Boss-specific rewards linked to them depending on what you need.**   
 **All of them are guaranteed to drop from Stage 1:**   
-**Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png) and gear pity boxes ![gear box](media/icon/gearpityboxicon.png) with the exception of Kraken, as it does not drop gear pity boxes.**  
-**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png) (rocks) per clear depending on  the Stage you can reach.**
+**Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png ':size=25') and gear pity boxes ![gear box](media/icon/gearpityboxicon.png ':size=25') with the exception of Kraken, as it does not drop gear pity boxes.**  
+**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png ':size=25') (rocks) per clear depending on  the Stage you can reach.**
 
 **However, the main benefit in doing Anomaly Interception is that you can choose what boss you want to fight (which gives you respective drops depending on what you need).** 
 
