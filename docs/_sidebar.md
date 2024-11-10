@@ -1,4 +1,4 @@
-  - [Frontpage](frontpage.md)
+  - [Main](/)
   - [Introduction](introduction.md)
   - [Mlem](mlem.md)
   - [FAQ](faq.md)
@@ -12,6 +12,10 @@
   - [End Game](endgame.md)
   - [Changelog](changelog.md)
 
-  - test
-  - [Master](master.md)
-  - [README](README.md)
+Written by *tio_romano*
+
+Developed by *cowsnake*
+
+Maintained by *tio_romano, Nit, illusion9919*
+
+![Megaguide Banner](media/megaguide_banner.jpg)
