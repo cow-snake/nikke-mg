@@ -1,12 +1,12 @@
 # **Late Game**  
 
-**This will be a pretty quick section,** **as the Late Game stage happens between the time you reach synchro level 241+ and when you clear the Chapter 22-36 Boss Nihilister,** **a second time**. **This then unlocks the new Interception, the [Anomaly](#anomaly-interception-ai) difficulty.**
+**This will be a pretty quick section,** **as the Late Game stage happens between the time you reach synchro level 241+ and when you clear the Chapter 22-36 Boss <span class="color-red">Nihilister</span>,** **a second time**. **This then unlocks the new Interception, the [Anomaly](#anomaly-interception-ai) difficulty.**
 
 ### **Mother Whale, Chapter 21 Boss** 
 
 You probably didn’t feel any real challenge, at least not up until now. Synchro levels or combat power won't solve this one. Meet the **Mother Whale**, the second hardest boss in the game. This boss **needs** you to play manually.  
 
-![motherwhale](media/motherwhale.png ':size=300')
+![motherwhale](media/motherwhale.png ':size=300 :no-zoom')
 
 Profile  
 Class: Tyrant  
@@ -23,7 +23,7 @@ Range: Far
 
    For the first wave, she generates an **Elemental Shield** that protects her, but it can be destroyed by killing all first wave mobs on the ground. You have to kill them fast, otherwise she calls the second wave of mobs and it becomes increasingly more difficult.
 
-   ![motherwhalemob](media/motherwhalemob.png ':size=450')
+   ![motherwhalemob](media/motherwhalemob.png ':size=450 :no-zoom')
 
    *The Mob only receives 1 damage per shot (courtesy: kampretlordz gameplay)*
 
@@ -35,7 +35,7 @@ Range: Far
 4. **Calling out Master-class mobs that can wipe all your Nikkes**   
    This is by far the most annoying attack. She calls Master-class raptures which are tanky and hard to kill. They also do barrage attacks that deal damage to all your Nikkes. This cannot be avoided or prevented, even if you try to kill them before they can attack. Fortunately, this attack can be taunted to one Nikke, so you can avoid being completely wiped out.
 
-   ![motherwhalemobwipe](media/motherwhalemobwipe.png ':size=450')
+   ![motherwhalemobwipe](media/motherwhalemobwipe.png ':size=450 :no-zoom')
 
    *Master mobs are barragging a random Nikke (courtesy: kampretlordz gameplay)*
 
@@ -85,11 +85,11 @@ Elemental Damage is important because this stat is one of the most valuable in O
 
 As per default, your Nikke will receive 10% Elemental Damage bonus stat, which then can be improved by equipping cubes and getting OL (Overload) stats, which on paper shows that you can receive up to 145% of Elemental Damage. These stats exclude the skills of the Nikke. This is why Elemental Damage is a big help when you’re trying to push as far as you can in campaign stages (normal/hard) with deficits.
 
-### **Mirror Container, Chapter 32 Boss** 
+### **Mirror Container, Chapter 32 Boss**
 
-The hardest boss to date (as of 11/04/2024). Has **defense buff mechanics** and parts that you must destroy with only **1 strong shot**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
+The hardest boss to date (as of 11/04/2024). Has **defense buff mechanics** and parts that you must destroy with only **<span class="color-red">1 strong shot</span>**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
 
-![mirrorcontainer](media/mirrorcontainer.png ':size=300')
+![mirrorcontainer](media/mirrorcontainer.png ':size=300 :no-zoom')
 
 Profile  
 Class: Tyrant  
@@ -107,7 +107,7 @@ Range: Far
 
    *Spawns Glass Slippers to buff his DEF (Courtesy: Kontossis on youtube)*
 
-   It comes back and **buffs itself with 360% DEF from the slippers**. This defense buff makes you hit like a wet noodle. First, it shoots a crystal that deals AoE damage, then it will spawn the slippers and go into attack mode. You can tell when the slippers are going to attack when they start glowing blue. They have to be destroyed by **a single strong shot.** Repeat this 4 times until all the slippers are destroyed.
+   It comes back and **<span class="color-red">buffs itself with 360% DEF from the slippers</span>**. This defense buff makes you hit like a wet noodle. First, it shoots a crystal that deals AoE damage, then it will spawn the slippers and go into attack mode. You can tell when the slippers are going to attack when they start glowing blue. They have to be destroyed by **<span class="color-red">a single strong shot</span>.** Repeat this 4 times until all the slippers are destroyed. Each shot removes 1 layer (90%) of the DEF buff.
 
    If you can’t destroy slippers, just shoot to stun it because slippers attack mode deals huge damage to your Nikke (not recommended if your Nikke is CP high diff).   
      
@@ -120,17 +120,17 @@ Range: Far
 
 **What Nikkes to bring:**
 
-1. **Electric type DPS**  
+1. **<span class="color-pink">Electric type DPS</span>**  
    Obviously for optimal damage and to cancel the Elemental Shield. Note that you have to pick DPS because of his \#3 attack pattern mechanic. You can try Naga with a lot of buffs but it’s not recommended for higher diff CP.
 
    Anis: Sparkling Summer is the best choice here, you can pair her with any Electric DPS Nikke to support her.
 
-2. **Snipers / RL’s**  
+2. **<span class="color-red">Snipers</span> / <span class="color-orange">RL’s</span>**  
    Remember that you have to destroy Glass Slippers in one shot, so non charged weapons are not recommended. Slippers will input 1 pellet from any weapon as damage, then it will be immune. Snipers, when charged, can deal huge damage in one shot.
 
    You can imagine that Slipper's HP is 4 million, SG’s per shot deals 4 million damage, but it’s divided into 10 as SG’s fire 10 pellets per shot. Snipers could do 4 million damage just from one shot.
 
-3. **Healers (optional)**   
+3. **<span class="color-green">Healers (optional)</span>**   
    If you want to tank Phase 1 slippers or AoE crystal, you should consider bringing a semi/healer as a companion. The best choice is Naga as she is Electric, too. 
 
 The best Nikkes against Mirror Container are Ein and Cinderella. They are designed to fight this boss. They fulfill the \#1 and \#2 requirements which are Electric type and Snipers. Ein’s skill deals true damage so she ignores Mirror Container’s DEF buff.
@@ -149,24 +149,24 @@ If you shoot it when you’re full burst, you have to command all Nikkes to take
 
 ## **Anomaly Interception (AI)** 
 
-**Unlocked after Chapter 22 is completed, or stage 22-36 Nihilister pt2.** This is the current non seasonal endgame content. 
+**Unlocked after Chapter 22 is completed, or stage 22-36 <span class="color-red">Nihilister pt2</span>**. This is the current non seasonal endgame content. 
 
 **Each boss comes from the previous Solo Raids with increased difficulty for non level 301+ players. This is because even if the level cap is 400, it’s not fixed like the normal Solo Raids.**   
-**This might sound like a bad thing but,** **at the same time** **even the first stage of AI, Stage 1, gives better rewards than Special Interception**.   
-Another really cool thing is the ![customlockicon](media/customlockicon.png ':size=25') **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
+**This might sound like a bad thing but,** **at the same time** **<span class="color-yellow">even the first stage of AI, Stage 1, gives better rewards than Special Interception</span>**.   
+Another really cool thing is the ![customlockicon](media/customlockicon.png ':size=25 :no-zoom') **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
 
 **There are 5 bosses in total, each with the same set of rewards and also  Boss-specific rewards linked to them depending on what you need.**   
 **All of them are guaranteed to drop from Stage 1:**   
-**Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png ':size=25') and gear pity boxes ![gear box](media/icon/gearpityboxicon.png ':size=25') with the exception of Kraken, as it does not drop gear pity boxes.**  
-**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png ':size=25') (rocks) per clear depending on  the Stage you can reach.**
+**Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png ':size=25 :no-zoom') and gear pity boxes ![gear box](media/icon/gearpityboxicon.png ':size=25 :no-zoom') with the exception of <span class="color-green">Kraken</span>, as it does not drop gear pity boxes.**  
+**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png ':size=25 :no-zoom') (rocks) per clear depending on  the Stage you can reach.**
 
 **However, the main benefit in doing Anomaly Interception is that you can choose what boss you want to fight (which gives you respective drops depending on what you need).** 
 
-**Kraken ![wind](media/icon/elementwindicon.png) custom modules and custom module pity boxes but does NOT drop t9m gear**  
-**Ultra ![iron](media/icon/elementironicon.png) drops t9m helmet and helmet pity boxes**  
-**Indivillia ![fire](media/icon/elementfireicon.png) drops t9m chest and chest pity boxes**  
-**Mirror Container ![electric](media/icon/elementelectricicon.png) drops t9m gauntlets and gauntlet pity boxes**  
-**Harvester ![water](media/icon/elementwatericon.png) drops t9m boot and boot pit boxes**  
+**<span class="color-green">Kraken</span> ![wind](media/icon/elementwindicon.png) custom modules and custom module pity boxes but does NOT drop t9m gear**  
+**<span class="color-orange">Ultra</span> ![iron](media/icon/elementironicon.png) drops t9m helmet and helmet pity boxes**  
+**<span class="color-red">Indivillia</span> ![fire](media/icon/elementfireicon.png) drops t9m chest and chest pity boxes**  
+**<span class="color-purple">Mirror Container</span> ![electric](media/icon/elementelectricicon.png) drops t9m gauntlets and gauntlet pity boxes**  
+**<span class="color-blue">Harvester</span> ![water](media/icon/elementwatericon.png) drops t9m boot and boot pit boxes**  
 
 ![interceptionaidrop](media/interceptionaidrop.png)
 
@@ -174,7 +174,7 @@ Another really cool thing is the ![customlockicon](media/customlockicon.png ':si
 
 **Guides for the boss:**
 
-**Kraken**
+**<span class="color-green">Kraken</span>**
 
 The easiest boss that you encounter in AI. His main body is in the middle. His tentacle is the core. Punching bag boss at it’s finest.
 
@@ -199,7 +199,7 @@ Burst 1 and 2 will be Liter and Crown, then you can choose Wind Burst 3 Nikke as
 2. Boomer Finger: Scarlet Black Shadow with Sakura: Bloom in Summer. Flex will be Naga. you can try Noir as an alternative Naga and make the run less sweaty.  
 3. SG team with Noir and Guilty works against this squid, with Blanc as healer. They can deals decent damage because of the big target of the main body.
 
-**Ultra** 
+**<span class="color-orange">Ultra</span>** 
 
 This Ultra has a destructible core unlike campaign counterparts, so his core isn’t permanent (because dev knows this boss is too biased as Red Hood’s punching bag). He never moves so basically acts like a punching bag for Pierce-type Nikkes. 
 
@@ -225,17 +225,17 @@ It will restore his core at phase 3, 5, 7 (need reference), so be prepared to ma
 
 You can put all Iron Nikkes in your team. For example, a team consists of Liter and Crown as burst 1 and 2, for burst 3 DPS, you pick Red Hood, then choose between Snow White or Maxwell (which have higher Elemental Damage OL line). For flex you can pick Helm: Aquamarine to amplify your team damage. If you need survival, you can take out one of the Iron-type Nikkes, for example Naga is a good choice for extra core damage.
 
-**Mirror Container**
+**<span class="color-purple">Mirror Container</span>**
 
 Basically it's the Mirror Container in Chapter 32 (read above), but easier. Core is permanent, so you can deal more damage. Glass Slippers only show up in 2 cycles. The most important difference is that **it will not restore Slippers that buff DEF by 360% when going into its Destruction Mode.** 
 
 Team Building gameplay will be the same as the Mirror Container Chapter 32 Boss. Ein with Anis: Sparkling Summer is your best choice against it. Example comp would be Burst 1 and 2 Rouge with Crown and if you want to optimize Anis’s damage, you can put Liter. Flex will be Exia with her Favorite Item or Naga.
 
-**Harvester**
+**<span class="color-blue">Harvester</span>**
 
 This spider likes to call mobs during the fight. These mobs distract your Nikke and the attacks are the kamikaze type so if you ignore them you’re likely to lose a Nikke or two. The difference from campaign mode Harvester is that this spider has a core on his head and you need to destroy it first to access the core.
 
-**Indivillia**
+**<span class="color-red">Indivillia</span>**
 
 Hardest boss that you can encounter in AI. Has an attack that is unavoidable, so your iron supporters (Liter and Crown) have a high chance of dying. Has the highest base Defense stats and moves around a lot so hitting the core can be difficult.
 

@@ -85,6 +85,6 @@ GitHub: Soon™
 
 **Disclaimer: I am not a vip member / staff / mod / owner of any of the sites or Discords listed on useful links, however, we recommend the usage of their guides and gameplay question channels.**
 
-**If you’re part of any of the sites or Discords servers above and want the links to be removed from this guide,please contact us via Discord and we will immediately remove them.**
+**If you’re part of any of the sites or Discords servers above and want the links to be removed from this guide, <span class="color-red">please contact us via Discord</span> and we will immediately remove them.**
 
 **In case one of the links breaks, please let us know via Discord.**

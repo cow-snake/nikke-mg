@@ -4,9 +4,9 @@ NIKKE’s Major Server ranking content
 
 **Solo Raid (SR)** follows an individual ranking system.The rewards vary from **gems, dolls and cube materials.** Depending on your rank, you can also receive a corresponding **frame**.
 
-**Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png ':size=25')** which are used in the Union Shop.
+**Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png ':size=25 :no-zoom')** which are used in the Union Shop.
 
-**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are broken cores ![broken cores](media/icon/brokencoreicon.png ':size=25')** which are used in the Recycling Shop.
+**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** which are used in the Recycling Shop.
 
 ## **Solo Raid** 
 
@@ -16,7 +16,7 @@ If you do not see this icon on your main screen, it means there isn’t a Solo R
 
 This is a monthly “event”, which will feature a special BOSS (Tyrant-class) Rapture. Solo Raid has a total of 7 difficulties, and a challenge mode, each with increased difficulty and rewards.
 
-**You receive 3 entries every day.** Each entry allows you to utilize up to 5 separate teams to beat the boss. If you can clear all difficulties up to 7, you can then just proceed to clearing difficulty 5 next reset as the rewards will be the same had you done difficulty 7 \- and then use quick battle to finish the rest of the runs.
+**<span class="color-orange">You receive 3 entries every day</span>.** Each entry allows you to utilize up to 5 separate teams to beat the boss. If you can clear all difficulties up to 7, you can then just proceed to clearing difficulty 5 next reset as the rewards will be the same had you done difficulty 7 \- and then use quick battle to finish the rest of the runs.
 
 **First difficulty should be easy with synchro 41, and each subsequent difficulty requires 20 synchro levels more than the previous Synchro 160 with one or two level 200 NIKKEs should be enough for difficulty 7 clear.**
 

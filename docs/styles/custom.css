@@ -1,0 +1,83 @@
+:root {
+  --color-nikke-blue: #3eafff;
+
+  --color-guide-blue: var(--color-nikke-blue);
+  --color-guide-red: #ff6666;
+  --color-guide-gold: #ddb742;
+  --color-guide-pink: #e664e6;
+  --color-guide-purple: #c773ff;
+  --color-guide-orange: #eb8d00;
+  --color-guide-green: #72ff00;
+  --color-guide-yellow: #f8f800;
+  --color-guide-gray: #999;
+
+  --theme-hue: 205;
+  --theme-saturation: 100%;
+  --theme-lightness: 62%;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-guide-blue: #0973b9;
+    --color-guide-red: #ee0000;
+    --color-guide-gold: #90731a;
+    --color-guide-pink: #cc21cc;
+    --color-guide-purple: #ad31ff;
+    --color-guide-orange: #ab6600;
+    --color-guide-green: #3d8700;
+    --color-guide-yellow: #7a7a00;
+    --color-guide-gray: #767676;
+
+
+    --theme-hue: 204;
+    --theme-saturation: 91%;
+    --theme-lightness: 38%;
+  }
+}
+
+/* Center close button vertically next to search input */
+.search .clear-button.show {
+  align-self: center;
+}
+
+/* Adjust color of links for consistency */
+.markdown-section :not(:is(h1, h2, h3, h4, h5)) :is(a, a:hover, a > strong) {
+  color: var(--color-nikke-blue);
+}
+
+/* Utility classes for color coding */
+.color-red {
+  color: var(--color-guide-red);
+}
+
+.color-gold {
+  color: var(--color-guide-gold);
+}
+
+.color-pink {
+  color: var(--color-guide-pink);
+}
+
+.color-purple {
+  color: var(--color-guide-purple);
+}
+
+.color-orange {
+  color: var(--color-guide-orange);
+}
+
+.color-green {
+  color: var(--color-guide-green);
+}
+
+.color-yellow {
+  color: var(--color-guide-yellow);
+}
+
+.color-blue {
+  color: var(--color-guide-blue);
+}
+
+.color-gray {
+  color: var(--color-guide-gray);
+}
