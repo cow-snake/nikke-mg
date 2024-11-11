@@ -33,7 +33,7 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 19-15: Introducing dagger (hitcount ball thrower) \+ Sentry (chain)  
 20-31: Nihilister  
 **21-29: Glasses \+ Bullwhip (seahorse) \+ Bronchus, prevent you from meeting Mother Whale**  
-**21-32:** [**The Mother Whale**](#mother-whale,-chapter-21-boss)  
+**21-32: [**The Mother Whale**](lategame.md#mother-whale-chapter-21-boss)**  
 22-27: Sniper \+ Cube in high terrain  
 22-36: Nihilister  
 **23-9: Barrage volley with barbells (thick elites)**  
@@ -56,7 +56,7 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 31-33: Insanely tanky stage with Sentry \+ Starfish  
 **31-35: Boss is Barbell (40% def up) with 3 healers Elite. GG**  
 **32-32: Launcher silencing you**  
-**32-33: [Mirror Container](#mirror-container,-chapter-32-boss)**  
+**32-33: [Mirror Container](lategame.md#mirror-container-chapter-32-boss)**  
 33-5: Introduction of volleyballs   
 **33-20: 30-6 but Iron**  
 **33-20B-1: 6 Bronchus base defense stage**   

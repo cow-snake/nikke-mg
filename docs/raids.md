@@ -1,12 +1,12 @@
-# **Raids** 
+# **Raids**
 
-NIKKE’s Major Server ranking content 
+NIKKE’s Major Server ranking content
 
-**Solo Raid (SR)** follows an individual ranking system.The rewards vary from **gems, dolls and cube materials.** Depending on your rank, you can also receive a corresponding **frame**. 
+**Solo Raid (SR)** follows an individual ranking system.The rewards vary from **gems, dolls and cube materials.** Depending on your rank, you can also receive a corresponding **frame**.
 
-**Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png)** which are used in the Union Shop.
+**Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png ':size=25')** which are used in the Union Shop.
 
-**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are broken cores ![broken cores](media/icon/brokencoreicon.png)** which are used in the Recycling Shop**.**
+**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are broken cores ![broken cores](media/icon/brokencoreicon.png ':size=25')** which are used in the Recycling Shop.
 
 ## **Solo Raid** 
 

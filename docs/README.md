@@ -76,7 +76,7 @@ GitHub: Soon™
 
 | Community      |
 | ----------- |
-| [Official NIKKE Discord](https://discord.gg/nikke-en)      |
+|[Official NIKKE Discord](https://discord.gg/nikke-en)|
 |[Official NIKKE Discord](https://discord.gg/nikke-en)|
 |[NIKKE Community Discord](https://discord.gg/nikke)|
 |[NIKKE.gg Discord](https://discord.gg/nikkegg)|
