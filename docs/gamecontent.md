@@ -30,11 +30,11 @@ Or also known as the **main lobby**. All menus, events, and sub menus you can ac
 
 This is the new player event which is pretty common in all gacha games, complete missions for the day, and receive rewards. Once you finish all you receive a **SSR NIKKE, Privaty**. 
 
-### **Alice Diary**
+### **<span class="color-pink">Alice Diary</span>**
 
 ![alicediary](media/alicediary.png)
 
-Alice diary is a limited event that rewards you with **Alice** when you clear chapter 11, and lots more rewards as the days go on.   
+Alice diary is a limited event that rewards you with **<span class="color-pink">Alice</span>** when you clear chapter 11, and lots more rewards as the days go on.   
 **It is a time limited event and unfortunately, ends on november 31, 2024\.**
 
 ### **BlaBla menu**
@@ -57,7 +57,7 @@ Updated mini game menu! You can play M.O.G. (Memory of Goddess), For the King, G
 
 ![friendsandunion](media/friendsandunion.png)
 
-**Friends** is where you can add… friends! Add up to 30, exchange social points ![socialpointsicon](media/icon/socialpointsicon.png ':size=25') daily. Use social points to pull in the social point recruit banner. Reminder that the social point banner does not have pilgrims on it.
+**Friends** is where you can add… friends! Add up to 30, exchange social points ![socialpointsicon](media/icon/socialpointsicon.png ':size=25 :no-zoom') daily. Use social points to pull in the social point recruit banner. Reminder that the social point banner does not have pilgrims on it.
 
 **Union** is a type of guild in NIKKE. I advise you to join one as soon as you unlock it.
 
@@ -77,22 +77,22 @@ If there is an event ongoing, it will always appear below the Campaign button.
 
 **Regardless of what length the event is, all events have:**
 
-**5 event stage entries, that refresh daily**  
-**Boss challenge, one entry per day. Pretty simple: You fight a boss in different difficulties, and receive rewards. Borrowed NIKKEs can be used here with no restrictions.**  
-**Mission tab, missions completion tied to event stages clears. Rewards include: Event lobby, a battery used in the event archive, and event currency.**  
-**Shop, with really good goodies**  
-**Record repository, to replay the event story and/or cutscenes**   
-**Reward boost. When using NIKKEs that have the reward boost, you can win up to 100% increased event currency when clearing an event stage.**
+**<span class="color-yellow">5 event stage entries, that refresh daily</span>**  
+**<span class="color-orange">Boss challenge, one entry per day. Pretty simple: You fight a boss in different difficulties, and receive rewards. Borrowed NIKKEs can be used here with no restrictions.</span>**  
+**<span class="color-blue">Mission tab, missions completion tied to event stages clears. Rewards include: Event lobby, a battery used in the event archive, and event currency.</span>**  
+**<span class="color-green">Shop, with really good goodies</span>**  
+**<span class="color-gold">Record repository, to replay the event story and/or cutscenes</span>**   
+**<span class="color-red">Reward boost. When using NIKKEs that have the reward boost, you can win up to 100% increased event currency when clearing an event stage.</span>**
 
 **Example of a 14 days event UI**
 
 ![event14dayui](media/event14dayui.png)
 
-**The maximum reward boost chance you can get is 100%, minimum is 60% if you only own SR NIKKEs.**   
-**That means, when you clear a stage, you have at least 60% to a 100% chance of receiving double the amount of event currency. The bonus doesn't apply to cases or first time rewards.**
+**<span class="color-red">The maximum reward boost chance you can get is 100%, minimum is 60% if you only own SR NIKKEs.</span>**   
+**That means, when you clear a stage, <span class="color-red">you have at least 60% to a 100% chance</span> of receiving double the amount of event currency. The bonus doesn't apply to cases or first time rewards.**
 
 Just like the campaign, the events are also divided in **Normal and Hard stages.** Total of 12 stages per difficulty.   
-**Clear all stages, and after that you will quick battle the stage 1-11, 2-11, or H2-11, depending on the highest hard difficulty available.**   
+**Clear all stages, and after that you will quick battle the stage <span class="color-green">1-11</span>, <span class="color-green">2-11</span>, or <span class="color-green">H2-11</span>, depending on the highest hard difficulty available.**   
 **Stage x-11 gives the most core boxes,** while the other repeatable stages give less core boxes, credit or battle data.  
 
 ![eventstageui](media/eventstageui.png)
@@ -102,15 +102,15 @@ Just like the campaign, the events are also divided in **Normal and Hard stages.
 
 ### **Event shop**
 
-**First and foremost, don’t buy entries for gems until the highest difficulty is available, you will notice that there will be more entries available for purchase. Only then, buy all entries, and use them on the highest x-11 stage, that rewards 4 ![coredusticon](media/icon/coredusticon.png ':size=25') core dust crates per clear.**
+**First and foremost, <span class="color-red">don’t buy entries for gems until the highest difficulty is available, you will notice that there will be more entries available for purchase. Only then, buy all entries, and use them on the highest</span> <span class="color-green">x-11</span> <span class="color-red">stage, that rewards 4 ![coredusticon](media/icon/coredusticon.png ':size=25 :no-zoom') core dust crates per clear.</span>**
 
-**You will always be able to buy all the goodies in the shop after you use the extra entries bought with gems, so don’t worry and buy everything in blue.**
+**<span class="color-blue">You will always be able to buy all the goodies in the shop after you use the extra entries bought with gems, so don’t worry and buy everything in blue.</span>**
 
-**With the addition of Exchange Shop, Battle Data Sets and RE-Energy are a must buy. You can trade Battle data for dust cores and RE-Energy for random consoles**
+**<span class="color-pink">With the addition of Exchange Shop, Battle Data Sets and RE-Energy are a must buy. You can trade Battle data for dust cores and RE-Energy for random consoles</span>**
 
-**x30 core dust is what you will buy after everything is sold out**
+**<span class="color-green">x30 core dust is what you will buy after everything is sold out</span>**
 
-**On the last day, after you bought core dust and still have event currency, you can buy the 2.000 credits. Even if you don’t, after the event’s end the currency is converted into credits and sent to your mail.**
+**<span class="color-orange">On the last day, after you bought core dust and still have event currency, you can buy the 2.000 credits. Even if you don’t, after the event’s end the currency is converted into credits and sent to your mail.</span>**
 
 ![eventshopui](media/eventshopui.png)
 
@@ -137,7 +137,7 @@ The **$4.99 supply pack** is also a good addition if you can buy it.
 
 Normal events do not have special skin passes with them, however bigger events that last at least 3 weeks always have a **Special Skin Pass**. 
 
-If there is one available, **buy the event special pass over the normal pass**, since they give **Rainbow Vouchers** instead of **Standard Vouchers.** Buying both is nice, but keep your IRL savings in check, they cost **$19.99 each.**   
+If there is one available, **<span class="color-red">buy the event special pass over the normal pass</span>**, since they give **<span class="color-purple">Rainbow Vouchers</span>** instead of **Standard Vouchers.** Buying both is nice, but keep your IRL savings in check, they cost **$19.99 each.**   
 
 ![missionpassbanner](media/missionpassbanner.png)
 
@@ -148,14 +148,14 @@ If there is one available, **buy the event special pass over the normal pass**, 
 ![shopbanner](media/shopbanner.png)
 
 **General Shop**   
-**Buy the free goodie, and dust core boxes ![coredusticon](media/icon/coredusticon.png ':size=25') sold for CREDITS**
+**Buy the free goodie, and dust core boxes ![coredusticon](media/icon/coredusticon.png ':size=25 :no-zoom') sold for <span class="color-gold">CREDITS</span>**
 
 The profile custom pack x5 is not that good value, but ask your credit’s balance: Style points? Style points!
 
 **Resets daily**  
 ![generalshopui](media/generalshopui.png)
 
-**Union Shop** ![unionchipicon](media/icon/unionchipicon.png ':size=25')
+**Union Shop** ![unionchipicon](media/icon/unionchipicon.png ':size=25 :no-zoom')
 
 Here you use Union Chips . You get this currency from the [Union Raid](raids.md#union-raid). You can buy duplicates of the [Liberation NIKKEs](#elevator-liberation), but what you should really buy are **cube materials**. 
 
@@ -165,45 +165,46 @@ Here you use Union Chips . You get this currency from the [Union Raid](raids.md#
 
 ![unionshopui](media/unionshopui.png)
 
-**Body Label Shop ![bodylabelicon](media/icon/bodylabelicon.png ':size=25')**  
+**Body Label Shop ![bodylabelicon](media/icon/bodylabelicon.png ':size=25 :no-zoom')**  
 This is the SSR mold shop for almost every player.
 
 **Resets daily**  
 ![bodylabelshopui](media/bodylabelshopui.png)
-**The only reason why pilgrim consoles could be worth buying would be that you already have all useful units core \+7, and molds are useless to you. If you don’t have all NIKKEs, buy MOLDS!**
+**<span class="color-green">The only reason why pilgrim consoles could be worth buying would be that you already have all useful units core \+7, and molds are useless to you. If you don’t have all NIKKEs, buy</span> <span class="color-gold">MOLDS!</span>**
 
-**Arena Shop ![arenavoucher](media/icon/arenavouchericon.png  ':size=25')**  
+**Arena Shop ![arenavoucher](media/icon/arenavouchericon.png  ':size=25 :no-zoom')**  
 Use arena exchange vouchers, from the [Rookie Arena](#rookie-arena) and [SP arena](#sp-arena) here. 
 
 **Resets daily**  
 ![arenashopui](media/arenashopui.png)
 
-**Mileage Shop ![Silver Mileage Ticket](media/silvermileage.png ':size=25') ![Golden Mileage Ticket](media/goldenmileage.png ':size=25')**  
+**Mileage Shop ![Silver Mileage Ticket](media/silvermileage.png ':size=25 :no-zoom') ![Golden Mileage Ticket](media/goldenmileage.png ':size=25 :no-zoom')**  
 The “Pity” shop. 
 
 **Resets daily**  
 ![mileageshopui](media/mileageshopui.png)
 
-**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25')**  
-Once you do [COOP](raids.md#coop), you will receive **broken cores**, the currency used here. 
+**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25 :no-zoom')**  
+Once you do [COOP](raids.md#coop), you will receive **<span class="color-red">broken cores</span>**, the currency used here. 
 
 **Resets weekly**  
 ![recyclingshopui](media/recyclingshopui.png)
 
 **Exchange Shop**
 
-**New shop introduced after Cinderella Patch.** 
+**New shop introduced after Cinderella Patch.**
 
 **Unlocked with the completion of Chapter 21**
 
-**You can trade 3550k Battle Data Sets ![battledataicon](media/icon/battledataicon.png ':size=25') for 100 Core Dust ![core dust](media/icon/coredusticon.png ':size=25') and 30 RE-Energy![reenergyicon](media/icon/reenergyicon.png ':size=25') for a Random Console Pack that rewards any type of console.**  
-**Always trade Battle Data Sets for core dust, but not all, save some Battle Data to level afterwards.**
+**You can trade <span class="color-blue">3550k Battle Data Sets</span> ![battledataicon](media/icon/battledataicon.png ':size=25 :no-zoom') for <span class="color-red">100 Core Dust</span> ![core dust](media/icon/coredusticon.png ':size=25 :no-zoom') and <span class="color-yellow">30 RE-Energy</span>![reenergyicon](media/icon/reenergyicon.png ':size=25 :no-zoom') for a <span class="color-pink">Random Console Pack</span> that rewards any type of console.**  
+**<span class="color-red">Always trade</span> <span class="color-blue">Battle Data Sets</span> <span class="color-red">for core dust, but not all, save some</span> <span class="color-blue">Battle Data</span> <span class="color-red">to level afterwards.</span>**
 
-**RE-Energy is random, but for sure worth it, however only exchange if you reached the [General research](#recycling-room) cap, and have spare RE-Energy. After you do this once, wait until you reach the next synchro bracket and General research cap to exchange again.**
+**<span class="color-yellow">RE-Energy is random, but for sure worth it</span>, however only exchange if you reached the [General research](#recycling-room) cap, and have spare RE-Energy. After you do this once, wait until you reach the next synchro bracket and General research cap to exchange again.**
 
-**Battle Data for Credits is not worth it.**
+**<span class="color-blue">Battle Data</span> for <span class="color-gold">Credits</span> is not worth it.**
 
-**Does not reset**  
+**Does not reset**
+
 ![exchangeshopui](media/exchangeshopui.png)
 
 # **Outpost**
@@ -230,7 +231,7 @@ This is the place where you will find stuff related to social interactions, musi
 ![commandcenterroom](media/commandcenterroom.png) 
 
 **Recollection** is the menu where you can access and re-watch all the **story cutscenes** you have unlocked, brief encounters, that are the little stories you can see by interacting with the buildings you have constructed, as well as the:  
-**Event Archive:** where you can replay old events, which require you to spend a memory film ![memoryfilmicon](media/icon/memoryfilmicon.png ':size=25') - you receive one memory film from each new event you clear all missions - and collect some of the rewards, such as the **event music** and the **event special lobby**. You can also explore the event map and play minigames!
+**Event Archive:** where you can replay old events, which require you to spend a memory film ![memoryfilmicon](media/icon/memoryfilmicon.png ':size=25 :no-zoom') - you receive one memory film from each new event you clear all missions - and collect some of the rewards, such as the **event music** and the **event special lobby**. You can also explore the event map and play minigames!
 
 **Lost Relics** is where you can view the things you’ve collected from the story maps, once you collect a few of them, you will get gems as a reward. There is also a couple of lore inside each of the relics you grab, so if you like the story so far, be sure to read them!
 
@@ -253,11 +254,11 @@ Limit break level 2, **LB2,** affection max level= **30**. This is the max level
 
 ![tacticsacademybanner](media/tacticsacademybanner.png)
 
-This is the content you **NEED** to upgrade **ASAP**. **This takes priority over everything, even above NIKKEs levels.**  
+This is the content you **<span class="color-red">NEED</span>** to upgrade **ASAP**. **This takes priority over everything, even above NIKKEs levels.**  
 Each class will cost credits, and you unlock really good stuff, such as:   
-**Building slots, outpost defense income increase, synchro device slots, increased rewards from interception, and more importantly, upgrade your bulletin board (dispatch) to include [doll materials and favorite item](#collection-and-favorite-items) special dispatch missions.**  
-    
-All tactics academy classes **have a credit cost** and **additional requirement** to be unlocked, this is the list for them  
+**Building slots, outpost defense income increase, synchro device slots, increased rewards from interception, and more importantly, upgrade your bulletin board (dispatch) to include [<span class="blue">doll materials and favorite item</span>](#collection-and-favorite-items) special dispatch missions.**  
+
+All tactics academy classes **have a <span class="color-gold">credit cost</span>** and **additional requirement** to be unlocked, this is the list for them  
 **Class A-1:** no requirement  
 **Class B-2:** Train station, **chapter 3**  
 **Class C-3:** Generator, **chapter 4**  
@@ -278,7 +279,7 @@ Class M is the last one. **Congratulations, you’re done with tactics academy!*
 ![synchodevicebanner](media/synchodevicebanner.png)
 
 The synchro device is available when you clear 4-15, but you will only need it when you unlock the manufacturer towers in 7-13.  
-**Do not buy slots with gems**, the tactics academy will give you enough.
+**<span class="color-red">Do not buy slots with gems</span>**, the tactics academy will give you enough.
 
 Now, once you access the towers, you can do a little trick until you pass all tactics academy lessons. 
 
@@ -292,15 +293,15 @@ Don’t be fooled though, the increase is negligible.
 
 ![recyclingroomgeneral](media/recyclingroomgeneral.png)
 
-**General research RE-Energy** ![reenergyicon](media/icon/reenergyicon.png ':size=25') come from the outpost defense AFK rewards and event shops. **Increase all your NIKKEs base health points.**
+**General research RE-Energy** ![reenergyicon](media/icon/reenergyicon.png ':size=25 :no-zoom') come from the outpost defense AFK rewards and event shops. **Increase all your NIKKEs base health points.**
 
 ![recyclingroomclass](media/recyclingroomclass.png)
 
-**Attacker/Defender/Supporter Research consoles ![attackerconsoleicon](media/icon/attackerconsoleicon.png ':size=25') ![defenderconsoleicon](media/icon/defenderconsoleicon.png ':size=25') ![supporterconsoleicon](media/icon/supporterconsoleicon.png ':size=25') are obtained from events. They increase the respective class NIKKE's base health and defense points.**
+**Attacker/Defender/Supporter Research consoles ![attackerconsoleicon](media/icon/attackerconsoleicon.png ':size=25 :no-zoom') ![defenderconsoleicon](media/icon/defenderconsoleicon.png ':size=25 :no-zoom') ![supporterconsoleicon](media/icon/supporterconsoleicon.png ':size=25 :no-zoom') are obtained from events. They increase the respective class NIKKE's base health and defense points.**
 
 ![recyclingroommanufacturer](media/recyclingroommanufacturer.png)
 
-**Manufacturer Research** consoles ![elysionconsoleicon](media/icon/elysionconsoleicon.png ':size=25') ![missilisconsoleicon](media/icon/missilisconsoleicon.png ':size=25') ![tetraconsoleicon](media/icon/tetraconsoleicon.png ':size=25') ![pilgrimconsoleicon](media/pilgrimconsoleicon.png ':size=25') ![abnormalconsoleicon](media/icon/abnormalconsoleicon.png ':size=25') are obtained from events. **They increase the respectives manufacturer's NIKKE base Attack and Defense.**
+**Manufacturer Research** consoles ![elysionconsoleicon](media/icon/elysionconsoleicon.png ':size=25 :no-zoom') ![missilisconsoleicon](media/icon/missilisconsoleicon.png ':size=25 :no-zoom') ![tetraconsoleicon](media/icon/tetraconsoleicon.png ':size=25 :no-zoom') ![pilgrimconsoleicon](media/pilgrimconsoleicon.png ':size=25 :no-zoom') ![abnormalconsoleicon](media/icon/abnormalconsoleicon.png ':size=25 :no-zoom') are obtained from events. **They increase the respectives manufacturer's NIKKE base Attack and Defense.**
 
 ## **Infrastructure Core**
 
@@ -320,14 +321,14 @@ Again, sadly it's a forgotten feature. Unlock the free daily shop reset and you 
 ![elevatorbanner](media/elevatorbanner.png)
 
 More free SSR NIKKES! But they are not that strong 😢 *peak designs wasted!*  
-The NIKKEs available in the **Rehab Center** are **Guilty,** **Sin** and **Quency.** It takes **exactly 60 days** to “liberate” the NIKKE of your choosing.  
+The NIKKEs available in the **Rehab Center** are **<span class="color-green">Guilty</span>,** **<span class="color-purple">Sin</span>** and **<span class="color-pink">Quency</span>.** It takes **exactly 60 days** to “liberate” the NIKKE of your choosing.  
 **Pick based on looks!**  
 Or if you want the “*stronger*”  
-**Guilty** **\>** **Quency** **\>** **Sin**  
+**<span class="color-green">Guilty</span>** **\>** **<span class="color-pink">Quency</span>** **\>** **<span class="color-purple">Sin</span>**  
 
 ![rehabilitationui](media/rehabilitationui.png)
 
-After you clear chapter 20-31 BOSS stage, a new liberation target, **Nihilister** \-*Dragon mommy to some*\- will be available. **She won’t appear in the Rehab Center, unlike the other 3**.
+After you clear chapter 20-31 BOSS stage, a new liberation target, **<span class="color-red">Nihilister</span>** \-*Dragon mommy to some*\- will be available. **She won’t appear in the Rehab Center, unlike the other 3**.
 
 The GIF below shows how to access the “Upper World”.  
 
@@ -349,27 +350,27 @@ I hate this gem hellhole, so follow the dispatch guides of [Prydwen](https://www
 This is the menu in which you can check what NIKKEs you have, also known as the **NIKKE box.**  
 The option to filter is really complete, be it by **manufacturer, class, elemental code, weapon type, combat power(CP)… Use the filter to find the NIKKE you want more easily.**  
 **Check the image below, use the glossary to find stuff:**  
-**Visualiser, Dolls, Bond level, Recycling Room consoles, equip and upgrade gears, increase skill levels, equip cubes.**  
+**<span class="color-purple">Visualiser</span>, <span class="color-red">Dolls</span>, <span class="color-pink">Bond level</span>, <span class="color-yellow">Recycling Room consoles</span>, <span class="color-orange">equip and upgrade gears</span>, <span class="color-blue">increase skill levels</span>, <span class="color-green">equip cubes</span>.**  
 
 ![nikkescreen1](media/nikkescreen1.png)
 
-**Visualiser,** one of the best features in the game**,** where you interact with your NIKKE! See if she has **skins, replay her voice lines, check how her shooting position looks in the shooting range,** and my personal favorite**, interactive CHIBI Models!**  
+**<span class="color-purple">Visualiser</span>,** one of the best features in the game**,** where you interact with your NIKKE! See if she has **skins, replay her <span class="color-red">voice lines</span>, check how her shooting position looks in the <span class="color-green">shooting range</span>,** and my personal favorite**, interactive <span class="color-blue">CHIBI Models</span>!**  
 
 ![nikkescreen2](media/nikkescreen2.png)
 
 **Also, something important you will use pretty often, are the acronyms for limit break, this is the list for them:**  
-**LB0 \= limit break level 0**  
-**LB1 \= limit break level 1**  
-**LB2 \= limit break level 2**  
-**MLB \= max limit break.**  
-**CORE \+ \= core enhancement level**  
+**<span class="color-red">LB0 \= limit break level 0</span>**  
+**<span class="color-blue">LB1 \= limit break level 1</span>**  
+**<span class="color-green">LB2 \= limit break level 2</span>**  
+**<span class="color-orange">MLB \= max limit break.</span>**  
+**<span class="color-pink">CORE \+ \= core enhancement level</span>**  
 
-![nikkelb0](media/nikkelb0.png ':size=200') ![nikkelb1](media/nikkelb1.png ':size=200') ![nikkelb2](media/nikkelb2.png ':size=200') ![nikkemlb](media/nikkemlb.png ':size=200') ![nikkecoreplus](media/nikkecoreplus.png ':size=200')
+![nikkelb0](media/nikkelb0.png ':size=200 :no-zoom') ![nikkelb1](media/nikkelb1.png ':size=200 :no-zoom') ![nikkelb2](media/nikkelb2.png ':size=200 :no-zoom') ![nikkemlb](media/nikkemlb.png ':size=200 :no-zoom') ![nikkecoreplus](media/nikkecoreplus.png ':size=200 :no-zoom')
 
 ## **Leveling NIKKEs**
 
 The most straightforward way to increase your squad CP is to upgrade your NIKKEs level.   
-**Each level costs Credits ![creditsicon](media/creditsicon.png ':size=25') and  Battle Data Sets ![battledata](media/icon/battledataicon.png ':size=25'). Level 10 and each level bracket after will cost Core Dust ![coredust](media/icon/coredusticon.png ':size=25')**
+**Each level costs <span class="color-orange">Credits</span> ![creditsicon](media/creditsicon.png ':size=25 :no-zoom') and  <span class="color-blue">Battle Data Sets</span> ![battledata](media/icon/battledataicon.png ':size=25 :no-zoom'). Level 10 and each level bracket after will cost <span class="color-red">Core Dust</span> ![coredust](media/icon/coredusticon.png ':size=25 :no-zoom')**
 
 **What is a level bracket?** It’s a major combat power breakpoint per 20+1 levels upgraded, eg:  
 **21 ➡ ️ 41 ➡ ️ 61 ➡ ️ 81…221 ➡ ️ 241 and goes on infinitely.**  
@@ -382,7 +383,7 @@ That said, leveling is pretty simple, you get the resources and use them. Well, 
 **This is the most hated “feature” in the game. Not only is time gated, it’s also… RNG gated!**  
 Simply put, you cannot level NIKKEs past the level 160\.  
 **Does that mean 160 is the cap?**  
-**SR (purple rarity NIKKES) can’t go past level 160, however, SSR (Orange rarity NIKKEs) can be leveled further, only if they are Max Limit Break (or MLB).**
+**<span class="color-purple">SR (purple rarity NIKKES)</span> can’t go past level 160, however, <span class="color-orange">SSR (Orange rarity NIKKEs)</span> can be leveled further, only if they are Max Limit Break (or MLB).**
 
 Once you have **a total of 5 MLB NIKKEs level 200**, go to your synchro device and proceed with the tutorial.   
 **After you’re done, congratulations! You’re past the 160 wall!**
@@ -395,12 +396,12 @@ The 5 MLB NIKKEs get permanently locked to your top row in the synchro device, a
 
 ### **Credits issue**
 
-**Now I need to talk about the 301+ synchro, an almost permanent Credits issue.** This is related to the fact that credit cost to level up ramps up way too much compared to daily income of credits. 
+**Now I need to talk about the 301+ synchro, an almost permanent <span class="color-orange">Credits</span> issue.** This is related to the fact that credit cost to level up ramps up way too much compared to daily income of credits. 
 
 **You can just solve that with boxes… right?** Let’s take a quick dive into math now.  
 The calculus goes like this: You are **synchro 305\~**, chapter 32 all done, middle of hard 16, **outpost level 293**.   
-Your daily income, 23\~ hours of afk rewards, is **1.026k\~ credits**. The credits cost to level up to 306 is **3.809k**.   
-And so, without opening boxes, not factoring in events/dailies or any other credit income, you need to wait **90 hours, or use 90 ![creditcase](media/creditcase.png ':size=25') 1 hour credit case, per level.**  
+Your daily income, 23\~ hours of afk rewards, is **<span class="color-orange">1.026k\~ credits</span>**. The credits cost to level up to 306 is **<span class="color-orange">3.809k</span>**.   
+And so, without opening boxes, not factoring in events/dailies or any other credit income, you need to wait **90 hours, or use 90 ![creditcase](media/creditcase.png ':size=25 :no-zoom') 1 hour credit case, per level.**  
 **The thing is, that wouldn’t be so bad if you did not need to spend credits on gear.**   
 **The solution?** At the moment, there isn’t one. Some that are not definitive: Neglect upgrading gears, get more credit boxes with real money… this one really sucks. Have you found a solution? Let us know in our Discord!
 
@@ -408,14 +409,14 @@ And so, without opening boxes, not factoring in events/dailies or any other cred
 
 ### **And yet, another core bracket! Apply to 350 and above**
 
-Synchro level 350 and above starts to increase **core** cost per 50 levels. Each upgrade costs 11.000 from 350 onwards until 400, that increases the cost by 1.000 cores once more.  
-**synchro 350 to 351: 11.000 ![coredustsingleicon](media/icon/coredustsingleicon.png ':size=25') ➡ synchro 400 to 401: 12.000 ![coredustsingleicon](media/icon/coredustsingleicon.png ':size=25') and so on.** 
+Synchro level 350 and above starts to increase **<span class="color-red">core</span>** cost per 50 levels. Each upgrade costs 11.000 from 350 onwards until 400, that increases the cost by 1.000 cores once more.  
+**synchro 350 to 351: <span class="color-red">11.000</span> ![coredustsingleicon](media/icon/coredustsingleicon.png ':size=25 :no-zoom') ➡ synchro 400 to 401: <span class="color-red">12.000</span> ![coredustsingleicon](media/icon/coredustsingleicon.png ':size=25 :no-zoom') and so on.** 
 
 ## **Gears and Collection items**
 
 Two types of equipment you can give to your NIKKEs, heavily RNG based.   
-You obtain random **Gear** from **Interception**, **story rewards** and **missions**. **Alice Diary** rewards you with some gear too.  
-**Collection items** come from [**Dispatch**](#bulletin-board-dispatch) and [**Solo Raid**](raids.md#solo-raid). **Alice Diary** also rewards you with Doll materials and a **SR Sniper Doll!**
+You obtain random **Gear** from **Interception**, **story rewards** and **missions**. **<span class="color-pink">Alice Diary</span>** rewards you with some gear too.  
+**Collection items** come from [**Dispatch**](#bulletin-board-dispatch) and [**Solo Raid**](raids.md#solo-raid). **<span class="color-pink">Alice Diary</span>** also rewards you with Doll materials and a **<span class="color-purple">SR Sniper Doll</span>!**
 
 ### **Gear tiers and overload system**
 
@@ -443,7 +444,7 @@ You can check your **NIKKE manufacturer** on the Console icons, if you forgot wh
 **![geartier9manu](media/geartier9manu.png) Manufacturer bonus tier 9 is quite different from the other tiers. Commonly known as T9M, short for tier 9 manufacturer gear, the acquisition of this gear is tied to [Interception EX (SI)](#interception-ex-or-special-interception-si), and certain bosses of the [Anomaly Interception (AI)](lategame.md#anomaly-interception-ai)**
 
 **There are two ways to obtain T9M:**  
-1. **Gear pity boxes ![gearpitybox](media/icon/gearpityboxicon.png ':size=25') that drop since the first stage of Interception EX to the highest stage of Anomaly Interception. Collect 200 pity boxes and open it to obtain a single random T9M gear.**
+1. **Gear pity boxes ![gearpitybox](media/icon/gearpityboxicon.png ':size=25 :no-zoom') that drop since the first stage of Interception EX to the highest stage of Anomaly Interception. Collect 200 pity boxes and open it to obtain a single random T9M gear.**
 
 2. **Raw gear drop:**  
 **Any Interception EX boss cleared to at least stage 7** has a chance to give you a t9m gear. The chance is very slim, and increases a little on stage 8 and stage 9.  
@@ -453,16 +454,16 @@ You can check your **NIKKE manufacturer** on the Console icons, if you forgot wh
 #### **Overload system, tier 10**
 
 **To unlock the “tier 10” gear, you need a t9m gear, level 5, equipped by a NIKKE that activates the manufacturer bonus and a custom module (aka rock).**   
-Keep in mind, the credit cost per piece of **tier 9** gear, from lv 0 to 5 is **1.592k**, and **6.368k** for **all 4 pieces, or to say, per NIKKE**.   
-**Tier 10** credit cost per piece, from lv 0 to 5, is **2388k** and **9552k** total.  
+Keep in mind, the credit cost per piece of **tier 9** gear, from lv 0 to 5 is **<span class="color-orange">1.592k</span>**, and **<span class="color-orange">6.368k</span>** for **all 4 pieces, or to say, per NIKKE**.   
+**Tier 10** credit cost per piece, from lv 0 to 5, is **<span class="color-orange">2388k</span>** and **<span class="color-orange">9552k</span>** total.  
 
 ![olgearinfo](media/olgearinfo.png)
 
-If everything is right, when you select the gear this ![equipmentmodificationbutton](media/equipmentmodificationbutton.png ':size=150') should appear.  
-When you get to this point, you will need **a Custom Module ![custommoduleicon](media/icon/custommoduleicon.png ':size=25')** obtained in Interception EX (**SI) stage 9**, and any **AI stage**.  
+If everything is right, when you select the gear this ![equipmentmodificationbutton](media/equipmentmodificationbutton.png ':size=150 :no-zoom') should appear.  
+When you get to this point, you will need **a Custom Module ![custommoduleicon](media/icon/custommoduleicon.png ':size=25 :no-zoom')** obtained in Interception EX (**SI) stage 9**, and any **AI stage**.  
 I won’t make an Overload in depth guide, as others already made them, and **compiled the recommended stats for each character**. Read all of them if possible.  
-**NIKKEgg OL guides**: [**Overload Equipment**](https://nikke.gg/overload-equipment/)  [**Overload Priority**](https://nikke.gg/overload-gear-priority/)  
-**Prydwen OL guides**: [**Overloading Intro**](https://www.prydwen.gg/nikke/guides/overload-gear-intro/)  [**Rerolling Overload**](https://www.prydwen.gg/nikke/guides/overload-gear-reroll)  [**Overload Recommendations**](https://www.prydwen.gg/nikke/guides/overload-gear-recommendations/) 
+**<span class="color-blue">NIKKEgg</span> OL guides**: [**Overload Equipment**](https://nikke.gg/overload-equipment/)  [**Overload Priority**](https://nikke.gg/overload-gear-priority/)  
+**<span class="color-purple">Prydwen</span> OL guides**: [**Overloading Intro**](https://www.prydwen.gg/nikke/guides/overload-gear-intro/)  [**Rerolling Overload**](https://www.prydwen.gg/nikke/guides/overload-gear-reroll)  [**Overload Recommendations**](https://www.prydwen.gg/nikke/guides/overload-gear-recommendations/) 
 
 ### **Collection and Favorite items**
 
@@ -485,50 +486,50 @@ The **collection item system**, also referred to as the **Doll system, is a** **
 
 ![collectionitemequip](media/collectionitemequip.png)
 
-**Beginner Maintenance Kit ![maintenancekitbeg](media/maintenancekitbeg.png ':size=50') until R15 ➡ change Doll (SR5) ➡  Intermediate Maintenance Kit ![maintenancekitint](media/maintenancekitint.png ':size=50') until SR10 ➡  Elite Maintenance Kit ![maintenancekitelite](media/maintenancekitelite.png ':size=50') to SR15 (max level).**
+**Beginner Maintenance Kit ![maintenancekitbeg](media/maintenancekitbeg.png ':size=50 :no-zoom') until R15 ➡ change Doll (SR5) ➡  Intermediate Maintenance Kit ![maintenancekitint](media/maintenancekitint.png ':size=50 :no-zoom') until SR10 ➡  Elite Maintenance Kit ![maintenancekitelite](media/maintenancekitelite.png ':size=50 :no-zoom') to SR15 (max level).**
 
 ![collectionitemchange](media/collectionitemchange.png)
 
 #### **Favorite Items**
 
-Certain NIKKEs have a favorite item, or a possible upgrade after the **SR15 doll**. You will select one target to search for their favorite item on the dispatch system.   
-**However! You need to have the favorite item target at Limit Break 2 and affection level 30 to upgrade the SR15 doll into the favorite item. If the conditions are not met, you will not be able to upgrade it, even if you have the maintenance materials.**
+Certain NIKKEs have a favorite item, or a possible upgrade after the **<span class="color-purple">SR15 doll</span>**. You will select one target to search for their favorite item on the dispatch system.   
+**<span class="color-red">However!</span> You need to have the favorite item target at Limit Break 2 and affection level 30 to upgrade the <span class="color-purple">SR15</span> doll into the favorite item. If the conditions are not met, you will not be able to upgrade it, even if you have the maintenance materials.**
 
-When the conditions are met, **you can instantly upgrade the SR15 doll** into the favorite item **phase 1**, but to upgrade to **phase 2**, you need **50** maintenance materials, and lastly to **phase 3, 110** maintenance materials**, total of 160\.**
+When the conditions are met, **you can instantly upgrade the <span class="color-purple">SR15 doll</span>** into the favorite item **phase 1**, but to upgrade to **phase 2**, you need **50** maintenance materials, and lastly to **phase 3, 110** maintenance materials**, total of 160\.**
 
 **Currently, there are 5 favorite items targets, from top to bottom, ranked by usefulness:**   
 
 
 ![favitemexia](media/favitem/favitemexia.png) ![favitemexiacurrency](media/favitem/favitemexiacurrency.png)
 
-**Exia is the best favorite item unit so far. After you are done with most of the priority targets for SR15 dolls, she is the get to go for Raids.**  
+**<span class="color-purple">Exia</span> is the best favorite item unit so far. After you are done with most of the priority targets for <span class="color-purple">SR15 dolls</span>, she is the get to go for Raids.**  
 
 ![favitemviper](media/favitem/favitemviper.png) ![favitemvipercurrency](media/favitem/favitemvipercurrency.png)
 
-**Viper might be short lived in the meta. She is water, an element that greatly lacks DPS. She will go down the priority if good water NIKKEs are released, but at this moment, she has uses in Raids that are water weak. If you can spare the resources to build her go for it, if not skip.**  
+**<span class="color-pink">Viper</span> might be short lived in the meta. She is <span class="color-blue">water</span>, an element that greatly lacks DPS. She will go down the priority if good water NIKKEs are released, but at this moment, she has uses in Raids that are water weak. If you can spare the resources to build her go for it, if not skip.**  
 
 ![favitemlaplace](media/favitem/favitemlaplace.png) ![favitemlaplacecurrency](media/favitem/favitemlaplacecurrency.png)
 
-**Laplace is actually okay, no Raid usage, but on missilis tower she is a good choice. Pick based on her appearance, if not skip!**  
+**<span class="color-yellow">Laplace</span> is actually okay, no Raid usage, but on missilis tower she is a good choice. Pick based on her appearance, if not skip!**  
 
 ![favitemfrima](media/favitem/favitemfrima.png) ![favitemfrimacurrency](media/favitem/favitemfrimacurrency.png)
 
-**Frima also needs time to become useful. She buffs true damage, but we still don’t have “true” true damage dealers yet. She does not have any usage at this moment.**  
+**<span class="color-gray">Frima</span> also needs time to become useful. She buffs true damage, but we still don’t have “true” true damage dealers yet. She does not have any usage at this moment.**  
 
 ![favitemdiesel](media/favitem/favitemdiesel.png) ![favitemdieselcurrency](media/favitem/favitemdieselcurrency.png)
 
-**Diesel if you want to push Elysion tower, you can invest her favorite item unit, as she never dies when full burst. She can be useful against certain bosses that need taunt such as Mother Whale.**
+**<span class="color-green">Diesel</span> if you want to push Elysion tower, you can invest her favorite item unit, as she never dies when full burst. She can be useful against certain bosses that need taunt such as Mother Whale.**
 
 
 # **Inventory, hoarding 101**
 
 ![inventorybanner](media/inventorybanner.png)
 
-**Rule of thumb for all players at any point in time: Always pick Core Dust ![coredust](media/icon/coredustsingleicon.png ':size=25') over Credits ![credits](media/creditsicon.png ':size=25') or Battle Data Sets ![battledata](media/icon/battledataicon.png  ':size=25')**
+**Rule of thumb for all players at any point in time: Always pick <span class="color-red">Core Dust</span> ![coredust](media/icon/coredustsingleicon.png ':size=25 :no-zoom') over <span class="color-orange">Credits</span> ![credits](media/creditsicon.png ':size=25 :no-zoom') or <span class="color-blue">Battle Data Sets</span> ![battledata](media/icon/battledataicon.png  ':size=25 :no-zoom')**
 
-**For skill manuals, pick the one you miss the most, but never skill 2 ![skillbook2icon](media/icon/skillbook2icon.png ':size=25') or burst 2 ![burstbook2icon](media/icon/burstbook2icon.png ':size=25') as you get a lot of them from event shops, you will have thousands of them in no time.**  
-**Most of the time, you will pick skill 1 ![skillbook1icon](media/icon/skillbook1icon.png ':size=25') or skill 3 ![skillbook3icon](media/icon/skillbook3icon.png ':size=25') and burst 3 ![burstbook3icon](media/icon/burstbook3icon.png ':size=25')**   
-**Burst 1 manuals ![burstbook1icon](media/icon/burstbook1icon.png ':size=25') can also be an option, only when you have at least 350 burst 3 manuals stored.** 
+**For skill manuals, pick the one you miss the most, but never <span class="color-purple">skill 2</span> ![skillbook2icon](media/icon/skillbook2icon.png ':size=25 :no-zoom') or <span class="color-purple">burst 2</span> ![burstbook2icon](media/icon/burstbook2icon.png ':size=25 :no-zoom') as you get a lot of them from event shops, you will have thousands of them in no time.**  
+**Most of the time, you will pick skill 1 ![skillbook1icon](media/icon/skillbook1icon.png ':size=25 :no-zoom') or skill 3 ![skillbook3icon](media/icon/skillbook3icon.png ':size=25 :no-zoom') and burst 3 ![burstbook3icon](media/icon/burstbook3icon.png ':size=25 :no-zoom')**   
+**Burst 1 manuals ![burstbook1icon](media/icon/burstbook1icon.png ':size=25 :no-zoom') can also be an option, only when you have at least 350 burst 3 manuals stored.** 
 
 **When should you open supply crates?** When you can reach the next 20 level bracket. You can keep track of that with this [**progression calculator**](https://docs.google.com/spreadsheets/d/1I5X8FkBDPCTyrLNrgE-09sS91xSrMDMcAO9Y0vwXotU/edit?usp=sharing)
 
@@ -547,20 +548,20 @@ You unlock new Lost Sector areas by progressing in story mode and clearing boss 
 ### **Harmony Cubes**
 
 Check [**Prydwen**](https://www.prydwen.gg/nikke/guides/harmony-cubes-information) and [**NIKKEgg**](https://nikke.gg/harmony-cube-guide/) guides if you want.  
-The two main cubes you need to focus on are  the **Resilience Cube ![resiliencecubeicon](media/resiliencecubeicon.png ':size=25')** and **Bastion Cube ![bastioncubeicon](media/icon/bastioncubeicon.png  ':size=25')**.  
-You can get the **Resilience Cube** on **Lost Sector 04,** which unlocks when you clear chapter 9\.  
-The **Bastion Cube** can be found on **Lost Sector 07**, unlocked once you clear chapter 13\.  
+The two main cubes you need to focus on are  the **<span class="color-blue">Resilience Cube</span> ![resiliencecubeicon](media/resiliencecubeicon.png ':size=25 :no-zoom')** and **<span class="color-blue">Bastion Cube</span> ![bastioncubeicon](media/icon/bastioncubeicon.png  ':size=25 :no-zoom')**.  
+You can get the **<span class="color-blue">Resilience Cube</span>** on **<span class="color-blue">Lost Sector 04</span>,** which unlocks when you clear chapter 9\.  
+The **<span class="color-blue">Bastion Cube</span>** can be found on **<span class="color-blue">Lost Sector 07</span>**, unlocked once you clear chapter 13\.  
 
 ![lostsectorui](media/lostsectorui.png)
 
 **Does that mean all other cubes are bad?** Short answer: **Yes, all other cubes suck, with some exceptions**
 
-**Get Resilience to level 7 then Bastion to level 7\. Once you are done you can choose which you want level to 10 first, and eventually to level 13+ both.**   
+**Get <span class="color-blue">Resilience</span> to level 7 then <span class="color-blue">Bastion</span> to level 7\. Once you are done you can choose which you want level to 10 first, and eventually to level 13+ both.**   
 **You can check the stats of each cube with this** [**sheet**](https://imgur.com/gallery/nikke-harmony-cubes-sheet-wHJ1dq9), credits to the KR NIKKE community
 
-#### **PVP only cubes** If you want to be competitive in  [SP Arena](#sp-arena), you can upgrade **Quantum Cube** ![quantumcubeicon](media/icon/quantumcubeicon.png  ':size=25') and **Tempering Cube** ![temperingcubeicon](media/icon/temperingcubeicon.png  ':size=25') to level 7, but only after upgrading **Resilience** and **Bastion** to 10+.
+#### **PVP only cubes** If you want to be competitive in  [SP Arena](#sp-arena), you can upgrade **<span class="color-orange">Quantum Cube</span>** ![quantumcubeicon](media/icon/quantumcubeicon.png  ':size=25 :no-zoom') and **Tempering Cube** ![temperingcubeicon](media/icon/temperingcubeicon.png  ':size=25 :no-zoom') to level 7, but only after upgrading **<span class="color-blue">Resilience</span>** and **<span class="color-blue">Bastion</span>** to 10+.
 
-#### **Quantum** enhances the burst generation of Rocket Launcher NIKKEs (It works on all gun types, but aside from RLs, the burst generation is negligible) **It makes your team burst faster, which is key in pvp.**
+#### **<span class="color-orange">Quantum</span>** enhances the burst generation of Rocket Launcher NIKKEs (It works on all gun types, but aside from RLs, the burst generation is negligible) **It makes your team burst faster, which is key in pvp.**
 
 #### **Tempering** is good if you need one NIKKE to survive, usually the P1. You want to put it on taunters like Noah and Noise.
 
@@ -584,16 +585,16 @@ Check your **Frames** progress on ![rankingreward](media/rankingreward.png)
 
 There are some rules regarding the manufacturer tower, this is the comparison:
 
-**The Tribe Tower is always open regardless of what week day it is, and you can clear as many floors as you can.**
+**The <span class="color-blue">Tribe Tower</span> is always open regardless of what week day it is, and you can clear as many floors as you can.**
 
-**However, the Manufacturer Towers open only on certain weekdays, and you can only clear up to 3 floors per day on each. Another rule is that only NIKKEs of the same manufacturer as the tower can be used on them.**  
+**However, the <span class="color-red">Manufacturer Towers</span> open only on certain weekdays, and you can only clear up to 3 floors per day on each. Another rule is that only NIKKEs of the same manufacturer as the tower can be used on them.**  
 
 ![towersui](media/towersui.png)
 ![towersschedule](media/towersschedule.png)
 
 ## **PVP Arenas**
 
-This is the ranked player vs player mode. Here, you can earn the Arena Exchange Vouchers ![arenaexchangevoucher](media/icon/arenavouchericon.png ':size=50') used to buy your **elemental code manuals in the arena shop. They are needed to upgrade your NIKKEs skills past level 4\.**
+This is the ranked player vs player mode. Here, you can earn the Arena Exchange Vouchers ![arenaexchangevoucher](media/icon/arenavouchericon.png ':size=50 :no-zoom') used to buy your **elemental code manuals in the arena shop. They are needed to upgrade your NIKKEs skills past level 4\.**
 
 We would like to recommend [Prydwen](https://www.prydwen.gg/nikke/guides/pvp-intro) and [Nikke.gg](https://nikke.gg/arena/) PVP guides. If you don’t feel like immersing yourself too deeply in PVP, you can ask for team building help on any of the following Discord: [Official-NIKKE Discord](https://discord.gg/nikke-en), [NIKKE-Community Discord](https://discord.gg/nikke), [Prydwen Discord](https://discord.gg/prydwen), [NIKKEgg Discord](https://discord.gg/nikkegg).   
 Other players will gladly help you with pvp teams
@@ -617,11 +618,11 @@ Thanks to Keripo you can use his [pvp sheet](https://docs.google.com/spreadsheet
 
 ![pvpspbanner](media/pvpspbanner.png)
 
-### The first thing you need to take note is, it includes **AFK farm** of your arena exchange vouchers ![arenaexchangevoucher](media/icon/arenavouchericon.png ':size=25') and also ![pvpsparenapoint](media/pvpsparenapoint.png) currency that dictates one of your rankings. **The AFK rewards will reach 100% in less than 24 hours, after that it will no longer stack more, unless you collect.**
+The first thing you need to take note is, it includes **<span class="color-orange">AFK farm</span>** of your arena exchange vouchers ![arenaexchangevoucher](media/icon/arenavouchericon.png ':size=25 :no-zoom') and also ![pvpsparenapoint](media/pvpsparenapoint.png) currency that dictates one of your rankings. **<span class="color-orange">The AFK rewards will reach 100% in less than 24 hours, after that it will no longer stack more, unless you collect.</span>**
 
 **You receive 2 free attacks every day** and more attempts cost gems.   
-**This mode has 2 different ranks**, one based on your **battle rank**, which you can only increase by actively winning attacks, and the other from how many SP arena points you have.   
-The main feature of this pvp mode is that you need **3 teams in defense, but 2 for attack.** You can “ignore” the strongest enemy team and only attack 2, as you only need to win twice…**The best defense is a massive gap in synchro levels!**  
+**This mode has <span class="color-green">2 different ranks</span>**, one based on your **battle rank**, which you can only increase by actively winning attacks, and the other from how many SP arena points you have.   
+The main feature of this pvp mode is that you need **<span class="color-pink">3 teams in defense</span>, but 2 for attack.** You can “ignore” the strongest enemy team and only attack 2, as you only need to win twice…**The best defense is a massive gap in synchro levels!**  
 The main problem is: **you need to have a lot of nikkes, properly invested, in order to be able to compete here**. The best escapism that many chose is to outright ignore the existence of the SP arena.   
 Each season of the SP Arena **lasts for 2 weeks** and has 1 day of waiting period until next season, same as Rookie Arena. 
 
@@ -639,21 +640,21 @@ This Arena is still unavailable, devs said to be released in September 2023\. It
 
 [Prydwen](https://www.prydwen.gg/nikke/guides/game-modes-simulation) and [NIKKEgg](https://nikke.gg/simulation-room/) guides
 
-This is where you will get skill upgrade materials. Each difficulty comes with **recommended combat power**, that is more or less the CP you need to **quick battle**. You can only quick battle if your squad CP is above the requirement, and the stage is not “hard” or “hard” Boss stage.  
+This is where you will get skill upgrade materials. Each difficulty comes with **<span class="color-green">recommended combat power</span>**, that is more or less the CP you need to **<span class="color-orange">quick battle</span>**. You can only quick battle if your squad CP is above the requirement, and the stage is not “hard” or “hard” Boss stage.  
 
 ![simroombattle1](media/simroombattle1.png) ![simroombattle2](media/simroombattle2.png)
 
 
-**Difficulty 2 unlocks after campaign Stage 5-1, gives Skill manuals 1 ![skill 1](media/icon/skillbook1icon.png ':size=25') and Burst manuals 1 ![burst 1](media/icon/burstbook1icon.png ':size=25')**  
-**Difficulty 3 unlocks at chapter 8-6, Difficulty 4 unlocks at chapter 11-7, both give Skill manuals 2 ![skill 2](media/icon/skillbook2icon.png ':size=25') and Burst manuals 2 ![burst 2](media/icon/burstbook2icon.png ':size=25')**  
-**Difficulty 5 unlocks after campaign Stage 14-3, gives you Skill manuals 3 ![skill 3](media/icon/skillbook3icon.png ':size=25') and Burst manuals 3 ![burst3](media/icon/burstbook3icon.png ':size=25')**
+**Difficulty 2 unlocks after campaign Stage 5-1, gives Skill manuals 1 ![skill 1](media/icon/skillbook1icon.png ':size=25 :no-zoom') and Burst manuals 1 ![burst 1](media/icon/burstbook1icon.png ':size=25 :no-zoom')**  
+**Difficulty 3 unlocks at chapter 8-6, Difficulty 4 unlocks at chapter 11-7, both give Skill manuals 2 ![skill 2](media/icon/skillbook2icon.png ':size=25 :no-zoom') and Burst manuals 2 ![burst 2](media/icon/burstbook2icon.png ':size=25 :no-zoom')**  
+**Difficulty 5 unlocks after campaign Stage 14-3, gives you Skill manuals 3 ![skill 3](media/icon/skillbook3icon.png ':size=25 :no-zoom') and Burst manuals 3 ![burst3](media/icon/burstbook3icon.png ':size=25 :no-zoom')**
 
-**1-A is really easy.**  
-**5-C can be cleared at the 160 wall and 3 to 5 good legacy buffs.**  
+**<span class="color-green">1-A is really easy.</span>**  
+**<span class="color-green">5-C can be cleared at the 160 wall and 3 to 5 good legacy buffs.</span>**  
 
 ![simroom5c](media/simroom5c.png)
 
-**BUFF Levels and legacy buffs nodes**  
+**<span class="color-blue">BUFF Levels and legacy buffs nodes</span>**  
 **Pick buffs based on this chart, top to bottom in priority**  
 
 ![simroombuffs](media/simroombuffs.png)
@@ -664,7 +665,7 @@ This is where you will get skill upgrade materials. Each difficulty comes with *
 
 [NIKKEgg](https://nikke.gg/simulation-room-overlock-overview-and-guide/) guide
 
-**Overclock** is sim room, but much more difficult. **You can choose what nodes you want, and each will increase the difficulty ratio, up to 50\. All rewards are granted when you clear ratio 25, meaning ratio 26+ won’t reward you with nothing.** 
+**<span class="color-red">Overclock</span>** is sim room, but much more difficult. **You can choose what nodes you want, and each will increase the difficulty ratio, up to 50\. All rewards are granted when you clear ratio 25, meaning ratio 26+ won’t reward you with nothing.** 
 
 ## **Interception up until late game**
 
@@ -680,15 +681,15 @@ This is where you will get skill upgrade materials. Each difficulty comes with *
 
 ### **Interception EX or Special Interception (SI)**
 
-**Bosses rotates in this order:** **Alteisen MkVI ![elementfireicon](media/icon/elementfireicon.png  ':size=25') ➡ Grave Digger ![elementironicon](media/icon/elementironicon.png ':size=25') ➡ Blacksmith ![elementwatericon](media/icon/elementwatericon.png) ':size=25' ➡ Chatterbox ![elementelectricicon](media/icon/elementelectricicon.png ':size=25') ➡ Modernia ![elementwindicon](media/icon/elementwindicon.png ':size=25') ➡ Repeat**
+**Bosses rotates in this order:** **<span class="color-red">Alteisen MkVI</span> ![elementfireicon](media/icon/elementfireicon.png  ':size=25 :no-zoom') ➡ <span class="color-orange">Grave Digger</span> ![elementironicon](media/icon/elementironicon.png ':size=25 :no-zoom') ➡ <span class="color-blue">Blacksmith</span> ![elementwatericon](media/icon/elementwatericon.png) ':size=25 :no-zoom' ➡ <span class="color-purple">Chatterbox</span> ![elementelectricicon](media/icon/elementelectricicon.png ':size=25 :no-zoom') ➡ <span class="color-green">Modernia</span> ![elementwindicon](media/icon/elementwindicon.png ':size=25 :no-zoom') ➡ Repeat**
 
 
 **Each with the color of their respective weak element code. Videos for each boss have yet to be made, stay tuned!**  
-**All of them drop manufacturer arms ![gearbox](media/icon/gearpityboxicon.png  ':size=25') or gear “pity” box.**  
+**All of them drop manufacturer arms ![gearbox](media/icon/gearpityboxicon.png  ':size=25 :no-zoom') or gear “pity” box.**  
 **Drops are the same to all bosses, rewards only differ based on the stage cleared.**  
 **Stage 1 to 4: Gear up to Tier 8**   
 **Stage 5 to 6: Tier Gear up to Tier 9**  
 **Stage 7 to 9: Tier 9 \+ chance of Tier 9 Manufacturer**  
-**Stage 9 also has a chance to drop custom modules ![custom module](media/icon/custommoduleicon.png ':size=25')**
+**Stage 9 also has a chance to drop custom modules ![custom module](media/icon/custommoduleicon.png ':size=25 :no-zoom')**
 
 **Until you clear chapter 22-36 the [Anomaly Interception](lategame.md#anomaly-interception-ai) will be locked, however, you have officially graduated from the early game!**

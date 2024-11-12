@@ -16,36 +16,36 @@ As almost all gacha games, NIKKE also has an element system. **The premise is pr
 To verify what element your NIKKE is, **check the icon on the top left of the NIKKE portrait.**  
 ![nikkeelement](media/nikkeelement.png)
 
-You can check what element will have advantage in the **Enemy info** and / or **“weak point”,** displayed in all combat contents UI.  
-**Battlefield Info** will display all enemies that will appear on the stage, alongside their element.  
+You can check what element will have advantage in the **<span class="color-red">Enemy info</span>** and / or **<span class="color-red">“weak point”</span>**, displayed in all combat contents UI.  
+**<span class="color-orange">Battlefield Info</span>** will display all enemies that will appear on the stage, alongside their element.  
 ![enemyinfo](media/enemyinfo.png)
 
 ![battlefieldinfo](media/battlefieldinfo.png)
 
-**Burst phase 1 NIKKES ![Burst 1, or shortened to B1](media/b1nikke.png ":size=20")**
+**Burst phase 1 NIKKES ![Burst 1, or shortened to B1](media/b1nikke.png ':size=20 :no-zoom')**
 
-You may use **N102.** She is a purple (SR) rarity Nikke that buffs your whole team attack, and you will probably acquire her when you do your tutorial pull.
+You may use **N102.** She is a <span class="color-purple">purple (SR)</span> rarity Nikke that buffs your whole team attack, and you will probably acquire her when you do your tutorial pull.
 
 Only use SSR burst 1 Nikkes that have burst reduction skills over her, in order:
 Liter \> D: Killer Wife \> Rouge \> Dorothy \> Volume
 
-Tia is a special case, as she **needs** to be paired with Naga, a burst 2 nikke, as most of her skills need naga to be activated, along with another **burst 1 nikke,** because her burst skill re-enters burst phase 1\. If you use Tia as the only burst 1 in your team, you will not be able to do a full burst. **The same applies to Alice: wonderland bunny and Rupee: Winter Shopper;** they cannot be used as the only burst 1 either.
+Tia is a special case, as she **<span class="color-red">needs</span>** to be paired with Naga, a burst 2 nikke, as most of her skills need naga to be activated, along with another **burst 1 nikke,** because her burst skill re-enters burst phase 1\. <span class="color-red">If you use Tia as the only burst 1 in your team, you will not be able to do a full burst.</span> **The same applies to Alice: wonderland bunny and Rupee: Winter Shopper;** they cannot be used as the only burst 1 either.
 
-**Burst phase 2 NIKKES ![Burst 2, or shortened to B2](media/b2nikke.png ":size=20")**
+**Burst phase 2 NIKKES ![Burst 2, or shortened to B2](media/b2nikke.png ':size=20 :no-zoom')**
 
 **Anis** is the standard pick. Very few burst 2 Nikkes are as good as her in the early game. Only swap her for Nikkes of tier A or higher, with a 20 second cooldown burst skill.
-With the exception of **Blanc,** which **needs** to be paired with **Noir or Rouge,** if not paired, she will have a 60 second cooldown, making her rather unusable**.**
+With the exception of **Blanc,** which **<span class="color-red">needs</span>** to be paired with **Noir or Rouge,** if not paired, she will have a 60 second cooldown, making her rather unusable**.**
 
-**Burst phase 3 NIKKEs and Full Burst ![Burst 3, or shortened to B3](media/b3nikke.png ":size=20")**
+**Burst phase 3 NIKKEs and Full Burst ![Burst 3, or shortened to B3](media/b3nikke.png ':size=20 :no-zoom')**
 
-Your burst 3 Nikkes will be **Rapi and Mihara,** later being replaced by **Privaty** and **Alice** or any other burst 3 you may get from pulls**.**  
-Ideally, you want to use a team with **one Burst 1 ![Burst 1, or shortened to B1](media/b1nikke.png ":size=20"), one Burst 2 ![Burst 2, or shortened to B2](media/b2nikke.png ":size=20") and three Burst 3 ![Burst 3, or shortened to B3](media/b3nikke.png ":size=20"),** short for **1-1-3.** Most of the early game is skippable without a healer, but it’s a good addition if you happen to get it nonetheless.
+Your burst 3 Nikkes will be **Rapi and Mihara,** later being replaced by **<span class="color-blue">Privaty</span>** and **<span class="color-pink">Alice</span>** or any other burst 3 you may get from pulls**.**  
+Ideally, you want to use a team with **one Burst 1 ![Burst 1, or shortened to B1](media/b1nikke.png ':size=20 :no-zoom'), one Burst 2 ![Burst 2, or shortened to B2](media/b2nikke.png ':size=20 :no-zoom') and three Burst 3 ![Burst 3, or shortened to B3](media/b3nikke.png ':size=20 :no-zoom'),** short for **1-1-3.** Most of the early game is skippable without a healer, but it’s a good addition if you happen to get it nonetheless.
 
 **Burst cooldown and rotations**
 
-Your squad **must have** a cooldown of 20 seconds, or to say, a burst rotation of 20 seconds. Burst 1 and burst 2 NIKKEs on your team must have a 20 second cooldown.
+Your squad **<span class="color-red">must have</span>** a cooldown of 20 seconds, or to say, a burst rotation of 20 seconds. Burst 1 and burst 2 NIKKEs on your team must have a 20 second cooldown.
 
-**Another thing to notice: When in auto-burst, the burst order starts from the leftmost burst 1 NIKKE, then goes to the right in order, leftmost burst 2 NIKKE then leftmost burst 3 NIKKE, which then your team enters full burst state for 10 seconds, increasing you damage output by 50%.**
+**Another thing to notice: When in auto-burst, the burst order starts from the <u>leftmost</u> burst 1 NIKKE, then goes to the right in order, leftmost burst 2 NIKKE then leftmost burst 3 NIKKE, which then your team enters full burst state for 10 seconds, increasing you damage output by 50%.**
 
 Some NIKKEs skills reduce or increase the full burst time, examples being: **Mihara** that decreases the full burst time by 5 seconds and **Modernia,** that increases full burst time by 5 seconds.
 
@@ -77,7 +77,7 @@ Tutorial and the game introduction. Follow the instructions, get used to the gam
 
 **The main objective now is to unlock the Interception,** the content that rewards gear.
 
-That being said, **DO NOT LEVEL SKILLS YET\!** You **CANNOT** reset skill levels by normal means. **Until chapter 6 you can go with level 1 skills with no problem**. You will only level skill if you rerolled accounts, and your NIKKE is a damage dealer tier SS+.
+That being said, **<span class="color-red">DO NOT LEVEL SKILLS YET\!</span>** You **CANNOT** reset skill levels by normal means. **Until chapter 6 you can go with level 1 skills with no problem**. You will only level skill if you rerolled accounts, and your NIKKE is a damage dealer tier SS+.
 
 In stage 2-1, you will unlock auto shot, and auto burst. **Activate both by pressing the keys “Shift” for auto shot and “Tab” for auto burst**. While playing a stage you can check if they are activated **on the top left of your screen**. **They will turn orange if you activate them**.
 
@@ -89,11 +89,11 @@ Return to the main screen, go to your “Nikke” tab and **level your SSR or Ra
 
 **Boss Stage 2-12**
 
-The first boss is Gravedigger. With the gear equipped and your main NIKKE at lv 11 it's an easy fight. **Prioritize breaking the QTEs (circles)** and shoot it down**.**
+The first boss is Gravedigger. With the gear equipped and your main NIKKE at lv 11 it's an easy fight. **<span class="color-red">Prioritize breaking the QTEs</span> <span class="color-orange">(circles)</span>** and shoot it down.
 
 Once you’re done, you want to collect the chapter [**Lost Relics**](https://nikke.gg/lost-relics/). **It’s strongly recommended to collect** all the lost relics of any chapter you clear.
 
-By now, you will have unlocked the **Outpost**. **Do not wipe out** yet. The reward is based on your outpost level, **which scales with how many campaign stages you have cleared in total**. **Wipe out only when you’ve finished pushing the main story on your first day**
+By now, you will have unlocked the **Outpost**. **Do not wipe out** yet. The reward is based on your outpost level, **which scales with how many campaign stages you have cleared in total**. **<span class="color-red">Wipe out only when you’ve finished pushing the main story on your first day</span>**.
 
 The [**Simulation Room**](gamecontent.md#simulation-room) is also open, do the tutorial, but don’t enter 1-A yet, we will do that later today.
 
@@ -101,13 +101,13 @@ You also should have unlocked the [**BlaBla menu**](gamecontent.md#blabla-menu) 
 
 **Chapter 3**
 
-A popup about temporary Nikkes will flashbang you, however **do NOT use them while pushing story or tribe tower yet.** Each NIKKE has a usage limit of 3 stages per day, in other words, a total of 9 stages with borrowed NIKKEs per day\! **Use just one when you can’t progress further for the day, to maximize your progression.**
+A popup about temporary Nikkes will flashbang you, however **do <span class="color-red">NOT</span> use them while pushing story or tribe tower yet.** Each NIKKE has a usage limit of 3 stages per day, in other words, a total of 9 stages with borrowed NIKKEs per day\! **Use just one when you can’t progress further for the day, to maximize your progression.**
 There is no usage limit of them on **event stages, always use them there**.  
 The only sad thing… they are **not available** for Interception or Simulation Room.
 
 **3-3 unlocks the [Tribe Tower](gamecontent.md#towers),** come back to it when you clear 3-9.
 
-When you clear 3-6 you will unlock the [**Tactics academy**](gamecontent.md#tactics-academy)**. Ignore it for now,** but make sure to upgrade it **when you finish your day**, each level unlocks really good stuff, for example: **increase afk rewards from outpost defense, free synchro device slots, and lots more\!**
+When you clear 3-6 you will unlock the [**Tactics academy**](gamecontent.md#tactics-academy)**. Ignore it for now,** but make sure to upgrade it **<span class="color-red">when you finish your day</span>**, each level unlocks really good stuff, for example: **increase afk rewards from outpost defense, free synchro device slots, and lots more\!**
 
 To progress further you will need to collect all rewards available, your daily, weekly, day by day event… If there is an [**event ongoing**](gamecontent.md#events), do it too. You will see a lot of red dots in the main screen, collect everything, level your Nikkes and push again.
 
@@ -135,20 +135,20 @@ Chapter 4 is a breeze, aside from 4-6, it’s one of the easiest. Remember to eq
 **4-6, a “mini” Boss stage.**
 **Meet Chatterbox, the Boss of chapter 6, yet a little nerfed here. Although nerfed, this Boss is still a tricky one.**
 
-**At the start of the battle he will jump and target your NIKKE in the P3, you can press space/cover to avoid taking damage directly. After that he will jump back and stay still for a moment, this is the time when you need to deal as much damage as possible to the parts circled in red on the image below. Guided missiles will come from it, targeting the NIKKE he jumped to, the first time will be the one in P3, then it's random. You can cover or destroy the missiles, even if they don’t do much damage, if the same NIKKE gets hit 10 times by them, she will be instantly killed. Never destroy the head\! If you do, he will enter a “rage” mode and damage all your NIKKEs per jump, and in rage mode he deals a lot more damage. Only destroy the head if he has only a single health bar left, ensuring you will kill quickly enough.**
-**After you destroy the parts on his back, they will regenerate after a short while.**
+**At the start of the battle he will jump and target your NIKKE in the P3, you can press space/cover to avoid taking damage directly. After that he will jump back and stay still for a moment, <span class="color-red">this is the time when you need to deal as much damage as possible to the parts circled in red on the image below</span>. Guided missiles will come from it, targeting the NIKKE he jumped to, the first time will be the one in P3, then it's random. You can cover or destroy the missiles, even if they don’t do much damage, if the same NIKKE gets hit 10 times by them, she will be instantly killed. <span class="color-orange">Never destroy the head\!</span> If you do, he will enter a “rage” mode and damage all your NIKKEs per jump, and in rage mode he deals a lot more damage. <span class="color-orange">Only destroy the head if he has only a single health bar left, ensuring you will kill quickly enough.</span>**  
+**After you destroy <span class="color-red">the parts on his back</span>, they will regenerate after a short while.**
 
-![chatterboxminiboss4](media/chatterboxminiboss4.png ":size=300")
+![chatterboxminiboss4](media/chatterboxminiboss4.png ':size=300 :no-zoom')
 
-**When you defeat him, Shifty ![Shifty](media/shifty.png ":size=50") will bait you with [equipment upgrade](gamecontent.md#gears-and-collection-items). Skip the tutorial and equip the head piece you got, without upgrading it.**
+**When you defeat him, <span class="color-blue">Shifty</span> ![Shifty](media/shifty.png ':size=50 :no-zoom') will bait you with [equipment upgrade](gamecontent.md#gears-and-collection-items). Skip the tutorial and equip the head piece you got, without upgrading it.**
 
-**Now we need to use temporary NIKKEs. Just slot in one borrowed NIKKE at a time, from 4-10 onwards. Use Marciana** over your burst 2**, then Liter** over your burst 1**, then Alice** over Mihara or any other burst 3**. This is a cheese, without borrowed NIKKEs this much progression would be almost impossible on the first day.**
+**Now we need to use temporary NIKKEs. <span class="color-red">Just slot in one borrowed NIKKE at a time, from 4-10 onwards.</span> Use Marciana** over your burst 2**, then Liter** over your burst 1**, then Alice** over Mihara or any other burst 3**. This is a cheese, without borrowed NIKKEs this much progression would be almost impossible on the first day.**
 
 4-15 Unlock the [**Synchro Device**](gamecontent.md#synchro-device)**,** you can skip it until you unlock the **manufacturer towers on chapter 7, stage 7-13**.
 
 **Boss stage 4-18**
 
-Easy boss with an average level of 21 and borrowed Alice. Collect all the Lost Relics, as you will need blueprints shortly, and then proceed to **clear some hard stages to level your outpost just once**. After you’re done, **upgrade your nikkes, clear simulation room 1-C** if you couldn’t before, **Interception D to the highest stage possible** with the remaining attacks, and **5** **event stages,** if there is one going on.
+Easy boss with an average level of 21 and borrowed Alice. Collect all the Lost Relics, as you will need blueprints shortly, and then proceed to **<span class="color-red">clear some hard stages to level your outpost just once</span>**. After you’re done, **upgrade your nikkes, clear simulation room 1-C** if you couldn’t before, **Interception D to the highest stage possible** with the remaining attacks, and **5** **event stages,** if there is one going on.
 
 Now, go back to your outpost, and zoom out. You will see a couple of **\+** signs like the ones in the image below.
 
@@ -156,34 +156,34 @@ Now, go back to your outpost, and zoom out. You will see a couple of **\+** sign
 
 Click on one of the **\+** signs, choose any blueprint you own, and start building. Each building has a 5 seconds build time, and once it’s **finished, click on the building again** and it’s done. You will need to collect and use all the blueprints to upgrade your [**Tactics Academy**](gamecontent.md#tactics-academy) to its maximum level. If you cannot build more,
 
-This is a reasonable time to finally stop on day 1\. Reaching this long probably takes **up to three whole hours.** I sincerely don’t recommend going further.
+This is a reasonable time to finally stop on day 1\. Reaching this long probably takes **<span class="color-red">up to three whole hours.</span>** I sincerely don’t recommend going further.
 
 **Day 2**
 
 **The main objective is to clear Interception level D to at least stage 5, clear chapter 6, hard stage 1-2, tribe tower to at least floor 39, and simulation room 2-B. Collect your outpost afk rewards, upgrade your NIKKEs and let’s get to it.**
 
 **Chapter 5**
-Uneventful chapter. **You will use borrowed NIKKEs at the end of chapter 6 today, so save the uses\!**
+Uneventful chapter. **<span class="color-red">You will use borrowed NIKKEs at the end of chapter 6 today, so save the uses\!</span>**
 
 5-3 unlocks the [Lost Sector](gamecontent.md#lost-sector). Clear the first sector to receive a cube. Give the cube to your best burst 3 NIKKE.
 
 5-10 unlock the [Recycling Room](gamecontent.md#recycling-room), you can read the section later, keep pushing
 
-5-15 is a dps check against healers and a shield boss, if you struggle, use **borrowed marciana here**
+5-15 is a dps check against healers and a shield boss, if you struggle, use **<span class="color-red">borrowed marciana here</span>**
 
-**Boss stage 5-20 Land Eater use borrowed Alice here**. Alice makes the boss go down in less than 15 seconds, you can ignore the mechanics…
+**Boss stage 5-20 Land Eater <span class="color-red">use borrowed Alice here</span>**. Alice makes the boss go down in less than 15 seconds, you can ignore the mechanics…
 
-5-20 unlocks [Liberation](gamecontent.md#elevator-liberation), time gated free SSR NIKKEs\!
+5-20 unlocks [Liberation](gamecontent.md#elevator-liberation), time gated free <span class="color-gold">SSR NIKKEs</span>\!
 
 **Chapter 6**
 Boring chapter, even story wise. This one might get hard, if you can’t clear it on the second day just wait for the next day
-6-4 unlocks [**Solo Raid**](raids.md#solo-raid) and [**Collection items**](gamecontent.md#collection-and-favorite-items)**.** This is a limited monthly event, if you can’t find the ![solo raid icon](media/icon/soloraidicon.png ":size=30") icon on your main screen, means that a solo raid isn’t active.
+6-4 unlocks [**Solo Raid**](raids.md#solo-raid) and [**Collection items**](gamecontent.md#collection-and-favorite-items)**.** This is a limited monthly event, if you can’t find the ![solo raid icon](media/icon/soloraidicon.png ':size=30 :no-zoom') icon on your main screen, means that a solo raid isn’t active.
 
 **6-6A-2 is a defense battle that has tanky healers and Tiaras. [This is a video on how to cheese it](https://youtu.be/EUfgkArT9lA) without borrowing a NIKKE.**
 
-From **6-18,** you can choose to use **borrowed units** or not. Each stage you do not use, is another chapter 7 clear today. Only use them if you struggle.
+From **6-18,** you can choose to use **<span class="color-red">borrowed units</span>** or not. Each stage you do not use, is another chapter 7 clear today. Only use them if you struggle.
 
-**Boss Stage 6-24 Chatterbox, same mechanics as 4-6, use Alice**
+**Boss Stage 6-24 Chatterbox, same mechanics as 4-6, use <span class="color-red">Alice</span>**
 
 **Day 3**
 
@@ -194,14 +194,14 @@ From **6-18,** you can choose to use **borrowed units** or not. Each stage you d
 **7-13 unlocks the Manufacturer Tower. This is the time when you want to visit the [synchro device](gamecontent.md#synchro-device) section that was previously ignored.**
 
 **The BOSS stage at 7-24 is Modernia, which _was_ realistically impossible to be cleared on day 3\.**
-**Luckily, now you can use borrowed NIKKEs\! Use any of the 3 and clear it.**
+**Luckily, <span class="color-red">now you can use borrowed NIKKEs\! Use any of the 3 and clear it.</span>**
 
 **Day 4**
 **Objectives: Finish chapter 9, and unlock interception S. Simulation room 3-A, tribe tower to 60 and manufacturer towers to the highest floor possible.**
 
 **Chapter 8**
 
-**8-27 BOSS Stage Bow Tie Use Marciana or Alice**
+**8-27 BOSS Stage Bow Tie <span class="color-red">Use Marciana or Alice</span>**
 
 **Chapter 9**
 
@@ -224,11 +224,11 @@ From **6-18,** you can choose to use **borrowed units** or not. Each stage you d
 
 **12-24 BOSS STAGE Material H.**
 
-In Chapter 13, we will encounter 3 Tyrant bosses, as this story we will rematch against Modernia. **You will need to use borrowed NIKKEs on all.**  
+In Chapter 13, we will encounter 3 Tyrant bosses, as this story we will rematch against Modernia. **<span class="color-red">You will need to use borrowed NIKKEs on all.</span>**  
 **13-15 mini Boss stage Alteisen**
 **13-18 mini Boss stage Chatterbox**
 **13-24 Boss stage Modernia**
 
-**And this is the end of the 14th day for me. If you used borrowed NIKKEs, you probably are way past this chapter already. Have you unlocked [Interception EX](gamecontent.md#interception-ex-or-special-interception-si))? Check the guide for it\!**
+**And this is the end of the 14th day for me. If you used <span class="color-red">borrowed NIKKEs</span>, you probably are way past this chapter already. Have you unlocked [Interception EX](gamecontent.md#interception-ex-or-special-interception-si))? Check the guide for it\!**
 
 **And from here, you will face [progression walls](progressionwalls.md#progression-walls) and ho ho, there are a lot\!**

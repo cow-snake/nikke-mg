@@ -16,6 +16,6 @@ Well... most of us are veteran players, from top unions across all servers. If y
 
 Aside from the MLEM tier list, we don't plan to make one for character usefulness or strength. I will not say never, but it is something that we do not want to do. There are lots of tier lists out there already, one more is useless.
 
-**Now, New players**! The early game will be overwhelming as the vast majority of content NIKKE has is unlocked in the first few chapters. Also, don’t just read this guide, read as many guides as you can, watch videos, you name it! More information you have the better.
+**Now, <span class="color-red">New players</span>**! The early game will be overwhelming as the vast majority of content NIKKE has is unlocked in the first few chapters. Also, don’t just read this guide, read as many guides as you can, watch videos, you name it! More information you have the better.
 
-**Veteran players**, if you want, go directly to the [Mid Game](midgame.md), [Late Game](lategame.md), or [End Game](endgame.md) section.
+**<span class="color-red">Veteran players</span>**, if you want, go directly to the [Mid Game](midgame.md), [Late Game](lategame.md), or [End Game](endgame.md) section.

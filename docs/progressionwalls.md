@@ -4,7 +4,7 @@
 
 **This list will be updated as soon as new chapters are added or early chapters are revisited.** 
 
-**Up until chapter 18, borrowed NIKKEs can make the wall stages a joke. And as such, the wall only applies if you want to save the daily usage of them for a later chapter.**
+**<span class="color-red">Up until chapter 18, borrowed NIKKEs can make the wall stages a joke. And as such, the wall only applies if you want to save the daily usage of them for a later chapter.</span>**
 
 **Criteria:** These stages are either stat walls, manual play required, the raptures are specially difficult to deal with, or a combination of all the above. Bosses are generally “harder” than normal stages, however some bosses have very specific mechanics, and will hinder your progression by quite some time if you don’t want to learn said mechanics beforehand. 
 
