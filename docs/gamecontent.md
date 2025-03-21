@@ -80,16 +80,16 @@ If there is an event ongoing, it will always appear below the Campaign button.
 **<span class="color-yellow">5 event stage entries, that refresh daily</span>**  
 **<span class="color-orange">Boss challenge, one entry per day. Pretty simple: You fight a boss in different difficulties, and receive rewards. Borrowed NIKKEs can be used here with no restrictions.</span>**  
 **<span class="color-blue">Mission tab, missions completion tied to event stages clears. Rewards include: Event lobby, a battery used in the event archive, and event currency.</span>**  
-**<span class="color-green">Shop, with really good goodies</span>**  
+**<span class="color-green">Event Shop, with really good resources</span>**  
 **<span class="color-gold">Record repository, to replay the event story and/or cutscenes</span>**   
-**<span class="color-red">Reward boost. When using NIKKEs that have the reward boost, you can win up to 100% increased event currency when clearing an event stage.</span>**
+**<span class="color-red">Reward boost. When using NIKKEs that have the reward boost, you can get up to 100% increased event currency chance when clearing an event stage.</span>**
 
 **Example of a 14 days event UI**
 
 ![event14dayui](media/event14dayui.png)
 
 **<span class="color-red">The maximum reward boost chance you can get is 100%, minimum is 60% if you only own SR NIKKEs.</span>**   
-**That means, when you clear a stage, <span class="color-red">you have at least 60% to a 100% chance</span> of receiving double the amount of event currency. The bonus doesn't apply to cases or first time rewards.**
+**That means, when you clear a stage, <span class="color-red">you have at least 60% to a 100% chance</span> of receiving double the amount of event currency and crates. The bonus doesn't apply to first time rewards.**
 
 Just like the campaign, the events are also divided in **Normal and Hard stages.** Total of 12 stages per difficulty.   
 **Clear all stages, and after that you will quick battle the stage <span class="color-green">1-11</span>, <span class="color-green">2-11</span>, or <span class="color-green">H2-11</span>, depending on the highest hard difficulty available.**   
@@ -497,29 +497,25 @@ Certain NIKKEs have a favorite item, or a possible upgrade after the **<span cla
 
 When the conditions are met, **you can instantly upgrade the <span class="color-purple">SR15 doll</span>** into the favorite item **phase 1**, but to upgrade to **phase 2**, you need **50** maintenance materials, and lastly to **phase 3, 110** maintenance materials**, total of 160\.**
 
-**Currently, there are 5 favorite items targets, from top to bottom, ranked by usefulness:**   
+**Currently, there are 9 favorite items targets, from top to bottom, ranked by usefulness:**   
 
+<span class="color-blue">Helm:</span> The best favorite item target. She is a top priority for Raids and PVP. Her burst generation and dmg after phase 3 make her a really strong off burst option. Build her as soon as you can.
 
-![favitemexia](media/favitem/favitemexia.png) ![favitemexiacurrency](media/favitem/favitemexiacurrency.png)
+<span class="color-red">Drake:</span> Another unit massively improved with her favorite item. Massive buffs for the Shotgun Team, and also for PVP. After Helm is done, build drake also ASAP.
 
-**<span class="color-purple">Exia</span> is the best favorite item unit so far. After you are done with most of the priority targets for <span class="color-purple">SR15 dolls</span>, she is the get to go for Raids.**  
+<span class="color-purple">Exia:</span> Fell a little below the priority list, but still used. If you didn’t get her favorite item yet, you can skip her until everyone else is done.
 
-![favitemviper](media/favitem/favitemviper.png) ![favitemvipercurrency](media/favitem/favitemvipercurrency.png)
+<span class="color-yellow">Laplace:</span>  is actually okay if you like her, no Solo Raid usage, but missilis tower and UR she might be a good choice. If you don't like her design, skip!
 
-**<span class="color-pink">Viper</span> might be short lived in the meta. She is <span class="color-blue">water</span>, an element that greatly lacks DPS. She will go down the priority if good water NIKKEs are released, but at this moment, she has uses in Raids that are water weak. If you can spare the resources to build her go for it, if not skip.**  
+<span class="color-gray">Milk:</span> CDR, some offensive buffs. All in all, okay favorite item target. If you like her design, it’s a solid choice. If not, you know it, skip!
 
-![favitemlaplace](media/favitem/favitemlaplace.png) ![favitemlaplacecurrency](media/favitem/favitemlaplacecurrency.png)
+<span class="color-green">Diesel:</span> With the addition of Rapi: Red hood, diesel treasure priority became almost non existent. She can be useful against certain bosses that need taunt such as Mother Whale, but realistically you will skip her.
 
-**<span class="color-yellow">Laplace</span> is actually okay, no Raid usage, but on missilis tower she is a good choice. Pick based on her appearance, if not skip!**  
+<span class="color-pink">Viper:</span> might be short lived in the meta (And really was!) She is water, an element that greatly lacks DPS. She went down the priority because better water NIKKEs have been released. Skip.
 
-![favitemfrima](media/favitem/favitemfrima.png) ![favitemfrimacurrency](media/favitem/favitemfrimacurrency.png)
+<span class="color-orange">Miranda:</span> Self buffs, coupled with low increase in team buffs. Snow White team has been powercrept for ages, and Miranda's favorite item doesn't change that. Skip.
 
-**<span class="color-gray">Frima</span> also needs time to become useful. She buffs true damage, but we still don’t have “true” true damage dealers yet. She does not have any usage at this moment.**  
-
-![favitemdiesel](media/favitem/favitemdiesel.png) ![favitemdieselcurrency](media/favitem/favitemdieselcurrency.png)
-
-**<span class="color-green">Diesel</span> if you want to push Elysion tower, you can invest her favorite item unit, as she never dies when full burst. She can be useful against certain bosses that need taunt such as Mother Whale.**
-
+<span class="color-gray">Frima:</span> also needs time to become useful. She buffs true damage, but we still don’t have “true” true damage dealers yet. She does not have any usage at this moment.
 
 # **Inventory, hoarding 101**
 
@@ -537,7 +533,7 @@ When the conditions are met, **you can instantly upgrade the <span class="color-
 
 ![arkbanner](media/arkbanner.png)
 
-**This is where you find all combat vertical content. This is also where you do your combat dailies.**  
+**This is where you find all combat vertical content and do your dailies.**  
 ![arkui](media/arkui.png)
 
 ## **Lost Sector**
@@ -557,7 +553,7 @@ The **<span class="color-blue">Bastion Cube</span>** can be found on **<span cla
 **Does that mean all other cubes are bad?** Short answer: **Yes, all other cubes suck, with some exceptions**
 
 **Get <span class="color-blue">Resilience</span> to level 7 then <span class="color-blue">Bastion</span> to level 7\. Once you are done you can choose which you want level to 10 first, and eventually to level 13+ both.**   
-**You can check the stats of each cube with this** [**sheet**](https://imgur.com/gallery/nikke-harmony-cubes-sheet-wHJ1dq9), credits to the KR NIKKE community
+**You can check the stats of each cube with this** [**link**](https://imgur.com/gallery/nikke-harmony-cubes-sheet-wHJ1dq9), credits to the KR NIKKE community
 
 #### **PVP only cubes** If you want to be competitive in  [SP Arena](#sp-arena), you can upgrade **<span class="color-orange">Quantum Cube</span>** ![quantumcubeicon](media/icon/quantumcubeicon.png  ':size=25 :no-zoom') and **Tempering Cube** ![temperingcubeicon](media/icon/temperingcubeicon.png  ':size=25 :no-zoom') to level 7, but only after upgrading **<span class="color-blue">Resilience</span>** and **<span class="color-blue">Bastion</span>** to 10+.
 
@@ -565,7 +561,7 @@ The **<span class="color-blue">Bastion Cube</span>** can be found on **<span cla
 
 #### **Tempering** is good if you need one NIKKE to survive, usually the P1. You want to put it on taunters like Noah and Noise.
 
-#### Tempering Cube can be useful for certain units like Liter and Crown against Indivilia in Abnormal Interception since she deals more damage against Iron units.
+#### Tempering Cube can be useful for certain units like Liter and Crown against Indivilia in Abnormal Interception since Indivilia deals more damage against Iron units.
 
 ## **Ranking**
 
@@ -577,7 +573,7 @@ If you open your profile, you can find your account server right beside your nam
 ![accountserver](media/accountserver.png)
 
 Here you can check your server ranking in various contents, the ranking of others in the same server, and earn **Frames** based on your ranking in various contents.  
-Check your **Frames** progress on ![rankingreward](media/rankingreward.png)
+Check your **Frames** progress on ![rankingreward](media/rankingreward.png) located in the Ark, at the bottom right of the screen.
 
 ## **Towers**
 
@@ -597,7 +593,9 @@ There are some rules regarding the manufacturer tower, this is the comparison:
 This is the ranked player vs player mode. Here, you can earn the Arena Exchange Vouchers ![arenaexchangevoucher](media/icon/arenavouchericon.png ':size=50 :no-zoom') used to buy your **elemental code manuals in the arena shop. They are needed to upgrade your NIKKEs skills past level 4\.**
 
 We would like to recommend [Prydwen](https://www.prydwen.gg/nikke/guides/pvp-intro) and [Nikke.gg](https://nikke.gg/arena/) PVP guides. If you don’t feel like immersing yourself too deeply in PVP, you can ask for team building help on any of the following Discord: [Official-NIKKE Discord](https://discord.gg/nikke-en), [NIKKE-Community Discord](https://discord.gg/nikke), [Prydwen Discord](https://discord.gg/prydwen), [NIKKEgg Discord](https://discord.gg/nikkegg).   
-Other players will gladly help you with pvp teams
+Other players will gladly help you with pvp teams.
+
+If you want a really useful tool to estimate the burst of your team, the BAS7IAL NIKKE DECK website is perfect for it! Currently it supports English and French.
 
 This mode has a division on **Rookie Arena** and **Special Arena(SP Arena)** with Champion Arena coming somewhere in the future, which we’re going to talk about next.
 
@@ -605,13 +603,13 @@ This mode has a division on **Rookie Arena** and **Special Arena(SP Arena)** wit
 
 ![pvprookiebanner](media/pvprookiebanner.png)
 
-Rookie arena consists of 1 team with 5 nikkes. You need to build an attack team and defensive team. Ranking is pretty simple, you earn stars each time you win against an opponent, more stars, better your ranking. If your defense loses, your star count goes down, and so your rank.   
+Rookie arena consists of 1 team with 5 Nikkes. You need to build an attack team and defensive team. Ranking is pretty simple, you earn stars each time you win against an opponent, more stars, better your ranking. If your defense loses, your star count goes down, and so your rank.   
 You can battle 3 times for free without Infrastructure Core Stage 6 and 5 times with the upgrade at level 6\. 
 
 Any attack past the daily free entries, you need to pay 100 gems per entry. We don’t recommend doing that in the rookie arena, as you do not earn gems for ranking positions.   
 The rookie arena season lasts for 2 weeks, and 1 waiting day in between season end and start. 
 
-Everyday you will be getting a mail of daily rewards from the arena, and at the end of the season you will get an amount of arena vouchers for your ranking.   
+Every day you will be getting a mail of daily rewards from the arena, and at the end of the season you will get an amount of arena vouchers for your ranking.   
 Thanks to Keripo you can use his [pvp sheet](https://docs.google.com/spreadsheets/d/15aPYfbMCB3JSYYgygwMvSLvyPUd_AQ0EhKawRXMsQgQ/edit?gid=1514064848#gid=1514064848) to see what teams are used and what winrate they have against different team comps.
 
 ### **SP arena**
@@ -622,8 +620,8 @@ The first thing you need to take note is, it includes **<span class="color-orang
 
 **You receive 2 free attacks every day** and more attempts cost gems.   
 **This mode has <span class="color-green">2 different ranks</span>**, one based on your **battle rank**, which you can only increase by actively winning attacks, and the other from how many SP arena points you have.   
-The main feature of this pvp mode is that you need **<span class="color-pink">3 teams in defense</span>, but 2 for attack.** You can “ignore” the strongest enemy team and only attack 2, as you only need to win twice…**The best defense is a massive gap in synchro levels!**  
-The main problem is: **you need to have a lot of nikkes, properly invested, in order to be able to compete here**. The best escapism that many chose is to outright ignore the existence of the SP arena.   
+The main feature of this pvp mode is that you need **<span class="color-pink">3 teams in defense</span>, but 2 for attack.** You can “ignore” the strongest enemy team and only attack 2, as you only need to win twice…**The best defense is a massive gap in combat power!**  
+The main problem is: **you need to have a lot of Nikkes, properly invested, in order to be able to compete here**. The best escapism that many chose is to outright ignore the existence of the SP arena.   
 Each season of the SP Arena **lasts for 2 weeks** and has 1 day of waiting period until next season, same as Rookie Arena. 
 
 **At the end of each season there is also a gem reward based on your ranking**
@@ -665,7 +663,18 @@ This is where you will get skill upgrade materials. Each difficulty comes with *
 
 [NIKKEgg](https://nikke.gg/simulation-room-overlock-overview-and-guide/) guide
 
-**<span class="color-red">Overclock</span>** is sim room, but much more difficult. **You can choose what nodes you want, and each will increase the difficulty ratio, up to 50\. All rewards are granted when you clear ratio 25, meaning ratio 26+ won’t reward you with nothing.** 
+<span class="color-red">Overclock</span> is a seasonal content that lasts 84~ days per cycle. In short, it is a more difficult simulation room. 
+
+**It will be permanently available once you clear simulation room 5-C.**
+
+Here, you can choose nodes that will modify how the enemies and the stage behave. Nodes increase the core ratio from 1 to 5  each, up to 50 with all selected. 
+
+<span class="color-red">However, all rewards are granted when you clear ratio 25.</span> Ratio 25 can be cleared with synchro 241+ and 8/8 <span class="color-blue">legacy buffs</span> that you can acquire through simulation room runs.
+
+For easier UI navigation, do as the GIF below. 
+
+Overclock Ratio 50 and infinite mode
+WIP
 
 ## **Interception up until late game**
 
