@@ -27,7 +27,7 @@ You can check what element will have advantage in the **<span class="color-red">
 You may use **N102.** She is a <span class="color-purple">purple (SR)</span> rarity Nikke that buffs your whole team attack, and you will probably acquire her when you do your tutorial pull.
 
 Only use SSR burst 1 Nikkes that have burst reduction skills over her, in order:
-Liter \> D: Killer Wife \> Rouge \> Dorothy \> Volume
+Rapi: Red Hood \> Liter \> D: Killer Wife \> Rouge \> Dorothy \> Volume
 
 Tia is a special case, as she **<span class="color-red">needs</span>** to be paired with Naga, a burst 2 nikke, as most of her skills need naga to be activated, along with another **burst 1 nikke,** because her burst skill re-enters burst phase 1\. <span class="color-red">If you use Tia as the only burst 1 in your team, you will not be able to do a full burst.</span> **The same applies to Alice: wonderland bunny and Rupee: Winter Shopper;** they cannot be used as the only burst 1 either.
 

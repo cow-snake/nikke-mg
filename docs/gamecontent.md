@@ -34,8 +34,7 @@ This is the new player event which is pretty common in all gacha games, complete
 
 ![alicediary](media/alicediary.png)
 
-Alice diary is a limited event that rewards you with **<span class="color-pink">Alice</span>** when you clear chapter 11, and lots more rewards as the days go on.   
-**It is a time limited event and unfortunately, ends on november 31, 2024\.**
+Alice diary is a limited event that rewards you with **<span class="color-pink">Alice</span>** when you clear chapter 11, and lots more rewards as the days go on.
 
 ### **BlaBla menu**
 
@@ -108,9 +107,9 @@ Just like the campaign, the events are also divided in **Normal and Hard stages.
 
 **<span class="color-pink">With the addition of Exchange Shop, Battle Data Sets and RE-Energy are a must buy. You can trade Battle data for dust cores and RE-Energy for random consoles</span>**
 
-**<span class="color-green">x30 core dust is what you will buy after everything is sold out</span>**
+**<span class="color-green">x30 core dust is good only in the early game, when you use very little core dust to level. After the 160 wall, you might only buy credits.**
 
-**<span class="color-orange">On the last day, after you bought core dust and still have event currency, you can buy the 2.000 credits. Even if you don’t, after the event’s end the currency is converted into credits and sent to your mail.</span>**
+**<span class="color-orange">After the event’s end the currency is converted into credits and sent to your mail, so do not worry if you didn’t use all event currency after everything is sold out.</span>**
 
 ![eventshopui](media/eventshopui.png)
 

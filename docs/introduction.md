@@ -26,7 +26,7 @@ Aside from the MLEM tier list, we don't plan to make one for character usefulnes
 |[Keripo’s PVP MatrixV2](https://docs.google.com/spreadsheets/d/15aPYfbMCB3JSYYgygwMvSLvyPUd_AQ0EhKawRXMsQgQ/edit?gid=1514064848#gid=1514064848)|
 |[tistree’s Union Raid Teams Guide](https://docs.google.com/spreadsheets/d/1LXHNQI93rWhk_2YmepnDfx4x8FAxHnQ4w9_vunhWryE/edit?rm=minimal&gid=1842582049#gid=1842582049)|
 |[Enikk.app (Raid database)](https://enikk.app/soloraid)|
-|[Shorty97 Progression Calculator V4.1 (originally khanonners’s)](https://docs.google.com/spreadsheets/d/1I5X8FkBDPCTyrLNrgE-09sS91xSrMDMcAO9Y0vwXotU/edit?gid=2101341028#gid=2101341028)|
+|[Shorty97 Progression Calculator V4.3 (originally khanonners’s)](https://docs.google.com/spreadsheets/d/1two1ZE6B9bUUxUipOm8ME0Lw4rkLppJE9t9250xh70w/edit?gid=2101341028#gid=2101341028)|
 |[Shorty97 OL calculator](https://docs.google.com/spreadsheets/d/1EHfhO7kO_-00jcSAQEMUaRQJWLzwijQjq1-WHRSmk-c/edit?gid=0#gid=0)|
 |[skuqre.’s FontGenerator (used in the image above!)](https://skuqre.github.io/nikke-font-generator/)|
 |[Sky’s Union Raid/Solo Raid Teams Guide](https://docs.google.com/spreadsheets/d/1zE11XTPotgn9XhhhvxCvUu-ZeaWlGUQgwG8wg1Gtf0g/htmlview?rm=minimal)|
