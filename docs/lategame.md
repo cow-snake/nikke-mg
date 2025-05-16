@@ -1,10 +1,11 @@
 # **Late Game**  
 
-**This will be a pretty quick section,** **as the Late Game stage happens between the time you reach synchro level 241+ and when you clear the Chapter 22-36 Boss <span class="color-red">Nihilister</span>,** **a second time**. **This then unlocks the new Interception, the [Anomaly](#anomaly-interception-ai) difficulty.**
+The Late Game stage is between the time you reach synchro level 241+ until Chapter 22-36 Boss <span class="color-red">Nihilister</span>, is defeated a second time. After that, it's the end game, when the new Interception, [Anomaly](#anomaly-interception-ai), is unlocked. 
 
 ### **Mother Whale, Chapter 21 Boss** 
 
-You probably didn’t feel any real challenge, at least not up until now. Synchro levels or combat power won't solve this one. Meet the **Mother Whale**, the second hardest boss in the game. This boss **needs** you to play manually.  
+You probably didn’t face any real challenge, not up until now. Synchro levels or combat power won't solve this one. Meet the **Mother Whale**, the second most manual heavy boss in the game. **This boss will force you to play manually.**
+
 
 ![motherwhale](media/motherwhale.png ':size=300 :no-zoom')
 
@@ -81,6 +82,8 @@ Elemental shield is a mechanic of Raptures that protects themselves from Nikkes 
 
 As introduced by Mother Whale, elemental shields will be commonly found on later stages in the game, mainly in Raids. Unlike Mother Whale's elemental shield, which can be removed by killing the mobs she summons. Elemental shields can also be destroyed by breaking the QTE with their respective elemental weakness. This makes elemental weakness very important for teambuilding in Raids when you are bringing specific Nikkes. Furthermore, elemental damage is a crucial stat for later stages and in Raids to deal even more damage. 
 
+![Crystal Chamber Elemental QTE](media/elementalqte.png)
+
 Elemental Damage is important because this stat is one of the most valuable in OL (Overload) gears. You can improve your damage by up to 116% just from the OL stats (29% per gear) alone. Pairing that with cubes that can improve your Elemental Damage by 8.48% (level 5 cube) to 19% (level 15 cube) respectively. The game has a lot of calculations for Elemental Damage that it even has its own separate damage calculation/formula.
 
 As per default, your Nikke will receive 10% Elemental Damage bonus stat, which then can be improved by equipping cubes and getting OL (Overload) stats, which on paper shows that you can receive up to 145% of Elemental Damage. These stats exclude the skills of the Nikke. This is why Elemental Damage is a big help when you’re trying to push as far as you can in campaign stages (normal/hard) with deficits.
@@ -107,7 +110,7 @@ Range: Far
 
    *Spawns Glass Slippers to buff his DEF (Courtesy: Kontossis on youtube)*
 
-   It comes back and **<span class="color-red">buffs itself with 360% DEF from the slippers</span>**. This defense buff makes you hit like a wet noodle. First, it shoots a crystal that deals AoE damage, then it will spawn the slippers and go into attack mode. You can tell when the slippers are going to attack when they start glowing blue. They have to be destroyed by **<span class="color-red">a single strong shot</span>.** Repeat this 4 times until all the slippers are destroyed. Each shot removes 1 layer (90%) of the DEF buff.
+   It comes back and **<span class="color-red">buffs itself with 360% ((90*4)%) DEF from the slippers</span>**. This defense buff makes you hit like a wet noodle. First, it shoots a crystal that deals AoE damage, then it will spawn the slippers and go into attack mode. You can tell when the slippers are going to attack when they start glowing blue. They have to be destroyed by **<span class="color-red">a single strong shot</span>** to remove 1 layer (90%) of DEF buff. Repeat this 4 times until all the slippers are destroyed. Each shot removes 1 layer (90%) of the DEF buff.
 
    If you can’t destroy slippers, just shoot to stun it because slippers attack mode deals huge damage to your Nikke (not recommended if your Nikke is CP high diff).   
      
@@ -180,37 +183,51 @@ The easiest boss that you encounter in AI. His main body is in the middle. His t
 
 1. **First phase**  
    Destroy the front tentacle as fast as you can. If you ignore this, he slaps all your Nikkes. The tentacles are tanky, but fortunately his front tentacle is a core, so you can deal bonus damage to it. The attack pattern will be:  
-   \- **Tentacle slaps, twice**  
+   \- **Tentacle slap, twice**  
+   Tentacle slap hits all Nikkes, and it pierces the cover, so if you bring an Electric Nikke, you have to destroy it because usually insta-death to Electric Nikke. You can deal bonus damage because the front tentacle part has a core. 
    \- **Throwing rocks**  
-   You can time Crown’s burst to block this attack, or if you don’t bring a shielder, just take cover.  
+   This attack lets Kraken throw rocks to your Nikke, but it doesn't pierce the cover. We suggest bringing a shielder Nikke like Crown/Tia to block these attacks, so you don’t have to take cover. Time your shielder burst to block this attack.
+   
+   If you don’t bring a shielder, but bring a healer, you can just tank this attack (if your healer isn’t electric). If you don’t bring shielder Nikke and healer, just take cover.
+
    \- **Elemental QTE**  
-   This attack sequence happens twice, after that, it will expose the core on his main body and dive. When he dives, special interruption.  
-     
-   In this phase, I suggest you aim for the front tentacle when they appear, core damage is your advantage to deal great damage.   
+   This attack can wipe all of your Nikke, so you have to destroy QTE. Manualling your Wind Nikke to aim when off burst.
+
+
+   In this phase, I suggest you aim for the front tentacle when they appear, core damage is your advantage to deal great damage. 
+
+
+   This attack sequence happens twice, after that, it will expose the core on his main body and dive. When he dives, special interruption.
 2. **Second phase**  
    Same as the first phase, but its front tentacle will be a lot squisher, but still needs full burst to destroy fast. Its back tentacle will shoot your Nikke so you have to destroy it too.   
      
-   What you do is aim on the core of the main body while destroying the front tentacle when he’s wiggling his tentacle. Destroy the back tentacle when off burst to prevent him shooting your Nikke. Back tentacle targets random Nikke so he may shoot your support or your main DPS, the problem is if you bring an Electric Nikke (usually Naga) then he decides to shoot down that Electric Nikke.
+   What you do is aim on the core of the main body while destroying the front tentacle when he is wiggling his tentacle. Destroy the back tentacle when off burst to prevent him shooting your Nikke. Back tentacle targets random Nikke so he may shoot your support or your main DPS, the problem is if you bring an Electric Nikke (usually Naga) then he decides to shoot down that Electric Nikke.
 
 **Team Building**  
 Burst 1 and 2 will be Liter and Crown, then you can choose Wind Burst 3 Nikke as main damage. 
 
 1. Sweaty: Scarlet Black Shadow with her assistant, Alice. Flex is Naga. If you bring Naga, you have to destroy all the parts.  
 2. Boomer Finger: Scarlet Black Shadow with Sakura: Bloom in Summer. Flex will be Naga. you can try Noir as an alternative Naga and make the run less sweaty.  
-3. SG team with Noir and Guilty works against this squid, with Blanc as healer. They can deals decent damage because of the big target of the main body.
+3. SG team with Noir and Guilty works against this squid, with Blanc as healer. They can deal decent damage because of the big target of the main body.
 
 **<span class="color-orange">Ultra</span>** 
 
 This Ultra has a destructible core unlike campaign counterparts, so his core isn’t permanent (because dev knows this boss is too biased as Red Hood’s punching bag). He never moves so basically acts like a punching bag for Pierce-type Nikkes. 
 
+Ultra parts can be hit using pierce by just hitting the core. You can deal damage 4 times by just hitting the core using piercers when his core and poison chamber parts are active.  And Ultra range is far, so perfect for snipers Nikke.
+
 **Attack Pattern**:
 
 **Phase 1:**
 
-- MG attacks, targets highest ATK Nikke  
+- MG attacks, targets highest ATK Nikke
+   Classic MG attack, but usually if your Nikke is well invested, this attack can’t hurt your Nikke. You can manually let the targeted Nikke take cover if not well invested or it targets Water Nikke.
 - QTE (Elemental Shield)  
+   If you ignore, Ultra will blow all your Nikke, dealing huge damage. Shoot QTE to cancel it.
 - AoE stun, can be blocked by shield  
+   This attack can be blocked by shield, timing your shield burst (Crown/Tia) when he’s ready to stomp.
 - Spits poison (DoT)
+   I suggest you taking cover because this DoT is no joke if you don’t bring a healer. This attack can kill your Water Nikke fast. 
 
 
 This attack occurs twice, then he sheds his skin and enters Special Interruption
@@ -218,16 +235,23 @@ This attack occurs twice, then he sheds his skin and enters Special Interruption
 **Phase 2:**
 
 - Flings poison if the parts aren’t destroyed (DoT)  
+   Destroy parts fast to cancel this attack, because DoT is not a joke when it hits Nikke. 
 - AoE stun  
+   Same as first, timing your shield
 - Spits poison (DoT)
+   Same as first phase too, take cover
 
-It will restore his core at phase 3, 5, 7 (need reference), so be prepared to manage your full burst for this. 
+It will restore his core at stages 2, 4, 6 and 8, so be prepared to manage your full burst for this. At stage 2, the respawning core overlaps the previous one (it’s the only time a respawning core overlaps the previous one). That means if the first core wasn’t destroyed by the time you hit stage 2, the core gets back to 100% hp. This only happens on stage 2. If you don’t destroy other stage cores in time, the next stage cores don’t overlap them. So if for example, you don’t destroy the stage 4 core by the time you hit stage 6 and then destroy it after you hit stage 6, the core will not respawn or get back to 100% hp so you lose one full core. 
+
+Stage 4 core is the second one that has two mechanics in it: first mechanic is if you don’t hit stage 4 within specific frame (when he starts charging his stun attack, he shouts, if you don’t get to stage 4 before his shout stops), the stage 4 core will still respawn but it will drop its max hp by 80-85% thus dropping your damage a lot. You can either stall his first triple QTE to delay his charging attack here if you don’t have the damage to get to stage 4 fast, or just damage race to stage 4 fast if you got the damage to not allow the core hp reduction (another option is to crit fish with Maxwell and hope her burst crits there). 
+
+The second mechanic of stage 4 core is that it, along with every other core (stage 6 and stage 8) and the sacs increase their HP by a lot so it gets a lot easier to shoot them without worrying you can accidentally destroy them with Red Hood or something before Maxwell bursts for example. His AoE spit poison attack can be tanked by a decent shielder up until stage 8. At stage 8, his damage increases enough that the spit breaks the shield so you need to take cover (awesome21snake: 2024).  
 
 You can put all Iron Nikkes in your team. For example, a team consists of Liter and Crown as burst 1 and 2, for burst 3 DPS, you pick Red Hood, then choose between Snow White or Maxwell (which have higher Elemental Damage OL line). For flex you can pick Helm: Aquamarine to amplify your team damage. If you need survival, you can take out one of the Iron-type Nikkes, for example Naga is a good choice for extra core damage.
 
 **<span class="color-purple">Mirror Container</span>**
 
-Basically it's the Mirror Container in Chapter 32 (read above), but easier. Core is permanent, so you can deal more damage. Glass Slippers only show up in 2 cycles. The most important difference is that **it will not restore Slippers that buff DEF by 360% when going into its Destruction Mode.** 
+Basically it's the Mirror Container in Chapter 32 (read above), but easier. Core is permanent, so you can deal more damage. Glass Slippers (replica) only shows up in 2 cycles. The most important difference is that **it will not restore Slippers that buff DEF by 360% when going into Destroy Mode. **
 
 Team Building gameplay will be the same as the Mirror Container Chapter 32 Boss. Ein with Anis: Sparkling Summer is your best choice against it. Example comp would be Burst 1 and 2 Rouge with Crown and if you want to optimize Anis’s damage, you can put Liter. Flex will be Exia with her Favorite Item or Naga.
 
@@ -239,12 +263,21 @@ This spider likes to call mobs during the fight. These mobs distract your Nikke 
 
 Hardest boss that you can encounter in AI. Has an attack that is unavoidable, so your iron supporters (Liter and Crown) have a high chance of dying. Has the highest base Defense stats and moves around a lot so hitting the core can be difficult.
 
+Problem is, our best fire DPS Nikkes besides Alice and Modernia for now (November 2024) are Nikke from Evangelion collab (Asuka, Rei). If you skip them, then your option will be limited until dev introduces another good fire DPS again.  
+
 **Tyrant-class Boss Tier List**
 
 ![tyrantbosstier](media/tyrantbosstier.png)
 
-- Very Easy: Generic attack (laser, projectiles, interceptable AoE attack), Usually no need healer to do good run. Canceling their gimmicks usually disables them completely. Basically punching bag Rapture. Auto friendly, you need manual aim to shoot QTE circles. Can run with generic team (all weapons) with 1 element strongest included.  
-- Easy: Generic attack, boss is punching bag but has 1 gimmick that can’t be disabled, but can be dodged. Suggested to bring healer against this boss, but it’s okay if not especially if the attack is cover dependent. Auto friendly, you need manual aim to shoot QTE circles. Can run with generic team (all weapons) with element strongest included.  
-- Medium: Generic attack, Has gimmicks that could be annoying but manageable. Bring healer or cover repair to solve the gimmick. Not auto friendly. Can run with generic team (all weapons) with element strongest included.  
-- Hard: has 1-2 annoying gimmick skills that need some treatment. Healer is necessary to deal with their gimmicks. Do unavoidable attacks that hurt your Nikke. Not Auto friendly. Can run a generic team, but suggested bringing certain Nikke to deal with their gimmick for easier run.  
-- Very Hard: has many gimmick attacks that you have to run a certain Nikke to deal with. Even if your Nikke level is higher, they can kill you if you don’t know how to deal with it. Not auto friendly (obviously). Certain Nikke is needed to deal with this kind of Rapture.
+As per November 2024:
+
+- Very Easy: Generic attacks (laser, projectiles, interceptable AoE attack) and usually won’t be needing a healer to do a good run. Canceling their gimmicks usually disables them completely. Basically a punching bag Rapture. Auto friendly, you might need to manually aim at the QTE circles. Can run a generic team (all weapons) with at least 1 elemental advantage included.
+
+- Easy: Generic attacks, same as above, boss is also a punching bag but has 1 gimmick that can’t be disabled, HOWEVER can be dodged. Suggested to bring healer against this boss, but it’s fine even if you don’t as the attack is cover dependent as well. Somewhat auto friendly and you still need to manually aim to shoot QTE circles. Can run with a generic team (all weapons) with elemental advantage included.
+
+- Medium: Generic attacks and has gimmicks that can be annoying but manageable. Bring a healer or cover repairer to solve this gimmick. Not as auto friendly as the others, but you can run a generic team (all weapons) with elemental  advantage included.
+
+- Hard: this has 1-2 annoying gimmick skills that need some planning. Healer is necessary to deal with their gimmicks. Does unavoidable attacks that deal a lot of damage. Not Auto friendly but you can run a generic team. It’s advisable to bring certain Nikkes to deal with their gimmick for an easier run.
+
+- Very Hard: has a lot of gimmick attacks that forces you to run certain Nikkes to deal with them. Even if your Nikke level is higher, they can still kill you if you don’t know how to deal with it. Very much NOT an auto friendly stage. Certain Nikkes are needed to deal with this kind of Rapture.
+
