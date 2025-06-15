@@ -42,7 +42,9 @@ This is the **REAL** Endgame content that Nikke provides for now. Basically, you
 
 Same as Solo Raid, Union Raid is a monthly event. Your Union will encounter 5 types of Raptures (3 Lord-class and 2 Tyrant-class). There will be levels, which once the 5 bosses of each level are defeated, the next level opens, and you need to repeat the process until level 10. With the December 2024 update, Union Raid HARD mode was added, changing a couple of things.
 
-It consists of brackets based on what day your Union was able to full clear all bosses. The day you clear all bosses is very important, altho there is no haste, the Union should aim to clear it before the next reset. If the Union succeeds in doing so, on the next reset, the hard mode will be open, with the same bosses, with increased HP DEF and ATK.
+It consists of brackets based on what day your Union was able to full clear all bosses to level 10. The day you clear is very important, altho there is no haste on the first 24 hours, the whole Union should aim to clear it before the next reset if possible. If you succeed in doing so, on the next reset, the hard mode will be open, with the same bosses, with increased HP DEF and ATK this time only up to level 3.
+
+Because of another update, and needed QoL for UR, **the bosses from the current hard mode level are open at all times**. 
 
 Up to 3 attacks per member. It’s best to coordinate with your Union to see who attacks what boss so you can min max the damage spread and get optimum clear times. There are a total of 3 levels, with the last boss of the third level having infinite HP, just like Solo Raid bosses.
 
@@ -54,11 +56,16 @@ You can check the best teams for each Union Raid [here](https://docs.google.com/
 
 A time limited event that you can do with friends or random people. Unfortunately, the UI for coop is pretty outdated so in order for you to access it, you have to find the Coop tab as shown below. 
 
-![coopbanner](media/coopbanner.png)
-
-
 It’s usually below your commander icon and/or can be accessed on the ![eventbannericon](media/eventbannericon.png) tab.
 
-Pretty simple mode and negligible ranking rewards. Most of the time, you will go AFK and just wait for the battle timer to run out. Simply participating is enough to receive all rewards needed to buy everything on the Recycling Shop
+![coopbanner](media/coopbanner.png)
+
+COOP was a meaningless mode until Stellar Blade collab. The update added a "new" difficulty, new currency (rusted bones), new shop goodies (refer to img below), and separated the casuals from tryhards. 
+
+Normal match is for those that want to do their dailies as fast as possible. Once your party reach phase 9, the boss will wipe everyone, ending the run quickly.
+
+Challenge mode is the old coop, with a twist. **Now your ranking actually matter**. Boss has infinite HP, once phase 9 a QTE wall will appear. 
+
+Gather a party of friends or guildies and do your best! **Aim for at least top 10%**, its a massive 36% increase in rusted bones, if compared to top 30% reward.
 
 ![coopelement](media/coopelement.png)
