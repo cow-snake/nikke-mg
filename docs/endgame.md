@@ -27,3 +27,7 @@ To counter them, there’s 3 way to go about it:
     They will receive damage from only 1 shot from any pellets. The problem is when you full burst, you would have to command other Nikke to take cover.
 - Ignore them and let them jump. 
     This method needs you to dodge when they start jumping. You can put all the Nikke to take cover or just build a shield to block it.
+
+This is an example change.
+
+This is an example image. ![alt text](media/commit-demo-image.png)
