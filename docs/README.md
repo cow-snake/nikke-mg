@@ -1,4 +1,4 @@
-# GODDESS OF VICTORY: NIKKE MEGA GUIDE V0.9
+# GODDESS OF VICTORY: NIKKE MEGA GUIDE V1.1
 
 ![Megaguide Banner](media/megaguide_banner.jpg)
 
@@ -24,7 +24,7 @@ Apple Store: [GODDESS OF VICTORY: NIKKE - Apple Store](https://apps.apple.com/us
 
 **MegaGuide links:**
 
-File share: [https://tinyurl.com/NKMEGAGUIDE](https://tinyurl.com/NKMEGAGUIDE)
+Gdoc share: [https://tinyurl.com/NKMEGAGUIDE](https://tinyurl.com/NKMEGAGUIDE) deprecated
 
 Discord server: [https://discord.gg/gWB3zCxa4t](https://discord.gg/gWB3zCxa4t)
 
@@ -32,7 +32,7 @@ YouTube channel: [https://www.youtube.com/@nikkemegaguide](https://www.youtube.c
 
 Reddit profile: [https://www.reddit.com/user/UncleRomanNIKKE/](https://www.reddit.com/user/UncleRomanNIKKE/)
 
-GitHub: Soon™
+GitHub: You are here!
 
 # Table of contents
 
