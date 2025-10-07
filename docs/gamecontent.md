@@ -36,6 +36,12 @@ This is the new player event which is pretty common in all gacha games, complete
 
 Alice diary is a limited event that rewards you with **<span class="color-pink">Alice</span>** when you clear chapter 11, and lots more rewards as the days go on.
 
+### **<span class="color-red">Drake: Road to Villain</span>**
+
+insert event img later
+
+Road to Villain event is the best event for resources in the game. It has 99 levels, and rewards are plentfull. It will also give you Drake, then copies of her. However, this event olny opens when you are done with Alice Diary, see it as a step up event for progression. You will miss the rewards this gives you... I miss it too.
+
 ### **BlaBla menu**
 
 ![blabla](media/blabla.png)
@@ -183,17 +189,15 @@ The “Pity” shop.
 **Resets daily**  
 ![mileageshopui](media/mileageshopui.png)
 
-**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25 :no-zoom')**  
-Once you do [COOP](raids.md#coop), you will receive **<span class="color-red">broken cores</span>**, the currency used here. 
+**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25 :no-zoom') ![rustedbones](media/icon/rustedbones.png 'size=25 :no-zoom')**
+Once you do [COOP](raids.md#coop), you will receive **<span class="color-red">broken cores</span>** and rusted bones, the currencies used here.
 
 **Resets weekly**  
 ![recyclingshopui](media/recyclingshopui.png)
 
 **Exchange Shop**
 
-**New shop introduced after Cinderella Patch.**
-
-**Unlocked with the completion of Chapter 21**
+**New shop introduced after Cinderella patch, unlocked with the completion of Chapter 21**
 
 **You can trade <span class="color-blue">3550k Battle Data Sets</span> ![battledataicon](media/icon/battledataicon.png ':size=25 :no-zoom') for <span class="color-red">100 Core Dust</span> ![core dust](media/icon/coredusticon.png ':size=25 :no-zoom') and <span class="color-yellow">30 RE-Energy</span>![reenergyicon](media/icon/reenergyicon.png ':size=25 :no-zoom') for a <span class="color-pink">Random Console Pack</span> that rewards any type of console.**  
 **<span class="color-red">Always trade</span> <span class="color-blue">Battle Data Sets</span> <span class="color-red">for core dust, but not all, save some</span> <span class="color-blue">Battle Data</span> <span class="color-red">to level afterwards.</span>**
@@ -662,18 +666,22 @@ This is where you will get skill upgrade materials. Each difficulty comes with *
 
 [NIKKEgg](https://nikke.gg/simulation-room-overlock-overview-and-guide/) guide
 
-<span class="color-red">Overclock</span> is a seasonal content that lasts 84~ days per cycle. In short, it is a more difficult simulation room. 
+<span class="color-red">Overclock</span> is seasonal content, that resets every 2 weeks, and last for aproximately 3 months per cycle. In short, it is a more difficult simulation room. 
 
 **It will be permanently available once you clear simulation room 5-C.**
 
-Here, you can choose nodes that will modify how the enemies and the stage behave. Nodes increase the core ratio from 1 to 5  each, up to 50 with all selected. 
+![overclockguide.png](media/overclockguide.png)
 
-<span class="color-red">However, all rewards are granted when you clear ratio 25.</span> Ratio 25 can be cleared with synchro 241+ and 8/8 <span class="color-blue">legacy buffs</span> that you can acquire through simulation room runs.
+Here, you can choose nodes that will modify how the enemies and the stage behave. Each node increase the core ratio from 1 to 5 each, up to 50 with all selected. When you finish ratio 50 for the first time in the current cycle you are, you will unlock infinite ratio, that if you complete, you gain a title.
 
-For easier UI navigation, do as the GIF below. 
+<span class="color-red">However, all skill books are granted when you clear ratio 25.</span> Ratio 25 can be cleared with synchro 241+ and 8/8 <span class="color-blue">legacy buffs</span> that you can acquire through simulation room runs, piece of cake.
 
-Overclock Ratio 50 and infinite mode
-WIP
+### **Overclock Ratio 50 and how to unlock infinite mode**
+
+Overclock ratio 50 can be done when you pick all nodes at max level. The lower nodes change from cycle to cycle, and also what strong element it is. To unlock infinite mode for that cycle, you need to clear ratio 50, not an easy task, but manageable.
+Infinite however, adds even more to the challenge. It will lock certain nikkes out and force you to use only strong element nikkes to clear it. This is it will look when infinite is available
+
+![overclockinfinite.png](media/overclockinfinite.png)
 
 ## **Interception up until late game**
 
