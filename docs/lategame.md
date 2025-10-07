@@ -88,9 +88,9 @@ Elemental Damage is important because this stat is one of the most valuable in O
 
 As per default, your Nikke will receive 10% Elemental Damage bonus stat, which then can be improved by equipping cubes and getting OL (Overload) stats, which on paper shows that you can receive up to 145% of Elemental Damage. These stats exclude the skills of the Nikke. This is why Elemental Damage is a big help when you’re trying to push as far as you can in campaign stages (normal/hard) with deficits.
 
-### **Mirror Container, Chapter 32 Boss**
+### **Mirror Container, Chapter 32 BOSS**
 
-The hardest boss to date (as of 11/04/2024). Has **defense buff mechanics** and parts that you must destroy with only **<span class="color-red">1 strong shot</span>**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
+The hardest boss to date (as of 07/10/2025). Has **defense buff mechanics** and parts that you must destroy with only **<span class="color-red">1 strong shot</span>**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
 
 ![mirrorcontainer](media/mirrorcontainer.png ':size=300 :no-zoom')
 
@@ -150,26 +150,62 @@ If you shoot it when you are off burst, you can just charge your sniper/RL and a
 
 If you shoot it when you’re full burst, you have to command all Nikkes to take cover, then you manually use the Sniper Nikke to aim and shoot. This is because when you’re in full burst, all Nikkes will follow your crosshair to shoot the target. You don’t want the other Nikkes to shoot Slipper making them immune to damage. 
 
+### **Behemoth: Chapter 34 BOSS**
+
+Profile  
+Class: Tyrant  
+Element: P.S.I.D WaterCode, weak against ElectricCode ![electric](media/icon/elementelectricicon.png)
+Range: Far
+
+WIP
+
+### **Black Snake: Chapter 36 BOSS**
+
+Profile
+Class: Tyrant
+Element: H.S.T.A FireCode - Weak agaisnt WaterCode ![water](media/icon/elementwatericon.png)
+Range: Far
+
+WIP
+
+### **Glutonny: Chapter 38 BOSS**
+
+Profile
+Class: Tyrant
+Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)
+Range: Far
+
+WIP
+
+### **Ziz: Chapter 40 BOSS**
+
+Profile
+Class: Tyrant
+Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)
+Range: Far
+
+WIP
+
 ## **Anomaly Interception (AI)** 
 
-**Unlocked after Chapter 22 is completed, or stage 22-36 <span class="color-red">Nihilister pt2</span>**. This is the current non seasonal endgame content. 
+**Unlocked after Chapter 22 is completed, stage 22-36 <span class="color-red">Nihilister second encounter</span>**.  
 
-**Each boss comes from the previous Solo Raids with increased difficulty for non level 301+ players. This is because even if the level cap is 400, it’s not fixed like the normal Solo Raids.**   
+**Each boss comes from previous Solo Raids or story chapters with increased difficulty and phases. The level cap is 400, but it’s not fixed, like the Special Interception.**   
 **This might sound like a bad thing but,** **at the same time** **<span class="color-yellow">even the first stage of AI, Stage 1, gives better rewards than Special Interception</span>**.   
 Another really cool thing is the ![customlockicon](media/customlockicon.png ':size=25 :no-zoom') **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
 
-**There are 5 bosses in total, each with the same set of rewards and also  Boss-specific rewards linked to them depending on what you need.**   
-**All of them are guaranteed to drop from Stage 1:**   
+**There are 5 bosses, each with the same set of base rewards and also Boss-specific additional rewards linked to each.**   
+**All items that are guaranteed to drop from Stage 1:**   
 **Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png ':size=25 :no-zoom') and gear pity boxes ![gear box](media/icon/gearpityboxicon.png ':size=25 :no-zoom') with the exception of <span class="color-green">Kraken</span>, as it does not drop gear pity boxes.**  
-**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png ':size=25 :no-zoom') (rocks) per clear depending on  the Stage you can reach.**
+**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png ':size=25 :no-zoom') (rocks), the drop % changes depending on the Stage you reached.**
 
-**However, the main benefit in doing Anomaly Interception is that you can choose what boss you want to fight (which gives you respective drops depending on what you need).** 
+**However, the main benefit of doing Anomaly Interception is that you can choose what boss you want to fight.** 
 
-**<span class="color-green">Kraken</span> ![wind](media/icon/elementwindicon.png) custom modules and custom module pity boxes but does NOT drop t9m gear**  
-**<span class="color-orange">Ultra</span> ![iron](media/icon/elementironicon.png) drops t9m helmet and helmet pity boxes**  
-**<span class="color-red">Indivillia</span> ![fire](media/icon/elementfireicon.png) drops t9m chest and chest pity boxes**  
-**<span class="color-purple">Mirror Container</span> ![electric](media/icon/elementelectricicon.png) drops t9m gauntlets and gauntlet pity boxes**  
-**<span class="color-blue">Harvester</span> ![water](media/icon/elementwatericon.png) drops t9m boot and boot pit boxes**  
+**<span class="color-green">Kraken</span> ![wind](media/icon/elementwindicon.png) custom modules and custom module pity boxes but DOES NOT drop any t9m gear**  
+**<span class="color-orange">Ultra</span> ![iron](media/icon/elementironicon.png) chance to drop t9m helmet and guaranteed helmet pity boxes**  
+**<span class="color-red">Indivillia</span> ![fire](media/icon/elementfireicon.png) chance to drop t9m chest and guaranteed chest pity boxes**  
+**<span class="color-purple">Mirror Container</span> ![electric](media/icon/elementelectricicon.png) chance to drop t9m gauntlets and guaranteed gauntlets pity boxes**  
+**<span class="color-blue">Harvester</span> ![water](media/icon/elementwatericon.png) chance to drop t9m boots and guaranteed boots pity boxes**  
 
 ![interceptionaidrop](media/interceptionaidrop.png)
 
@@ -212,7 +248,7 @@ Burst 1 and 2 will be Liter and Crown, then you can choose Wind Burst 3 Nikke as
 
 **<span class="color-orange">Ultra</span>** 
 
-This Ultra has a destructible core unlike campaign counterparts, so his core isn’t permanent (because dev knows this boss is too biased as Red Hood’s punching bag). He never moves so basically acts like a punching bag for Pierce-type Nikkes. 
+This Ultra has a destructible core unlike campaign counterparts, so his core isn’t permanent. He never moves so basically acts like a punching bag for Pierce-type Nikkes. 
 
 Ultra parts can be hit using pierce by just hitting the core. You can deal damage 4 times by just hitting the core using piercers when his core and poison chamber parts are active.  And Ultra range is far, so perfect for snipers Nikke.
 
@@ -251,9 +287,9 @@ You can put all Iron Nikkes in your team. For example, a team consists of Liter 
 
 **<span class="color-purple">Mirror Container</span>**
 
-Basically it's the Mirror Container in Chapter 32 (read above), but easier. Core is permanent, so you can deal more damage. Glass Slippers (replica) only shows up in 2 cycles. The most important difference is that **it will not restore Slippers that buff DEF by 360% when going into Destroy Mode. **
+Basically it's the Mirror Container in Chapter 32, but easier. Core is permanent, so you can deal more damage. Glass Slippers (replica) only shows up in 2 cycles. The most important difference is that **it will not restore Slippers that buff DEF by 360% when going into Destroy Mode. **
 
-Team Building gameplay will be the same as the Mirror Container Chapter 32 Boss. Ein with Anis: Sparkling Summer is your best choice against it. Example comp would be Burst 1 and 2 Rouge with Crown and if you want to optimize Anis’s damage, you can put Liter. Flex will be Exia with her Favorite Item or Naga.
+Team Building gameplay will be the same as the Mirror Container Chapter 32 Boss. Cindy and Xmaiden or Ein with Anis: Sparkling Summer is your best choice against it. Example comp would be Burst 1 and 2 Rouge with Crown and if you want to optimize Cindy’s damage, you can put Siren or Liter instead of Rouge. Flex can be Maid Mast if you miss xmaiden.
 
 **<span class="color-blue">Harvester</span>**
 
@@ -269,7 +305,7 @@ Problem is, our best fire DPS Nikkes besides Alice and Modernia for now (Novembe
 
 ![tyrantbosstier](media/tyrantbosstier.png)
 
-As per November 2024:
+As per October 2025:
 
 - Very Easy: Generic attacks (laser, projectiles, interceptable AoE attack) and usually won’t be needing a healer to do a good run. Canceling their gimmicks usually disables them completely. Basically a punching bag Rapture. Auto friendly, you might need to manually aim at the QTE circles. Can run a generic team (all weapons) with at least 1 elemental advantage included.
 
