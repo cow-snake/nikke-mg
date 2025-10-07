@@ -24,9 +24,9 @@ Apple Store: [GODDESS OF VICTORY: NIKKE - Apple Store](https://apps.apple.com/us
 
 **MegaGuide links:**
 
-Gdoc share: [https://tinyurl.com/NKMEGAGUIDE](https://tinyurl.com/NKMEGAGUIDE) deprecated
+Gdoc share V0.9 DEPRECATED!: [https://tinyurl.com/NKMEGAGUIDE](https://tinyurl.com/NKMEGAGUIDE)
 
-Discord server: [https://discord.gg/gWB3zCxa4t](https://discord.gg/gWB3zCxa4t)
+Discord server: [https://discord.gg/gWB3zCxa4t](https://discord.gg/yXAHGzcVKb)
 
 YouTube channel: [https://www.youtube.com/@nikkemegaguide](https://www.youtube.com/@nikkemegaguide)
 
