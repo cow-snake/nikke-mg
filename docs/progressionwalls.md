@@ -32,9 +32,9 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 **19-6: Screamer (Piano) \+ triple Bronchus (farters)**  
 19-15: Introducing Dagger (hitcount ball thrower) \+ Sentry (chain)
 20-15: How Glasses could be annoying
-20-31: Nihilister  
+20-31: BOSS Nihilister  
 **21-29: Glasses \+ Bullwhip (seahorse) \+ Bronchus, prevent you from meeting Mother Whale**  
-**21-32: [**The Mother Whale**](lategame.md#mother-whale-chapter-21-boss)**  
+**21-32: BOSS [**The Mother Whale**](lategame.md#mother-whale-chapter-21-boss)**  
 22-27: Sniper \+ Cube in high terrain  
 22-36: Nihilister with Ark City background theme
 **23-9: Barrage volley with barbells (thick elites)**  
@@ -57,9 +57,9 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 31-33: Insanely tanky stage with Sentry \+ Starfish  
 **31-35: Boss is Barbell (40% def up) with 3 healers Elite. GG**  
 **32-32: Launcher + Jellyfish + Bullwhip worst combo**  
-**32-33: [Mirror Container](lategame.md#mirror-container-chapter-32-boss)**  
-33-5: Introduction of volleyballs   
-**33-20: 30-6 but Iron**  
+**32-33: BOSS [Mirror Container](lategame.md#mirror-container-chapter-32-boss)**  
+**33-5: Introduction of volleyballs**   
+**33-20: 30-5 but Iron**  
 **33-20B-1: 6 Bronchus base defense stage**   
 34-3: Volleyball \+ Screamer spam   
 **34-11:  Screamer x2, Cube and lots of Volleyballs at the start**   
@@ -69,9 +69,14 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 **34-27: Volleyball spam \+ Satellite spam**   
 34-32: Volleyball madness   
 **34-35: Bronchus x2 then Bronchus x3 with Scimitar and Crawlers**
-34-38: Behemoth
+**34-38: BOSS Behemoth**
 35-33: Boss is Glasses, accompanied with Peekaboo and Dagger
-36-37: Black Snake
+**36-37: BOSS Black Snake**
+**37-35: Right before ch 37 boss, volleyballs, sea-horses, bullwhip, jellyfish... hardest ch37 stage**
+38-14: Insta kill rapture covered by a shield, Boss is also insta kill, bullwhip and daggers to top it off
+**38-32: same stage as 37-35**
+39-33: Volleyballs and BOSS is Glass
+**40-36: BOSS Zizz**
 
 List of Raptures that will hinder your progression:
 
@@ -82,6 +87,7 @@ Servant Class
 - Lure: They can move fast in the air so it’s hard to aim at them. Same as Bullwhip, hits hard without much warning. 
 - Cricket (sniper): they will charge first (around 3s) then shoot it to your Nikke, causing instant-death. Problem is if they hide in an environment that could be hard to aim at.
 - Cube (volley): Spams volley shots on your Nikke.
+- Mono eye (cube twin): One shot machine. Tiny red dot for warning, will wipe you out if left alive.
 - Dagger: A flying rapture, throws a hitcount black ball. If there are too many, it will overwhelm your Nikkes, especially if you don’t bring an MG. Introduced in Chapter 19.
 - Glitter/Remnant (Kamikaze): As their epithet suggests, they jump on your Nikkes and deal a lot of damage (can 1 shot).  
 - Capsule: So, you know the Kamikaze mechanics? Now, we put an elemental shield to protect them and THEN they jump on your Nikke. First introduced in chapter 25\.  
