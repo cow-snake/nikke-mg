@@ -1,3 +1,3 @@
 # **Manual Play: Beginner to Expert**
 
-A video to be made in the future. This one will take a long while…
+A video is on the making! Expect updates soon...
