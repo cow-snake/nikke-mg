@@ -6,13 +6,26 @@ After all we’ve covered, there’s only one thing left to do!!!
 ## **Hard-Stages!** 
 
 Normal stages, with “hard” on their name!
-They are the same stages as their normal counterparts, the only difference is the increased combat power requirement. 
-As of November 2024, Hard Stage 34-38 Boss is the highest stage available, cleared at synchro 521 by some amazing players.
-Most hard stage clears are posted on youtube, put in Hard stage X-X and you should probably find a few clear videos on it.
+They are the same stages as their normal counterparts, the only difference is the massive increase in combat power requirement. 
 
-The MegaGuide [Youtube Channel](https://www.youtube.com/@nikkemegaguide) also has some hard stage clears, go check it out!
+Most hard stage clears are posted on youtube, put in "NIKKE Hard stage X-X" and you should probably find a few clear videos of it.
+
+The MegaGuide [Youtube Channel](https://www.youtube.com/@nikkemegaguide) also has a growing number of hard stage clears, go check it out!
+
+## **Troublesome raptures**
+
+**Cube**
+
+**MonoEye**
+
+**Broncus**
+
+**Glasses**
+
+**Launcher**
 
 **Volleyball**
+
 ![Volleyball](media/volleyball.png)
 
 After the November 2024 update, they introduced a new rapture named Volleyball. This pesky ball will hinder your progress in chapter 33 and 34, as we said in Progression Wall.
@@ -27,3 +40,5 @@ To counter them, there’s 3 way to go about it:
     They will receive damage from only 1 shot from any pellets. The problem is when you full burst, you would have to command other Nikke to take cover.
 - Ignore them and let them jump. 
     This method needs you to dodge when they start jumping. You can put all the Nikke to take cover or just build a shield to block it.
+
+  **Wheel**
