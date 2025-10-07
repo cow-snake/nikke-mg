@@ -6,7 +6,7 @@ NIKKE’s Major Server Ranking Content
 
 **Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png ':size=25 :no-zoom')** which are used in the Union Shop.
 
-**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** which are used in the Recycling Shop.
+**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** and **<span="color-orange">rusted bones</span> ![rustedbones.png](media/rustedbones.png 'size=25 :no-zoom')** which are used in the Recycling Shop.
 
 ## **Solo Raid** 
 
@@ -60,12 +60,12 @@ It’s usually below your commander icon and/or can be accessed on the ![eventba
 
 ![coopbanner](media/coopbanner.png)
 
-COOP was a meaningless mode until Stellar Blade collab. The update added a "new" difficulty, new currency (rusted bones), new shop goodies (refer to img below), and separated the casuals from tryhards. 
+COOP was a meaningless mode until Stellar Blade patch. The update added a "new" difficulty, new currency **<span="color-green">rusted bones</span> ![rustedbones.png](media/rustedbones.png 'size=25 :no-zoom')**, new shop goodies (refer to img below), and separated it into normal mode and challenge mode. 
 
-Normal match is for those that want to do their dailies as fast as possible. Once your party reach phase 9, the boss will wipe everyone, ending the run quickly.
+Normal matchmaking is for those that want to do their dailies as fast as possible. Once the party reaches phase 9, the boss will wipe everyone, ending the run quickly.
 
-Challenge mode is the old coop, with a twist. **Now your ranking actually matter**. Boss has infinite HP, once phase 9 a QTE wall will appear. 
+Challenge mode is the old coop, with a twist. **Now your ranking actually matters**. Boss has infinite HP, once phase 9 a QTE wall will appear as usual, and the score as high as the party can do damage. 
 
-Gather a party of friends or guildies and do your best! **Aim for at least top 10%**, its a massive 36% increase in rusted bones, if compared to top 30% reward.
+Gather your friends or guildies and do your best! **Aim for at least top 10%!**, its a massive 36% increase in rusted bones, if compared to top 30% reward.
 
-![coopelement](media/coopelement.png)
+![coopelement](media/coopuserinterface.png)
