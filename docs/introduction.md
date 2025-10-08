@@ -19,6 +19,8 @@ Aside from the MLEM tier list, we don't plan to make one for character usefulnes
 # Useful Links
 |Links|
 |---|
+- BLABLALink:
+|[Blabla](https://www.blablalink.com/)__[Shiftypad](https://www.blablalink.com/shiftyspad)|
 - Major TierList websites:
 |[Prydwen Website](https://www.prydwen.gg/nikke/)|
 |[NIKKE.gg Website](https://nikke.gg/)|
