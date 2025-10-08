@@ -189,11 +189,11 @@ The “Pity” shop.
 **Resets daily**  
 ![mileageshopui](media/mileageshopui.png)
 
-**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25 :no-zoom') ![rustedbones](media/icon/rustedbones.png 'size=25 :no-zoom')**
-Once you do [COOP](raids.md#coop), you will receive **<span class="color-red">broken cores</span>** and rusted bones, the currencies used here.
+**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25 :no-zoom') ![rusted bone](media/rustedbone.png 'size=25 :no-zoom')**
+Once you do [COOP](raids.md#coop), you will receive **<span class="color-red">broken cores</span>** and **<span class="color-green">rusted bones</span>**, the currencies used here.
 
 **Resets weekly**  
-![recyclingshopui](media/recyclingshopui.png)
+![recyclingshopui](media/recyclingshop.png)
 
 **Exchange Shop**
 
