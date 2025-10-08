@@ -473,6 +473,7 @@ I won’t make an Overload in depth guide, as others already made them, and **co
 #### Collection / Dolls
 
 The **collection item system**, also referred to as the **Doll system, is a** **RNG fiesta**.   
+This amazing [Overload calculator](https://docs.google.com/spreadsheets/d/1KR8D61fYapZeaPIIZhd_2gzGV90XL7nSKw0ZJo5A20o/), made by shorty97 will help you greatly!
 **You can check [Prydwen](https://www.prydwen.gg/nikke/guides/collection-intro) and [NIKKEgg](https://nikke.gg/collection-item-guide-and-overview/) guides, both** *should* **be up to date.**  
 
 ![collectionbanner](media/collectionbanner.png)
