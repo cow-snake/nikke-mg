@@ -6,7 +6,7 @@ NIKKE’s Major Server Ranking Content
 
 **Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png ':size=25 :no-zoom')** which are used in the Union Shop.
 
-**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** and **<span class="color-orange" rusted bones</span> ![rusted bone](media/rustedbone.png 'size=25 :no-zoom')** which are used in the Recycling Shop.
+**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** and **<span class="color-orange" rusted bones</span> ![rusted bone](media/rustedbone.png ':size=25 :no-zoom')** which are used in the Recycling Shop.
 
 ## **Solo Raid** 
 
