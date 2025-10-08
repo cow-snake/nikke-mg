@@ -539,7 +539,7 @@ When the conditions are met, **you can instantly upgrade the <span class="color-
 ![arkbanner](media/arkbanner.png)
 
 **This is where you find all combat vertical content and do your dailies.**  
-![arkui](media/arkui.png)
+![arkmainui.png](media/arkmainui.png)
 
 ## **Lost Sector**
 
@@ -560,7 +560,7 @@ The **<span class="color-blue">Bastion Cube</span>** can be found on **<span cla
 **Get <span class="color-blue">Resilience</span> to level 7 then <span class="color-blue">Bastion</span> to level 7\. Once you are done you can level resilience to 11 first, and eventually to level 13+ both.**   
 **You can check the stats of each cube with this sheet**  
 
-[**cubessheet.png**](media/cubessheet.png)  
+[cubessheet.png](media/cubessheet.png)  
 
 *credits to the KR NIKKE community*
 
@@ -641,8 +641,10 @@ Each season of the SP Arena **lasts for 2 weeks** and has 1 day of waiting perio
 ![pvpranking](media/pvpranking.png)
 
 ### Champion Arena
+![CAbutton.png](media/CAbutton.png)
 
 This Arena is very difficult to enter. It is a Whale Showdown. Every 2 weeks, only the top 4 challengers in SP arena qualify. It has 3 phases, leagues (group) -> Promotion Tournament (top 64 to 16) -> Champion's Duel (top 8 to Champion)  
+![CAmain.png](media/CAmain.png)
 
 This mode is in BETA! season for almost 5 months. The guide for this is: Copy the previous champion lineup and tweak it to fit with your investments. But unless you are a full c7 account, chances are, you will lose somewhere along the way to simply investment diff, rng, bugs, bad matchups. If you win, congratz! **You win a frame**. Yeah, that's it.  
 
@@ -706,7 +708,7 @@ Infinite however, adds even more to the challenge. It will lock certain nikkes o
 
 ### **Interception level S Gravedigger** 
 
-9-15 unlocks level interception level S
+9-15 unlocks level interception level S  
 
 ### **Interception EX or Special Interception (SI)**
 
@@ -722,3 +724,17 @@ Infinite however, adds even more to the challenge. It will lock certain nikkes o
 **Stage 9 also has a chance to drop custom modules ![custom module](media/icon/custommoduleicon.png ':size=25 :no-zoom')**
 
 **Until you clear chapter 22-36 the [Anomaly Interception](lategame.md#anomaly-interception-ai) will be locked, however, you have officially graduated from the early game!**
+
+### **Solo Raid Museum**  
+Previous Solo Raids, now with buffs and better rewards! The bosses are:  
+- <span class="color-purple">Mother Whale</span> ![elementelectricicon](media/icon/elementelectricicon.png ':size=25 :no-zoom')  
+- <span class="color-blue">Blacksmith</span> ![elementwatericon](media/icon/elementwatericon.png ':size=25 :no-zoom')  
+- <span class="color-orange">Ultra</span> ![elementironicon](media/icon/elementironicon.png ':size=25 :no-zoom')  
+
+But differently from the usual Solo Raid, we have 2 twists. Permanent boss buffs, **<span class="color-red">Weekly buffs</span> and "No Limit Mode".** Permanent buffs are tied to each boss. When attacking <span class="color-purple">Mother Whale, your teams will receive 15% distributed damage</span>, <span class="color-blue">Blacksmith 30% core damage</span>, <span class="color-orange">Ultra 15% pierce damage</span>. <span class="color-red">Weekly buffs</span> change, you guessed it, on a weekly basis for one of the 3 bosses, increasing your chances of doing more damage and reaching higher phases.  
+
+![museummain.png](media/museummain.png)  
+
+But there is a little problem... You need to beat the real top 1 score to unlock the No Limit mode. Well not that big of a problem, since Mother Whale and Blacksmith were the very first and second Solo Raid ever, means only your first team should suffice to beat it. As for Ultra, the top 1 score should be above 10 billion, which might prove to be difficult if you are still not in the late game.
+
+What teams you should use? Well that depends a LOT on who you have, and which weekly buffs is running. Ask in any discord you may like for advice.
