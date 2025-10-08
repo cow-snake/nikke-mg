@@ -38,7 +38,7 @@ Alice diary is a limited event that rewards you with **<span class="color-pink">
 
 ### **<span class="color-red">Drake: Road to Villain</span>**
 
-![drakedroadtovillain.png](media/drakedroadtovillain.png)
+![drakedroadtovillain.png](media/drakedroadtovillain.png ':size=50 :no-zoom')
 
 Road to Villain event is the best event for resources in the game. It has 99 levels, and rewards are plentfull. It will also give you Drake, then copies of her. However, this event olny opens when you are done with Alice Diary, see it as a step up event for progression. You will miss the rewards this gives you... I miss it too.
 
@@ -54,7 +54,7 @@ In the main screen, upper left, you will see the icon above. That’s your BlaBl
 
 ![arcadeicon](media/icon/arcadeicon.png)
 
-Updated mini game menu! You can play M.O.G. (Memory of Goddess), For the King, Gift Factory and BBQ Master! All buttons are interactive.
+Updated mini game menu! You can play M.O.G. (Memory of Goddess), For the King, Gift Factory, BBQ Master, Dessert Rush, In the Mirror and Let's Play Soda! All buttons are interactive, they are pretty fun.
 
 ![arcademenu](media/arcademenu.png)
 
@@ -189,7 +189,7 @@ The “Pity” shop.
 **Resets daily**  
 ![mileageshopui](media/mileageshopui.png)
 
-**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25 :no-zoom') ![rusted bone](media/rustedbone.png 'size=25 :no-zoom')**
+**Recycling Shop ![brokencoreicon](media/icon/brokencoreicon.png ':size=25 :no-zoom') ![rusted bone](media/rustedbone.png ':size=25 :no-zoom')**
 Once you do [COOP](raids.md#coop), you will receive **<span class="color-red">broken cores</span>** and **<span class="color-green">rusted bones</span>**, the currencies used here.
 
 **Resets weekly**  
@@ -502,23 +502,25 @@ When the conditions are met, **you can instantly upgrade the <span class="color-
 
 **Currently, there are 9 favorite items targets, from top to bottom, ranked by usefulness:**   
 
-<span class="color-blue">Helm:</span> The best favorite item target. She is a top priority for Raids and PVP. Her burst generation and dmg after phase 3 make her a really strong off burst option. Build her as soon as you can.
+<span class="color-blue">Helm:</span> The best favorite item target. She is a top priority for Story, Raids and PVP (yes, all contents). Her burst generation and dmg after phase 3 make her a really strong burst 3 dps and off burst option. Build her as soon as you can.  
 
-<span class="color-red">Drake:</span> Another unit massively improved with her favorite item. Massive buffs for the Shotgun Team, and also for PVP. After Helm is done, build drake also ASAP.
+<span class="color-red">Drake:</span> Another unit massively improved with her favorite item. Massive buffs for the Shotgun Team, and also for PVP. After Helm is done, build drake also ASAP.  
 
-<span class="color-purple">Exia:</span> Fell a little below the priority list, but still used. If you didn’t get her favorite item yet, you can skip her until everyone else is done.
+<span class="color-yellow">Laplace:</span>  is actually okay if you like her, no Solo Raid usage, but missilis tower and UR she might be a good choice. If you don't like her design, skip!  
 
-<span class="color-yellow">Laplace:</span>  is actually okay if you like her, no Solo Raid usage, but missilis tower and UR she might be a good choice. If you don't like her design, skip!
+<span class="color-orange">Miranda:</span> Self buffs, coupled with low increase in team buffs. Snow White team has been powercrept for ages, and Miranda's favorite item doesn't change that. Skip.  
 
-<span class="color-gray">Milk:</span> CDR, some offensive buffs. All in all, okay favorite item target. If you like her design, it’s a solid choice. If not, you know it, skip!
+-Line to separate usable to unusable units. Above you should build eventually, below is for situational cases or never, at all.  
 
-<span class="color-green">Diesel:</span> With the addition of Rapi: Red hood, diesel treasure priority became almost non existent. She can be useful against certain bosses that need taunt such as Mother Whale, but realistically you will skip her.
+<span class="color-pink">Viper:</span> Viper is water, an element that greatly lacks DPS. She went down the priority because better water NIKKEs have been released, such as Helm fav item and summer doro. If you own a water funnel account, she goes after helmT in priority. If you don't know what funnel acc means, you should skip.  
 
-<span class="color-pink">Viper:</span> might be short lived in the meta (And really was!) She is water, an element that greatly lacks DPS. She went down the priority because better water NIKKEs have been released. Skip.
+<span class="color-gray">Frima:</span> True damage buffer. Problem is, no CDR. She is a solid non-meta option if you like her design and want to work around true dmg meta. The Fav item story is great too! Purely meta-wise, skip.  
 
-<span class="color-orange">Miranda:</span> Self buffs, coupled with low increase in team buffs. Snow White team has been powercrept for ages, and Miranda's favorite item doesn't change that. Skip.
+<span class="color-purple">Exia:</span> Fell off the meta as time went by. You can skip her as of today's meta.  
 
-<span class="color-gray">Frima:</span> also needs time to become useful. She buffs true damage, but we still don’t have “true” true damage dealers yet. She does not have any usage at this moment.
+<span class="color-gray">Milk:</span> Lackluster CDR, some offensive buffs. All in all, bad favorite item target. Ignore her.  
+
+<span class="color-green">Diesel:</span> Value is so low it hurts. Missed oportunity...  
 
 # **Inventory, hoarding 101**
 
@@ -528,7 +530,7 @@ When the conditions are met, **you can instantly upgrade the <span class="color-
 
 **For skill manuals, pick the one you miss the most, but never <span class="color-purple">skill 2</span> ![skillbook2icon](media/icon/skillbook2icon.png ':size=25 :no-zoom') or <span class="color-purple">burst 2</span> ![burstbook2icon](media/icon/burstbook2icon.png ':size=25 :no-zoom') as you get a lot of them from event shops, you will have thousands of them in no time.**  
 **Most of the time, you will pick skill 1 ![skillbook1icon](media/icon/skillbook1icon.png ':size=25 :no-zoom') or skill 3 ![skillbook3icon](media/icon/skillbook3icon.png ':size=25 :no-zoom') and burst 3 ![burstbook3icon](media/icon/burstbook3icon.png ':size=25 :no-zoom')**   
-**Burst 1 manuals ![burstbook1icon](media/icon/burstbook1icon.png ':size=25 :no-zoom') can also be an option, only when you have at least 350 burst 3 manuals stored.** 
+**Burst 1 manuals ![burstbook1icon](media/icon/burstbook1icon.png ':size=25 :no-zoom') can also be an option.** 
 
 **When should you open supply crates?** When you can reach the next 20 level bracket. You can keep track of that with this [**progression calculator**](https://docs.google.com/spreadsheets/d/1I5X8FkBDPCTyrLNrgE-09sS91xSrMDMcAO9Y0vwXotU/edit?usp=sharing)
 
@@ -555,16 +557,21 @@ The **<span class="color-blue">Bastion Cube</span>** can be found on **<span cla
 
 **Does that mean all other cubes are bad?** Short answer: **Yes, all other cubes suck, with some exceptions**
 
-**Get <span class="color-blue">Resilience</span> to level 7 then <span class="color-blue">Bastion</span> to level 7\. Once you are done you can choose which you want level to 10 first, and eventually to level 13+ both.**   
-**You can check the stats of each cube with this** [**link**](https://imgur.com/gallery/nikke-harmony-cubes-sheet-wHJ1dq9), credits to the KR NIKKE community
+**Get <span class="color-blue">Resilience</span> to level 7 then <span class="color-blue">Bastion</span> to level 7\. Once you are done you can level resilience to 11 first, and eventually to level 13+ both.**   
+**You can check the stats of each cube with this sheet**  
 
-#### **PVP only cubes** If you want to be competitive in  [SP Arena](#sp-arena), you can upgrade **<span class="color-orange">Quantum Cube</span>** ![quantumcubeicon](media/icon/quantumcubeicon.png  ':size=25 :no-zoom') and **Tempering Cube** ![temperingcubeicon](media/icon/temperingcubeicon.png  ':size=25 :no-zoom') to level 7, but only after upgrading **<span class="color-blue">Resilience</span>** and **<span class="color-blue">Bastion</span>** to 10+.
+[**cubessheet.png**](media/cubessheet.png)  
 
-#### **<span class="color-orange">Quantum</span>** enhances the burst generation of Rocket Launcher NIKKEs (It works on all gun types, but aside from RLs, the burst generation is negligible) **It makes your team burst faster, which is key in pvp.**
+*credits to the KR NIKKE community*
 
-#### **Tempering** is good if you need one NIKKE to survive, usually the P1. You want to put it on taunters like Noah and Noise.
+#### **PVP only cubes**  
+If you want to be competitive in [SP Arena](#sp-arena), you can upgrade **<span class="color-orange">Quantum Cube</span>** ![quantumcubeicon](media/icon/quantumcubeicon.png  ':size=25 :no-zoom') and **Tempering Cube** ![temperingcubeicon](media/icon/temperingcubeicon.png  ':size=25 :no-zoom') to level 7, but only after upgrading **<span class="color-blue">Resilience</span>** and **<span class="color-blue">Bastion</span>** to at least 11.
 
-#### Tempering Cube can be useful for certain units like Liter and Crown against Indivilia in Abnormal Interception since Indivilia deals more damage against Iron units.
+#### **<span class="color-orange">Quantum</span>** enhances the burst generation of Rocket Launcher NIKKEs (It works on all gun types, but aside from RLs, the burst generation is negligible) **It makes your team burst faster, which is key in pvp. This will not increase burst generation from skill! HelmT and rosanna skills for example, will not benefit from using it.**
+
+#### **Tempering** is good if you need a NIKKE to survive, and she doesn't have copies or leveled gear. You want to put it on the p1, or on everyone on the team depending on the situation.
+
+#### Tempering Cube can also be useful for certain units like Liter, Crown, shelm, srosa against any boss that might target lowest hp or in general when they might be dying early. A common cheese is to give a Purple doll, at level 0, and equip tempering. That combo should be enough to make them stay alive, and is really cheap.
 
 ## **Ranking**
 
@@ -576,7 +583,7 @@ If you open your profile, you can find your account server right beside your nam
 ![accountserver](media/accountserver.png)
 
 Here you can check your server ranking in various contents, the ranking of others in the same server, and earn **Frames** based on your ranking in various contents.  
-Check your **Frames** progress on ![rankingreward](media/rankingreward.png) located in the Ark, at the bottom right of the screen.
+Check your **Frames** progress on ![rankingreward](media/rankingreward.png) ,inside the Ranking menu, at the bottom right of the screen.
 
 ## **Towers**
 
@@ -598,9 +605,9 @@ This is the ranked player vs player mode. Here, you can earn the Arena Exchange 
 We would like to recommend [Prydwen](https://www.prydwen.gg/nikke/guides/pvp-intro) and [Nikke.gg](https://nikke.gg/arena/) PVP guides. If you don’t feel like immersing yourself too deeply in PVP, you can ask for team building help on any of the following Discord: [Official-NIKKE Discord](https://discord.gg/nikke-en), [NIKKE-Community Discord](https://discord.gg/nikke), [Prydwen Discord](https://discord.gg/prydwen), [NIKKEgg Discord](https://discord.gg/nikkegg).   
 Other players will gladly help you with pvp teams.
 
-If you want a really useful tool to estimate the burst of your team, the BAS7IAL NIKKE DECK website is perfect for it! Currently it supports English and French.
+If you want a really useful tool to estimate the burst of your team, the [BAS7IAL NIKKE DECK](https://nikke-deck.web.app/) is perfect for it! Currently it supports English, French, Korean and Japanese.
 
-This mode has a division on **Rookie Arena** and **Special Arena(SP Arena)** with Champion Arena coming somewhere in the future, which we’re going to talk about next.
+The PVP modes are: **Rookie Arena**, **Special Arena(SP Arena)** and **Champion Arena.**
 
 ### **Rookie arena**
 
@@ -635,7 +642,13 @@ Each season of the SP Arena **lasts for 2 weeks** and has 1 day of waiting perio
 
 ### Champion Arena
 
-This Arena is still unavailable, devs said to be released in September 2023\. It's almost November 2024 and nothing but promises.
+This Arena is very difficult to enter. It is a Whale Showdown. Every 2 weeks, only the top 4 challengers in SP arena qualify. It has 3 phases, leagues (group) -> Promotion Tournament (top 64 to 16) -> Champion's Duel (top 8 to Champion)  
+
+This mode is in BETA! season for almost 5 months. The guide for this is: Copy the previous champion lineup and tweak it to fit with your investments. But unless you are a full c7 account, chances are, you will lose somewhere along the way to simply investment diff, rng, bugs, bad matchups. If you win, congratz! **You win a frame**. Yeah, that's it.  
+
+For everyone that didn't qualify (the vast majority) you can "cheer" on who do you think will win in prederminated matchups the game will pick for you. If you succeed on your cheer, you win an amazing 6x 1h credits boxes. If you lose, you get nothing. **If you lose, or win all cheers in a single season, you will get a frame, one for losing all, one for winning all.**  
+
+This mode is probably one of the worst additions to the game, ever.  
 
 ## **Simulation Room**
 
@@ -679,7 +692,7 @@ Here, you can choose nodes that will modify how the enemies and the stage behave
 ### **Overclock Ratio 50 and how to unlock infinite mode**
 
 Overclock ratio 50 can be done when you pick all nodes at max level. The lower nodes change from cycle to cycle, and also what strong element it is. To unlock infinite mode for that cycle, you need to clear ratio 50, not an easy task, but manageable.
-Infinite however, adds even more to the challenge. It will lock certain nikkes out and force you to use only strong element nikkes to clear it. This is it will look when infinite is available
+Infinite however, adds even more to the challenge. It will lock certain nikkes out and force you to use only strong element nikkes to clear it. This is it will look when infinite is available:
 
 ![overclockinfinite.png](media/overclockinfinite.png)
 
@@ -697,7 +710,7 @@ Infinite however, adds even more to the challenge. It will lock certain nikkes o
 
 ### **Interception EX or Special Interception (SI)**
 
-**Bosses rotates in this order:** **<span class="color-red">Alteisen MkVI</span> ![elementfireicon](media/icon/elementfireicon.png  ':size=25 :no-zoom') ➡ <span class="color-orange">Grave Digger</span> ![elementironicon](media/icon/elementironicon.png ':size=25 :no-zoom') ➡ <span class="color-blue">Blacksmith</span> ![elementwatericon](media/icon/elementwatericon.png) ':size=25 :no-zoom' ➡ <span class="color-purple">Chatterbox</span> ![elementelectricicon](media/icon/elementelectricicon.png ':size=25 :no-zoom') ➡ <span class="color-green">Modernia</span> ![elementwindicon](media/icon/elementwindicon.png ':size=25 :no-zoom') ➡ Repeat**
+**Bosses rotates in this order:** **<span class="color-red">Alteisen MkVI</span> ![elementfireicon](media/icon/elementfireicon.png  ':size=25 :no-zoom') ➡ <span class="color-orange">Grave Digger</span> ![elementironicon](media/icon/elementironicon.png ':size=25 :no-zoom') ➡ <span class="color-blue">Blacksmith</span> ![elementwatericon](media/icon/elementwatericon.png ':size=25 :no-zoom') ➡ <span class="color-purple">Chatterbox</span> ![elementelectricicon](media/icon/elementelectricicon.png ':size=25 :no-zoom') ➡ <span class="color-green">Modernia</span> ![elementwindicon](media/icon/elementwindicon.png ':size=25 :no-zoom') ➡ Repeat**
 
 
 **Each with the color of their respective weak element code. Videos for each boss have yet to be made, stay tuned!**  
