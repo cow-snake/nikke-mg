@@ -24,15 +24,15 @@ Apple Store: [GODDESS OF VICTORY: NIKKE - Apple Store](https://apps.apple.com/us
 
 **MegaGuide links:**
 
-Gdoc share V0.9 DEPRECATED!: [https://tinyurl.com/NKMEGAGUIDE](https://tinyurl.com/NKMEGAGUIDE)
+GitHub: You are here!
 
-Discord server: [https://discord.gg/gWB3zCxa4t](https://discord.gg/yXAHGzcVKb)
+**MG Discord Community HUB: [https://discord.gg/gWB3zCxa4t](https://discord.gg/yXAHGzcVKb)**
 
-YouTube channel: [https://www.youtube.com/@nikkemegaguide](https://www.youtube.com/@nikkemegaguide)
+**YouTube channel: [https://www.youtube.com/@nikkemegaguide](https://www.youtube.com/@nikkemegaguide)**
 
 Reddit profile: [https://www.reddit.com/user/UncleRomanNIKKE/](https://www.reddit.com/user/UncleRomanNIKKE/)
 
-GitHub: You are here!
+Gdoc share V0.9 DEPRECATED!: [https://tinyurl.com/NKMEGAGUIDE](https://tinyurl.com/NKMEGAGUIDE)
 
 # Table of contents
 
