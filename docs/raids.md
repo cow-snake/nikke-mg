@@ -6,7 +6,7 @@ NIKKE’s Major Server Ranking Content
 
 **Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png ':size=25 :no-zoom')** which are used in the Union Shop.
 
-**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** which are used in the Recycling Shop.
+**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** and **<span class="color-orange" rusted bones</span> ![rusted bone](media/rustedbone.png 'size=25 :no-zoom')** which are used in the Recycling Shop.
 
 ## **Solo Raid** 
 
@@ -18,9 +18,9 @@ This is a monthly “event”, which will feature a special BOSS (Tyrant-class) 
 
 **<span class="color-orange">You receive 3 entries every day</span>.** Each entry allows you to utilize up to 5 separate teams to beat the boss. If you can clear all difficulties up to 7, you can then just proceed to clearing difficulty 5 next reset as the rewards will be the same had you done difficulty 7 \- and then use quick battle to finish the rest of the runs.
 
-**First difficulty should be easy with synchro 41, and each subsequent difficulty requires 20 synchro levels more than the previous Synchro 160 with one or two level 200 NIKKEs should be enough for difficulty 7 clear.**
+**First difficulty should be easy with synchro 41, and each subsequent difficulty requires 20 synchro levels more than the previous stage. Synchro 160 with one or two level 200 NIKKEs should be enough for difficulty 7 clear.**
 
-The event usually starts from **Thursday, the first week of the month at 12:00 PM UTC+9** (Seoul, Korea time) and lasts for a week, finishing on the next **Thursday at 05:00 AM UTC+9**. The challenge mode opens on the third day, because you only attempt it three times a day.
+The event usually starts from **Thursday, the first week of the month at 12:00 PM UTC+9** (Seoul, Korea time) and lasts for a week, finishing on the next **Thursday at 05:00 AM UTC+9**. The challenge mode opens on the third day, because you can only attempt it three times a day.
 
 **Solo Raid Team Building**
 
@@ -34,7 +34,7 @@ Keep in mind that you might need to learn some of the boss’ mechanics before b
 
 The goal is to deal as much damage you can to the boss with 5 separate teams. The level of Nikkes are fixed to level 400 regardless of your current level. The more invested your Nikkes are the higher the score that you can potentially get (skills/cores/dolls and so on). 
 
-After you finish attacking with five teams in Challenge Mode, the total score will be the total damage dealt by each team combined. It will be put on the leaderboard of each server, and show your rank percentage and its respective position in the leaderboard. The higher score you get, the more gems you’ll receive and the possibility to get a better frame.
+After you finish attacking with five teams in Challenge Mode, the total score will is the same to the damage dealt by each team combined. It will be put on the leaderboard of each major server, and show your rank percentage and its respective position in the leaderboard. The higher score you get, the more gems you’ll receive and the possibility to get a better frame.
 
 This is the **REAL** Endgame content that Nikke provides for now. Basically, your invested Nikkes are going to be used in Solo Raid Challenge Mode or SP Arena PvP. Pushing hard stages is basically time gated by synchro levels.
 
@@ -44,9 +44,9 @@ Same as Solo Raid, Union Raid is a monthly event. Your Union will encounter 5 ty
 
 It consists of brackets based on what day your Union was able to full clear all bosses to level 10. The day you clear is very important, altho there is no haste on the first 24 hours, the whole Union should aim to clear it before the next reset if possible. If you succeed in doing so, on the next reset, the hard mode will be open, with the same bosses, with increased HP DEF and ATK this time only up to level 3.
 
-Because of another update, and needed QoL for UR, **the bosses from the current hard mode level are open at all times**. 
+Because of another update, and needed QoL for UR, **the bosses on the current hard mode level will be open at all times unless they are dead**. 
 
-Up to 3 attacks per member. It’s best to coordinate with your Union to see who attacks what boss so you can min max the damage spread and get optimum clear times. There are a total of 3 levels, with the last boss of the third level having infinite HP, just like Solo Raid bosses.
+Up to 3 attacks per guild member. It’s best to coordinate with your Union to see who attacks what boss so you can min max the damage spread and get optimum clear times. There are a total of 3 levels, with the last boss of the third level having infinite HP, just like Solo Raid bosses.
 
 It starts every **Friday, on the third/fourth week of the month at 5:00 AM UTC+9** (Server daily reset) until **Thursday, a week later at 05:00 AM UTC+9.** This can change so it’s best to keep an eye out for announcements from your guild.
 
@@ -68,4 +68,4 @@ Challenge mode is the old coop, with a twist. **Now your ranking actually matter
 
 Gather a party of friends or guildies and do your best! **Aim for at least top 10%**, its a massive 36% increase in rusted bones, if compared to top 30% reward.
 
-![coopelement](media/coopelement.png)
+![coopuserinterface](media/coopuserinterface.png)
