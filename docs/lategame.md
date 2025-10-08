@@ -88,10 +88,6 @@ Elemental Damage is important because this stat is one of the most valuable in O
 
 As per default, your Nikke will receive 10% Elemental Damage bonus stat, which then can be improved by equipping cubes and getting OL (Overload) stats, which on paper shows that you can receive up to 145% of Elemental Damage. These stats exclude the skills of the Nikke. This is why Elemental Damage is a big help when you’re trying to push as far as you can in campaign stages (normal/hard) with deficits.
 
-### **Mirror Container, Chapter 32 BOSS**
-
-The hardest boss to date (as of 07/10/2025). Has **defense buff mechanics** and parts that you must destroy with only **<span class="color-red">1 strong shot</span>**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
-
 ### List of Raptures that will hinder your progression:
 
 Servant Class
@@ -136,6 +132,10 @@ Master Class
 - Orchestrion / Screamer (piano): A rapture that is shaped identical to a piano. Barrages your Nikke with a lot of attacks.  
 - Joint (worm/inferno): A worm-like Rapture that floats and damages a Nikke over a long duration, similar to Inferno Tower on Clash of Clans / Clash Royale. Introduced in chapter 25
 - **Wheel (instant wipe):** Introduced in chapter 38, this Rapture has Wheels circling around a snake body. If not killed on time, it will wipe your team, regardless of shields or cover.
+
+### **Mirror Container, Chapter 32 BOSS**
+
+The hardest boss to date (as of 07/10/2025). Has **defense buff mechanics** and parts that you must destroy with only **<span class="color-red">1 strong shot</span>**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
 
 ![mirrorcontainer](media/mirrorcontainer.png ':size=300 :no-zoom')
 
