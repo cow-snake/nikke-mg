@@ -154,7 +154,7 @@ If you shoot it when you’re full burst, you have to command all Nikkes to take
 
 Profile  
 Class: Tyrant  
-Element: P.S.I.D WaterCode, weak against ElectricCode ![electric](media/icon/elementelectricicon.png)
+Element: P.S.I.D WaterCode, weak against ElectricCode ![electric](media/icon/elementelectricicon.png)  
 Range: Far
 
 WIP
@@ -163,7 +163,7 @@ WIP
 
 Profile
 Class: Tyrant
-Element: H.S.T.A FireCode - Weak agaisnt WaterCode ![water](media/icon/elementwatericon.png)
+Element: H.S.T.A FireCode - Weak agaisnt WaterCode ![water](media/icon/elementwatericon.png)  
 Range: Far
 
 WIP
@@ -172,7 +172,7 @@ WIP
 
 Profile
 Class: Tyrant
-Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)
+Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
@@ -181,7 +181,7 @@ WIP
 
 Profile
 Class: Tyrant
-Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)
+Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
