@@ -199,34 +199,72 @@ If you shoot it when you’re full burst, you have to command all Nikkes to take
 
 Profile  
 Class: Tyrant  
-Element: P.S.I.D WaterCode, weak against ElectricCode ![electric](media/icon/elementelectricicon.png)  
+Element: P.S.I.D WaterCode, weak against ElectricCode![electric](media/icon/elementelectricicon.png)  
 Range: Far
+
+**Prerequisites**
+
+Before anything, **cap your game fps to 30**. Why? You can cheese attack this way. The rocks, that can almost one shot you if not destroyed, will move really slow towards you in 30 fps.
+
+**What Nikkes to bring:**  
+
+**Electric Burst 3 DPS**: **Cindy** >  Summer anis / Maiden: Ice rose > Ein / Ada  
+Cindy is tailored for behemoth, almost to a fault. Sanis and Xmaiden are next, both as dps and buffers. Ein and Ada are there if you miss the rest. The problem of electric bosses are that most of the good units are limited or pilgrims. Without them, or new nikkes, both MC and behemoth are really hard.
+
+**Supports / Off burst**: **Crown + HelmT > Maid Mast + Maid Anchor > Blanc / Grave / Bunny Ade > Naga  
+Crown is the best burst 2 ingame, and continues to be here. HelmT (with her favorite item) is also great for phase 3, as you can ignore the boss damage and overheal. The maid duo is also an option if you miss her, but that means 1 less burst 3.
+
+**CDR Burst 1**: Rapi:RH / Rouge > Liter / Siren > ExiaT(needs cdr)  
+Rapi:RH and Rouge are the best choices, but pick only 1. Rapi if you need a lower deficit, and rouge if you are after a higher deficit clear. If you miss both, or does not have cindy, Liter is the next choice. Siren is also really good on breaking rocks on manual, but she lacks fatter buffs. ExiaT is the unconventional pick. Only pick her if you can run a CDR alongside her, and for whatever reason you have her really well built and miss burst 3 units for dps.
+
+The 2 most used teams are:  
+Cindy Rouge Sanis Xmaiden Crown  
+Cindy Crown RapiRH Sanis HelmT  
+
+**Attack Patterns:**  
+
+Behemoth has 2 forms and 2 attack phases. First form is what looks to be an excavator, that you will fight briefly on the first seconds of the fight. The second form is that of a bull, which will last for almost the entirety of the fight. First phase is the "attack form" and second one is "rage mode".  
+
+**Phase 1 - Start of the fight**
+
+1 **Phase 1: Minigun**  
+After 5 to 6 seconds from the start of the battle, the miniguns, the part on the middle of the excavator, will target the nikke with the highest final attack. Notice how the bullets flying are blue? Make sure to remember the sound key and visual clue of them, you will need to remember it for later. It will not hit hard on each shot, but not to the point you can ignore it. Swap to whoever is the nikke is the target, and cover. If you are running a non healer team, you will need to cover every single bullet.
+
+2 **Phase 1: Missiles**
+
+After the minigun attack finishes, behemoth will move slightly to the right, then all the way to the left outside the screen. The missiles barrage will be launched. They are destructable, so make sure to shoot them down.
+
+**Phase Change**
+
+WIP
+
+**QTE Wall + Rage mode**
 
 WIP
 
 ### **Black Snake: Chapter 36 BOSS**
 
-Profile
-Class: Tyrant
-Element: H.S.T.A FireCode - Weak agaisnt WaterCode ![water](media/icon/elementwatericon.png)  
+Profile  
+Class: Tyrant  
+Element: H.S.T.A FireCode - Weak agaisnt WaterCode![water](media/icon/elementwatericon.png)  
 Range: Far
 
 WIP
 
 ### **Glutonny: Chapter 38 BOSS**
 
-Profile
-Class: Tyrant
-Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)  
+Profile  
+Class: Tyrant  
+Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
 
 ### **Ziz: Chapter 40 BOSS**
 
-Profile
-Class: Tyrant
-Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)  
+Profile  
+Class: Tyrant  
+Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
