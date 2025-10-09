@@ -38,7 +38,7 @@ Alice diary is a limited event that rewards you with **<span class="color-pink">
 
 ### **<span class="color-red">Drake: Road to Villain</span>**
 
-![drakedroadtovillain.png](media/drakedroadtovillain.png ':size=50 :no-zoom')
+![drakedroadtovillain.png](media/drakedroadtovillain.png ':size=350 :no-zoom')
 
 Road to Villain event is the best event for resources in the game. It has 99 levels, and rewards are plentfull. It will also give you Drake, then copies of her. However, this event olny opens when you are done with Alice Diary, see it as a step up event for progression. You will miss the rewards this gives you... I miss it too.
 
