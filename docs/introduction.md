@@ -17,33 +17,15 @@ Aside from the MLEM tier list, we don't plan to make one for character usefulnes
 **<span class="color-red">Veteran players</span>**, if you want, go directly to the [Mid Game](midgame.md), [Late Game](lategame.md), or [End Game](endgame.md) section.
 
 # Useful Links
-|Links|
-|---|
-- BLABLALink:
-|[Blabla](https://www.blablalink.com/)__[Shiftypad](https://www.blablalink.com/shiftyspad)|
-- Major TierList websites:
-|[Prydwen Website](https://www.prydwen.gg/nikke/)|
-|[NIKKE.gg Website](https://nikke.gg/)|
-|[LootandWaifus Website](https://lootandwaifus.com/nikke/)|  
-- Tools for tracking progression:
-|[Shorty97 Progression Calculator V4.6.4)](https://docs.google.com/spreadsheets/d/1lO7aVh4KHMSCU8sQ36AuXaB1AJvGEDEtoqXvrSyVGJo/)|
-|[Shorty97 OL calculator](https://docs.google.com/spreadsheets/d/1KR8D61fYapZeaPIIZhd_2gzGV90XL7nSKw0ZJo5A20o/)|
-|[Nit's Damage calculator](https://nit142.github.io/nikke-buff-calculator/)|
-|[Kusanagi’sTWTV](https://www.twitch.tv/whykusanagi)_[Deficit Calculator](https://lootandwaifus.com/nikke-cp-deficit-calculator/)|  
-Solo Raid - Union Raid tools
-|[Sky’s Union Raid/Solo Raid Teams Guide](https://docs.google.com/spreadsheets/d/1zE11XTPotgn9XhhhvxCvUu-ZeaWlGUQgwG8wg1Gtf0g/)|
-|[tistree’s Union Raid Teams Guide](https://docs.google.com/spreadsheets/d/1LXHNQI93rWhk_2YmepnDfx4x8FAxHnQ4w9_vunhWryE/)|
-|[Enikk.app (Raid database)](https://enikk.app/soloraid)|  
-- PVP tools
-|[B7S7IAL's PVP team planner](https://nikke-deck.web.app)|
-|[Keripo’s PVP MatrixV2](https://docs.google.com/spreadsheets/d/15aPYfbMCB3JSYYgygwMvSLvyPUd_AQ0EhKawRXMsQgQ/)|
-|[Frame calculator](https://nikke.work/)|  
-- Miscellaneous
-|[skuqre.’s FontGenerator (used in the image above!)](https://skuqre.github.io/nikke-font-generator/)|
-|[L2D visualizer](https://nikke-db.pages.dev/visualiser)|  
-- Wikis
-|[NIKKE wiki (in English, Japanese, Korean and Chinese!)](https://nikke.win/en)|
-|[NIKKE fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Home)|
+| Category | Links |
+| --- | --- |
+| BLABLALink | [Blabla](https://www.blablalink.com/) · [Shiftypad](https://www.blablalink.com/shiftyspad) |
+| Major TierList websites | [Prydwen Website](https://www.prydwen.gg/nikke/) · [NIKKE.gg Website](https://nikke.gg/) · [LootandWaifus Website](https://lootandwaifus.com/nikke/) |
+| Tools for tracking progression | [Shorty97 Progression Calculator V4.6.4](https://docs.google.com/spreadsheets/d/1lO7aVh4KHMSCU8sQ36AuXaB1AJvGEDEtoqXvrSyVGJo/) · [Shorty97 OL calculator](https://docs.google.com/spreadsheets/d/1KR8D61fYapZeaPIIZhd_2gzGV90XL7nSKw0ZJo5A20o/) · [Nit's Damage calculator](https://nit142.github.io/nikke-buff-calculator/) · [Kusanagi’s TWTV](https://www.twitch.tv/whykusanagi) · [Deficit Calculator](https://lootandwaifus.com/nikke-cp-deficit-calculator/) |
+| Solo Raid / Union Raid tools | [Sky’s Union Raid/Solo Raid Teams Guide](https://docs.google.com/spreadsheets/d/1zE11XTPotgn9XhhhvxCvUu-ZeaWlGUQgwG8wg1Gtf0g/) · [tistree’s Union Raid Teams Guide](https://docs.google.com/spreadsheets/d/1LXHNQI93rWhk_2YmepnDfx4x8FAxHnQ4w9_vunhWryE/) · [Enikk.app (Raid database)](https://enikk.app/soloraid) |
+| PVP tools | [B7S7IAL's PVP team planner](https://nikke-deck.web.app) · [Keripo’s PVP MatrixV2](https://docs.google.com/spreadsheets/d/15aPYfbMCB3JSYYgygwMvSLvyPUd_AQ0EhKawRXMsQgQ/) · [Frame calculator](https://nikke.work/) |
+| Miscellaneous | [skuqre.’s FontGenerator (used in the image above!)](https://skuqre.github.io/nikke-font-generator/) · [L2D visualizer](https://nikke-db.pages.dev/visualiser) |
+| Wikis | [NIKKE wiki (in English, Japanese, Korean and Chinese!)](https://nikke.win/en) · [NIKKE fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Home) |
 
 # English Communities
 
