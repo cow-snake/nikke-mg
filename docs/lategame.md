@@ -1,11 +1,23 @@
 # **Late Game**  
 
-The Late Game stage is between the time you reach synchro level 241+ until Chapter 22-36 Boss <span class="color-red">Nihilister</span>, is defeated a second time. After that, it's the end game, when the new Interception, [Anomaly](#anomaly-interception-ai), is unlocked. This is a great time to dive deeper on how bosses work, and what raptures are troublesome to deal with on the short term, and long term. First, let's cover the first real hard boss you will encounter in the game:
+The Late Game stage is between the time you reach synchro level 241+ until Chapter 22-36 Boss <span class="color-red">Nihilister</span>, is defeated a second time. After that, it's the end game, when the new Interception, [Anomaly](#anomaly-interception-ai), is unlocked. This is a great time to dive deeper on how bosses work, and what raptures are troublesome to deal with on the short term, and long term. First, let's cover the first real hard boss you will encounter in the game and the main mechanic it introduces:
+
+## **Introduction of Elemental Shield and Elemental Damage breakdown**  
+Elemental shield is a mechanic of Raptures that protects themselves from Nikkes outside of their weaker element. Raptures that are elemental protected are immune from any attack other than their elemental weakness, so the damage will be zero(ingame text will say "immune")  
+
+For example, the first rapture that will have this is Mother Whale, that is P.S.I.D (Water Code), it will not receive any damage from Water, Fire, Wind, or Iron Nikkes, unless their Elemental Shield is broken by **Electric nikkes** or the timer is over.  
+
+Elemental shields will be commonly found on later stages in the game on bosses or regular raptures. But, unlike Mother Whale's elemental shield, which can be removed by killing the mobs she summons, almost all elemental shields can only be destroyed by breaking the QTE with their respective elemental weakness. This is specially true when teambuilding for Raids, when you are bringing strong element Nikkes on all teams. Furthermore, elemental damage is a crucial stat for later stages and in Raids to deal even more damage on deficit or to rank better, respectivelly.  
+
+Elemental Damage is important because this stat is one of the most valuable in OL (Overload) gears. You can improve your damage by up to 116% just from the OL stats (29% per gear) alone. Pairing that with cubes that can improve your Elemental Damage by 8.48% (level 5 cube) to 19% (level 15 cube) respectively. The game has a lot of calculations for Elemental Damage that it even has its own separate damage calculation/formula.  
+
+As per default, your Nikke will receive 10% Elemental Damage bonus, which then can be improved by equipping cubes and getting OL (Overload) stats, which on paper shows that you can receive up to 145% of Elemental Damage. This is why Elemental Damage is a big help when you’re trying to push as far as you can in campaign stages (normal/hard) on deficit.  
+
+"Does that mean I should always pick element damage lines over attack lines?" Rule of thumb, yes! Unlike attack buffs, element damage buffs are really rare. Both are great together, but element lines takes precedence.  
 
 ### **Mother Whale, Chapter 21 Boss** 
 
 You probably didn’t face any real challenge, not up until now. Synchro levels or combat power won't solve this one easily. Meet the **Mother Whale**, the second most manual heavy boss in the game (even as of october 2025!). **This boss will force you to play manually.**
-
 
 ![motherwhale](media/motherwhale.png ':size=300 :no-zoom')
 
@@ -17,7 +29,7 @@ Range: Far
 **Attack Patterns:**
 
 1. **Spams bombs from port parts that debuff your DEF**  
-   Throws massive projectiles at your Nikke which deals damage and hits your DEF.. You can destroy the projectiles and also destroy the port parts.
+   Throws massive projectiles at your Nikke which deals damage and hits your DEF. You can destroy the projectiles and also destroy the port parts.
 
 2. **Calling mobs**  
    When the core is still active, she roars, emitting Ultrasonic Wave that buffs all mobs to be **hitcount HP which needs to be hit a certain number of times in order to kill it.** This attack occurs in 3 waves of mobs (1 land based, 2 airborne). The mobs buff Mother Whale’s ATK so be mindful of the damage you take. 
@@ -76,62 +88,12 @@ Range: Far
      
    Blanc, Naga, Rapunzel are the best choices here. Blanc will give immunity to a low HP Nikke. Rapunzel can revive 1 Nikke and you can use it to revive the taunter after the barrage of the Elite-class rapture. Naga, paired with a shielder (Tia), can help make it easier for you to destroy the core. 
 
-## **Elemental Shield and Elemental Damage**
+### **Crystal Chamber** 
 
-Elemental shield is a mechanic of Raptures that protects themselves from Nikkes outside of their weaker element. Raptures that are elemental protected are immune from any attack other than their elemental weakness, so the damage will be zero and their HP is not depleted, either from basic attacks or skills/burst attacks. For example, a Rapture of P.S.I.D (Water) element will not receive any damage from Water, Fire, Wind, and Iron Nikkes until their Elemental Shield is broken or over. Only Electric Nikkes (Water weakness) can penetrate their respective elemental shield. 
+Chapter 28, 30 and 31 BOSS
 
-As introduced by Mother Whale, elemental shields will be commonly found on later stages in the game, mainly in Raids. Unlike Mother Whale's elemental shield, which can be removed by killing the mobs she summons. Elemental shields can also be destroyed by breaking the QTE with their respective elemental weakness. This makes elemental weakness very important for teambuilding in Raids when you are bringing specific Nikkes. Furthermore, elemental damage is a crucial stat for later stages and in Raids to deal even more damage. 
 
 ![Crystal Chamber Elemental QTE](media/elementalqte.png)
-
-Elemental Damage is important because this stat is one of the most valuable in OL (Overload) gears. You can improve your damage by up to 116% just from the OL stats (29% per gear) alone. Pairing that with cubes that can improve your Elemental Damage by 8.48% (level 5 cube) to 19% (level 15 cube) respectively. The game has a lot of calculations for Elemental Damage that it even has its own separate damage calculation/formula.
-
-As per default, your Nikke will receive 10% Elemental Damage bonus stat, which then can be improved by equipping cubes and getting OL (Overload) stats, which on paper shows that you can receive up to 145% of Elemental Damage. These stats exclude the skills of the Nikke. This is why Elemental Damage is a big help when you’re trying to push as far as you can in campaign stages (normal/hard) with deficits.
-
-### List of Raptures that will hinder your progression:
-
-Servant Class
-
-- Bullwhip (seahorse): Seahorse-like rapture, flying afloat on screen. Has a small hitbox so aiming can be tricky. Hits hard without much warning.  
-- Crawler: A crab-like rapture that walks around on screen. Hits hard without much warning.  
-- Lure: They can move fast in the air so it’s hard to aim at them. Same as Bullwhip, hits hard without much warning. 
-- Cricket (sniper): they will charge first (around 3s) then shoot it to your Nikke, causing instant-death. Problem is if they hide in an environment that could be hard to aim at.
-- Cube (volley): Spams volley shots on your Nikke.
-- Mono eye (cube twin): One shot machine. Tiny red dot for warning, will wipe you out if left alive.
-- Dagger: A flying rapture, throws a hitcount black ball. If there are too many, it will overwhelm your Nikkes, especially if you don’t bring an MG. Introduced in Chapter 19.
-- Glitter/Remnant (Kamikaze): As their epithet suggests, they jump on your Nikkes and deal a lot of damage (can 1 shot).  
-- Capsule: So, you know the Kamikaze mechanics? Now, we put an elemental shield to protect them and THEN they jump on your Nikke. First introduced in chapter 25\.  
-- Bird/Ant: A new type of Kamikaze introduced in chapter 29\. Nikkes ignore them so you have to aim manually.  
-- Drifter: If you ignore them, they will explode. They deal damage to your Nikkes that CANNOT be dodged. Stuns your Attacker Nikkes (Supporters and Defenders are not affected). Introduced in Chapter 23\.  
-- **Volleyball:** This ball-shaped creature flies around and attacks you after you deal damage to it. You have to hit them with 1 strong-shot or just wipe using Distribute/Wipe Damage attacks. If you ignore them, they jump to your Nikke and suicide. Introduced in chapter 33\.
-  
-![Volleyball](media/volleyball.png)  
-
-After the November 2024 update, they introduced a new rapture named Volleyball. This pesky ball will hinder your progress in chapter 33 and 34, as we said in Progression Wall.  
-
-On taking a hit - any hit, from one bullet, they will stop prepping kamikaze attacks and start zig-zagging while pulverizing someone on your team. While they're in motion for any reason, they will take only 1 damage. This includes the zig-zag and when they're not yet setting up the kamikaze attack (red lights is their prep).  (Juratus:2024)  
-
-  To counter them, there’s 3 way to go about it:  
-
-1 - Distribute Damage / AoE attack. 
- They will attack you after you touch them, then you have to attack without touching them directly. Distribute damage has a mechanic that ignores the hitcount mechanic. Chapter 33-34 are wind weak, so Scarlet Black Shadow is the best Nikke to counter them.  
-2 - Strong sniper to kill them in 1 shot.  
- They will receive damage from only 1 shot from any pellets. The problem is when you full burst, you would have to command other Nikke to take cover.  
-3 - Ignore them and let them jump. This method needs you to dodge when they start jumping. You can put all the Nikke to take cover or just build a shield to block it.  
-- Peekaboo: A land rapture that has panels as the front part of its body. Takes only 1 damage per instance (like glasses). Will stop moving to charge a rocket launcher barrage, that aims for 1 random NIKKE and might one shot at a somewhat high deficit. Distributed damage or damage taken increase debuff is the counter for it. Introduced in chapter 35.
-
-Master Class
-
-- **Bronchus (farter):** Hits all your Nikkes with radiation attack (players call it a fart attack), this cannot be dodged. Overheal (just heal up the damage you receive) solves this type of attack.  
-- Glasses: You need to hit them hundreds of times to break its shield. It heals all raptures when alive. You need to bring MG type Nikkes to kill it. Introduced in chapter 19  
-- **Launcher (silencer):** It spawns Batteries that silences your Nikkes, blocking Nikkes' ability to burst. Introduced in chapter 23\.  
-- Jellyfish: A jellyfish-like rapture, it binds to 1 your Nikkes, debuffs reload speed and slowly kills your Nikke. Introduced in chapter 21\.  
-- Sentry (chain): Binds your Nikke with a chain that stuns her for a long time if they are not killed. This rapture is usually tanky.  
-- Barbell: A high defense rapture. Combined with a healer type rapture, this would be the tankiest rapture you can face.   
-- Satellite: A flying rapture, charges a massive attack onto a Nikke that pierces cover, then barrages a Nikke twice.  
-- Orchestrion / Screamer (piano): A rapture that is shaped identical to a piano. Barrages your Nikke with a lot of attacks.  
-- Joint (worm/inferno): A worm-like Rapture that floats and damages a Nikke over a long duration, similar to Inferno Tower on Clash of Clans / Clash Royale. Introduced in chapter 25
-- **Wheel (instant wipe):** Introduced in chapter 38, this Rapture has Wheels circling around a snake body. If not killed on time, it will wipe your team, regardless of shields or cover.
 
 ### **Mirror Container, Chapter 32 BOSS**
 
@@ -199,37 +161,99 @@ If you shoot it when you’re full burst, you have to command all Nikkes to take
 
 Profile  
 Class: Tyrant  
-Element: P.S.I.D WaterCode, weak against ElectricCode ![electric](media/icon/elementelectricicon.png)  
+Element: P.S.I.D WaterCode, weak against ElectricCode![electric](media/icon/elementelectricicon.png)  
 Range: Far
 
-WIP
+**Prerequisites**
+
+Before anything, **cap your game fps to 30**. Why? You can cheese attack this way. The rocks, that can almost one shot you if not destroyed, will move really slow towards you in 30 fps. For easier control and survival **deactivate auto burst and auto shoot.**
+
+**What Nikkes to bring:**  
+
+**Electric Burst 3 DPS**: **Cindy** >  Summer anis / Maiden: Ice rose > Ein / Ada  
+Cindy is tailored for behemoth, almost to a fault. Sanis and Xmaiden are next, both as dps and buffers. Ein and Ada are there if you miss the rest. The problem of electric bosses are that most of the good units are limited or pilgrims. Without them, or new nikkes, both MC and behemoth are really hard.
+
+**Supports / Off burst**: **Crown + HelmT > Maid Mast + Maid Anchor > Blanc / Grave / Bunny Ade > Naga  
+Crown is the best burst 2 ingame, and continues to be here. HelmT (with her favorite item) is also great for phase 3, as you can ignore the boss damage and overheal. The maid duo is also an option if you miss her, but that means 1 less burst 3.
+
+**CDR Burst 1**: Rapi:RH / Rouge > Liter / Siren > ExiaT(needs cdr)  
+Rapi:RH and Rouge are the best choices, but pick only 1. Rapi if you need a lower deficit, and rouge if you are after a higher deficit clear, but take note that rouge needs ammo lines for burst gen, otherwise it will be a lot harder to upkeep full burst often. If you miss both, Liter is the next choice. Siren is also really good on breaking rocks on manual, but she lacks stronger attack buffs. ExiaT is the unconventional pick. Only pick her if you can run a CDR alongside her, and for whatever reason you have her really well built and miss burst 3 units for dps.
+
+The 2 most used teams are:  
+Cindy Rouge Sanis Xmaiden Crown  
+Cindy Crown RapiRH Sanis HelmT  
+
+**Attack Patterns:**  
+
+Behemoth has 2 forms and 2 attack phases. First form is what looks to be an excavator, that you will fight briefly on the first seconds of the fight. The second form is that of a bull, which will last until the end of the fight. Second form first attack phase is "rock throwing", and second attack phase is "rage mode".  
+
+**Phase 1 Exacavator form- Start of the fight**
+
+1 **Phase 1: Machine gun**  
+After 5 to 6 seconds from the start of the battle, the **machine gun**, the part on the middle of the excavator, will target the nikke with the highest final attack. 
+ADD IMAGE  
+Notice how the bullets flying are blue? Make sure to remember the sound and visual clue of them, you will need to remember it for later. It may not hit hard on each shot, but not to the point you can ignore it. Swap to whoever is the nikke is the target, and cover. If you are running rouge as the only "healer/hp buffer", you will need to cover every single bullet.
+
+2 **Phase 1: Missiles**  
+After the minigun attack finishes, behemoth will move slightly to the right, then all the way to the left outside the screen. Three missiles barrage will be launched. They are destructable, so make sure to shoot them down. **There is no need to use your burst again, wait for after the phase change attack.** 
+
+**Phase Change**  
+Behemoth will turn into her Bull form after a little animation. You can skip it. Take note that in bull form, behemoth will have 2 machine guns on the front shoulders, it is possible to break them on normal 34, but akin to impossible on hard 34.
+
+**Phase 2 Attack patterns**  
+If you capped your game fps to 30, then this part is easier.  
+
+**Rock Throwing**  
+Behemoth will stand still for some seconds, and afterwards will throw a rock at you. Be mindfull of your full burst duration, you will need all the buffs to be able to break it, as each rock has a lot of hp. Fail to do so, you might get wiped or close to it. She will throw another rock after you break the first after a short delay, use the delay to gather burst gen if the full burst ended or is almost ending.
+
+**Machine guns and missiles**  
+After the second rock is broken, same as on the first phase, the machine guns will target highest final atk nikke, but unlike before, they will hurt a lot. You **need to cover quickly** otherwise your dps might die. After behemoth is done shooting, missiles will slowly fly towards someone. They have very little hp, even at off burst you should be able to destroy all.
+
+**Elemental QTE shield and repeated skills**  
+2 Rocks, same dance. But instead of machine guns immediately, a elemental QTE will happen. You can stall for damage here, as behemoth will stay still for as long as the QTE is up. Break it on last seconds, or when full burst is ending to start building up the burst bar.  
+After the QTE shield is down, machine guns will shoot highest final atk nikke. 2 more rocks, machine guns and missiles afterwards. 2 more rocks, slight delay and another elemental QTE shield, once it is down, machines guns and missiles once more.
+
+**Bull Ramming, QTE Wall**  
+While the missiles from last attack are flying, behemoth will jump back, start charging towards you and ram all nikkes. **Either let crown shield tank it, or cover!**  
+After hitting her head, behemoth will get stunned for a short while and jump back again. Shortly after, a QTE wall will appear. The quickest way to break it is with rapi:rh drill or xmaiden full charged shot at the middle. After you clear the QTE, behemoth will be stunned again, **don't use your burst, she is about to go into rage mode.**  
+
+**Rage mode, bull ramming and another QTE wall** 
+Behemoth will jump backwards, and lighting will cover the screen partially. **You will burst with helmT, maid anchor, or rouge** depending on the team you are using to survive this QTE phase.  
+The damage will ignore cover, so the only way to survive is to overheal it, or tank it with fake hp shields. Break the QTE circles asap, the damage end with it.  
+After it, behemoth will charge and ram again, but will not be stunned and instead will slide off the screen. After a short stall, another QTE wall. Same as before, rapi or xmaiden for instant clear.  
+
+**Rage mode and last seconds.**  
+After the QTE wall is out, behemoth will get stunned and enter rage mode again. Use helmT, maid anchor, rouge to tank it, or if believe you can nuke the last bars before you die, gamble and use your dps burst.  
+When you break the QTEs from rage mode, you will have maybe 10 to 14 seconds left. That is the time to use xmaiden burst for a last surge of damage, or anyone else that you might have.  
+
+If you ran out of time, even at a low deficit, don't worry! Behemoth is the first real damage sponge in the game. Wait for a couple of synchro levels or any improvement in your nikkes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZsCmeQKNRFk?si=MEFb0l_91CvgMutM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### **Black Snake: Chapter 36 BOSS**
 
-Profile
-Class: Tyrant
-Element: H.S.T.A FireCode - Weak agaisnt WaterCode ![water](media/icon/elementwatericon.png)  
+Profile  
+Class: Tyrant  
+Element: H.S.T.A FireCode - Weak agaisnt WaterCode![water](media/icon/elementwatericon.png)  
 Range: Far
 
 WIP
 
 ### **Glutonny: Chapter 38 BOSS**
 
-Profile
-Class: Tyrant
-Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)  
+Profile  
+Class: Tyrant  
+Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
 
 ### **Ziz: Chapter 40 BOSS**
 
-Profile
-Class: Tyrant
-Element: A.N.M.I Windcode - Weak agaisnt FireCode ![fire](media/icon/elementfireicon.png)  
+Profile  
+Class: Tyrant  
+Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
