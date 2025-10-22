@@ -2,16 +2,18 @@
 
 ***Made possible thanks to KampretLordz, tio\_romano, gatrix, itsmomoland, kisenix, awesome21snake, excuseablepenguin and more\!***
 
-**This list will be updated as soon as new chapters are added or early chapters are revisited.** 
+**This list will be updated as soon as new chapters are added or earlier chapters are revisited.** 
 
 **<span class="color-red">Up until chapter 18, borrowed NIKKEs can make the wall stages a joke. And as such, the wall only applies if you want to save the daily usage of them for a later chapter.</span>**
 
 **Criteria:** These stages are either stat walls, manual play required, the raptures are specially difficult to deal with, or a combination of all the previous. Bosses are generally “harder” than normal stages, however some bosses have very specific mechanics, and will hinder your progression by quite some time if you don’t want to learn said mechanics beforehand. 
 
-**Do take note that all stages can be CP crushed, in other words, in a 10% or less CP deficit. This list will obviously not apply if not at least 15% deficit, with very few cases...**
+Do take note that: **all stages can be CP crushed**, in other words, in a 10% or less CP deficit. This list will obviously not apply if not at least 10% deficit, with very few cases...
+
+**For rapture information, check the "List of Raptures that will hinder your progression" after the wall stages.**
 
 The ones listed in **bold** are the hardest stages among the hard stages. 
-  
+
 8-27: Bow tie  
 12-9: Screamer (piano) \+ cube  
 13-9: Oneshot you so fast you won’t even understand  
@@ -76,3 +78,48 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 **38-32: same stage as 37-35**  
 39-33: Volleyballs and BOSS is Glass  
 **40-36: BOSS Zizz**  
+
+### List of Raptures that will hinder your progression:
+
+Servant Class
+
+- Bullwhip (seahorse): Seahorse-like rapture, flying afloat on screen. Has a small hitbox so aiming can be tricky. Hits hard without much warning.  
+- Crawler: A crab-like rapture that walks around on screen. Hits hard without much warning.  
+- Lure: They can move fast in the air so it’s hard to aim at them. Same as Bullwhip, hits hard without much warning. 
+- Cricket (sniper): they will charge first (around 3s) then shoot it to your Nikke, causing instant-death. Problem is if they hide in an environment that could be hard to aim at.
+- Cube (volley): Spams volley shots on your Nikke.
+- Mono eye (cube twin): One shot machine. Tiny red dot for warning, will wipe you out if left alive.
+- Dagger: A flying rapture, throws a hitcount black ball. If there are too many, it will overwhelm your Nikkes, especially if you don’t bring an MG. Introduced in Chapter 19.
+- Glitter/Remnant (Kamikaze): As their epithet suggests, they jump on your Nikkes and deal a lot of damage (can 1 shot).  
+- Capsule: So, you know the Kamikaze mechanics? Now, we put an elemental shield to protect them and THEN they jump on your Nikke. First introduced in chapter 25\.  
+- Bird/Ant: A new type of Kamikaze introduced in chapter 29\. Nikkes ignore them so you have to aim manually.  
+- Drifter: If you ignore them, they will explode. They deal damage to your Nikkes that CANNOT be dodged. Stuns your Attacker Nikkes (Supporters and Defenders are not affected). Introduced in Chapter 23\.  
+- **Volleyball:** This ball-shaped creature flies around and attacks you after you deal damage to it. You have to hit them with 1 strong-shot or just wipe using Distribute/Wipe Damage attacks. If you ignore them, they jump to your Nikke and suicide. Introduced in chapter 33\.
+
+![Volleyball](media/volleyball.png)  
+
+After the November 2024 update, they introduced a new rapture named Volleyball. This pesky ball will hinder your progress in chapter 33 and 34, as we said in Progression Wall.  
+
+On taking a hit - any hit, from one bullet, they will stop prepping kamikaze attacks and start zig-zagging while pulverizing someone on your team. While they're in motion for any reason, they will take only 1 damage. This includes the zig-zag and when they're not yet setting up the kamikaze attack (red lights is their prep).  (Juratus:2024)  
+
+  To counter them, there’s 3 way to go about it:  
+
+1 - Distribute Damage / AoE attack. 
+ They will attack you after you touch them, then you have to attack without touching them directly. Distribute damage has a mechanic that ignores the hitcount mechanic. Chapter 33-34 are wind weak, so Scarlet Black Shadow is the best Nikke to counter them.  
+2 - Strong sniper to kill them in 1 shot.  
+ They will receive damage from only 1 shot from any pellets. The problem is when you full burst, you would have to command other Nikke to take cover.  
+3 - Ignore them and let them jump. This method needs you to dodge when they start jumping. You can put all the Nikke to take cover or just build a shield to block it.  
+- Peekaboo: A land rapture that has panels as the front part of its body. Takes only 1 damage per instance (like glasses). Will stop moving to charge a rocket launcher barrage, that aims for 1 random NIKKE and might one shot at a somewhat high deficit. Distributed damage or damage taken increase debuff is the counter for it. Introduced in chapter 35.
+
+Master Class
+
+- **Bronchus (farter):** Hits all your Nikkes with radiation attack (players call it a fart attack), this cannot be dodged. Overheal (just heal up the damage you receive) solves this type of attack.  
+- Glasses: You need to hit them hundreds of times to break its shield. It heals all raptures when alive. You need to bring MG type Nikkes to kill it. Introduced in chapter 19  
+- **Launcher (silencer):** It spawns Batteries that silences your Nikkes, blocking Nikkes' ability to burst. Introduced in chapter 23\.  
+- Jellyfish: A jellyfish-like rapture, it binds to 1 your Nikkes, debuffs reload speed and slowly kills your Nikke. Introduced in chapter 21\.  
+- Sentry (chain): Binds your Nikke with a chain that stuns her for a long time if they are not killed. This rapture is usually tanky.  
+- Barbell: A high defense rapture. Combined with a healer type rapture, this would be the tankiest rapture you can face.   
+- Satellite: A flying rapture, charges a massive attack onto a Nikke that pierces cover, then barrages a Nikke twice.  
+- Orchestrion / Screamer (piano): A rapture that is shaped identical to a piano. Barrages your Nikke with a lot of attacks.  
+- Joint (worm/inferno): A worm-like Rapture that floats and damages a Nikke over a long duration, similar to Inferno Tower on Clash of Clans / Clash Royale. Introduced in chapter 25
+- **Wheel (instant wipe):** Introduced in chapter 38, this Rapture has Wheels circling around a snake body. If not killed on time, it will wipe your team, regardless of shields or cover.
