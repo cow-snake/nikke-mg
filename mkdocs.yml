@@ -1,0 +1,146 @@
+site_name: NIKKE MEGAGUIDE
+site_description: "tio_romano's NIKKE MEGAGUIDE"
+site_author: tio_romano
+site_url: https://cow-snake.github.io/nikke-mg/
+
+# Repository
+repo_url: https://github.com/cow-snake/nikke-mg
+repo_name: cow-snake/nikke-mg
+
+# Theme Configuration
+theme:
+  name: material
+  language: en
+  
+  # Color scheme
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  # Features
+  features:
+    - navigation.instant      # Instant loading (SPA-like)
+    - navigation.tracking     # URL updates with scroll
+    - navigation.tabs         # Top-level sections as tabs
+    - navigation.sections     # Sections in sidebar
+    - navigation.top          # Back to top button
+    - search.highlight        # Highlight search terms
+    - search.share           # Share search results
+    - search.suggest         # Search suggestions
+    - content.code.copy      # Copy button for code blocks
+    - content.tabs.link      # Link content tabs
+  
+  # Logo and icons
+  icon:
+    repo: fontawesome/brands/github
+
+# Navigation Structure
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - MLEM Tier List: mlem.md
+  - FAQ: faq.md
+  - Early Game: earlygame.md
+  - Game Content: gamecontent.md
+  - Mid Game: midgame.md
+  - Manual Play: manualplay.md
+  - Progression Walls: progressionwalls.md
+  - Late Game: lategame.md
+  - Raids: raids.md
+  - End Game: endgame.md
+  - Changelog: changelog.md
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      lang: en
+
+# Markdown Extensions
+markdown_extensions:
+  - abbr                      # Abbreviations
+  - admonition               # Admonitions (callouts)
+  - attr_list                # Add HTML attributes to elements
+  - def_list                 # Definition lists
+  - footnotes                # Footnotes
+  - md_in_html              # Markdown in HTML
+  - toc:
+      permalink: true
+      toc_depth: 3
+  
+  # PyMdown Extensions
+  - pymdownx.arithmatex:      # LaTeX math
+      generic: true
+  - pymdownx.betterem:        # Better emphasis
+      smart_enable: all
+  - pymdownx.caret           # Superscript
+  - pymdownx.mark            # Highlight
+  - pymdownx.tilde           # Subscript
+  - pymdownx.critic          # Track changes
+  - pymdownx.details         # Collapsible admonitions
+  - pymdownx.emoji:          # Emoji support
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:      # Code highlighting
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite    # Inline code highlighting
+  - pymdownx.keys            # Keyboard keys
+  - pymdownx.magiclink:      # Auto-link
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: cow-snake
+      repo: nikke-mg
+  - pymdownx.smartsymbols    # Smart symbols
+  - pymdownx.snippets        # Include external files
+  - pymdownx.superfences:    # Nested code/content blocks
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:         # Content tabs
+      alternate_style: true
+  - pymdownx.tasklist:       # Task lists
+      custom_checkbox: true
+
+# Additional CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Additional JavaScript (if needed)
+# extra_javascript:
+#   - javascripts/extra.js
+
+# Extra configuration
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cow-snake/nikke-mg
+  
+  # Footer credits
+  generator: false
+
+# Copyright
+copyright: |
+  Written by <em>tio_romano</em><br>
+  Developed by <em>cowsnake</em><br>
+  Maintained by <em>tio_romano, Nit, illusion9919</em>
+
+# Docs directory
+docs_dir: docs

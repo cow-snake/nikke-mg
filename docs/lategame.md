@@ -19,7 +19,7 @@ As per default, your Nikke will receive 10% Elemental Damage bonus, which then c
 
 You probably didn’t face any real challenge, not up until now. Synchro levels or combat power won't solve this one easily. Meet the **Mother Whale**, the second most manual heavy boss in the game (even as of october 2025!). **This boss will force you to play manually.**
 
-![motherwhale](media/motherwhale.png ':size=300 :no-zoom')
+![motherwhale](media/motherwhale.png){ width="300" }
 
 Profile  
 Class: Tyrant  
@@ -36,7 +36,7 @@ Range: Far
 
    For the first wave, she generates an **Elemental Shield** that protects her, but it can be destroyed by killing all first wave mobs on the ground. You have to kill them fast, otherwise she calls the second wave of mobs and it becomes increasingly more difficult.
 
-   ![motherwhalemob](media/motherwhalemob.png ':size=450 :no-zoom')
+   ![motherwhalemob](media/motherwhalemob.png){ width="450" }
 
    *The Mob only receives 1 damage per shot (courtesy: kampretlordz gameplay)*
 
@@ -48,7 +48,7 @@ Range: Far
 4. **Calling out Master-class mobs that can wipe all your Nikkes**   
    This is by far the most annoying attack. She calls Master-class raptures which are tanky and hard to kill. They also do barrage attacks that deal damage to all your Nikkes. This cannot be avoided or prevented, even if you try to kill them before they can attack. Fortunately, this attack can be taunted to one Nikke, so you can avoid being completely wiped out.
 
-   ![motherwhalemobwipe](media/motherwhalemobwipe.png ':size=450 :no-zoom')
+   ![motherwhalemobwipe](media/motherwhalemobwipe.png){ width="450" }
 
    *Master mobs are barragging a random Nikke (courtesy: kampretlordz gameplay)*
 
@@ -99,7 +99,7 @@ Chapter 28, 30 and 31 BOSS
 
 The hardest boss to date (as of 07/10/2025). Has **defense buff mechanics** and parts that you must destroy with only **<span class="color-red">1 strong shot</span>**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
 
-![mirrorcontainer](media/mirrorcontainer.png ':size=300 :no-zoom')
+![mirrorcontainer](media/mirrorcontainer.png){ width="300" }
 
 Profile  
 Class: Tyrant  
@@ -264,12 +264,12 @@ WIP
 
 **Each boss comes from previous Solo Raids or story chapters with increased difficulty and phases. The level cap is 400, but it’s not fixed, like the Special Interception.**   
 **This might sound like a bad thing but,** **at the same time** **<span class="color-yellow">even the first stage of AI, Stage 1, gives better rewards than Special Interception</span>**.   
-Another really cool thing is the ![customlockicon](media/customlockicon.png ':size=25 :no-zoom') **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
+Another really cool thing is the ![customlockicon](media/customlockicon.png){ width="25" } **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
 
 **There are 5 bosses, each with the same set of base rewards and also Boss-specific additional rewards linked to each.**   
 **All items that are guaranteed to drop from Stage 1:**   
-**Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png ':size=25 :no-zoom') and gear pity boxes ![gear box](media/icon/gearpityboxicon.png ':size=25 :no-zoom') with the exception of <span class="color-green">Kraken</span>, as it does not drop gear pity boxes.**  
-**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png ':size=25 :no-zoom') (rocks), the drop % changes depending on the Stage you reached.**
+**Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png){ width="25" } and gear pity boxes ![gear box](media/icon/gearpityboxicon.png){ width="25" } with the exception of <span class="color-green">Kraken</span>, as it does not drop gear pity boxes.**  
+**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png){ width="25" } (rocks), the drop % changes depending on the Stage you reached.**
 
 **However, the main benefit of doing Anomaly Interception is that you can choose what boss you want to fight.** 
 

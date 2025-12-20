@@ -10,10 +10,10 @@ SSR NIKKES rates in all banners are a solid **<span class="color-red">4%</span>*
 
 If this is your first gacha game, 4% may seem low, it is in fact a quite <span class="color-red">high rate</span>, compared to other gacha games. 
 
-Along with a high rate, the mileage, a “pity system” of sorts, is amazing. For each pull you make, you receive a **ticket** that varies in colors: **Silver** ![Silver Mileage](media/silvermileage.png ':size=50 :no-zoom')from standard banner, and **<span class="color-gold">Golden</span>** ![Golden Mileage](media/goldenmileage.png ':size=50 :no-zoom') from special banners. Both types of tickets are **<span class="color-red">permanent</span>** and are not tied to a specific event banner either.
+Along with a high rate, the mileage, a "pity system" of sorts, is amazing. For each pull you make, you receive a **ticket** that varies in colors: **Silver** ![Silver Mileage](media/silvermileage.png){ width="50" }from standard banner, and **<span class="color-gold">Golden</span>** ![Golden Mileage](media/goldenmileage.png){ width="50" } from special banners. Both types of tickets are **<span class="color-red">permanent</span>** and are not tied to a specific event banner either.
 After you gather a total of 200 **Silver** or **<span class="color-gold">Golden</span>** tickets, you can use them to buy a copy or duplicate of the Nikke of your choosing in the **mileage shop**.
 
-On top of that, the currency you use to pull in event banners, **<span class="color-pink">Rainbow Vouchers</span>** ![Rainbow Vouchers](media/rainbowvoucher.png ':size=50 :no-zoom')are really easy to get, and you can buy them at any time, each at 300 gems… it may look expensive, but daily gem income is to the very least 200 gems! 
+On top of that, the currency you use to pull in event banners, **<span class="color-pink">Rainbow Vouchers</span>** ![Rainbow Vouchers](media/rainbowvoucher.png){ width="50" }are really easy to get, and you can buy them at any time, each at 300 gems… it may look expensive, but daily gem income is to the very least 200 gems! 
 
 **However, I won’t sugar coat it. A gacha is a gacha at the end of the day. Will your morals crumble, and you will spend your hard worked money, or stay true to yourself as a F2P and suffer? Choose wisely.**
 
@@ -75,13 +75,13 @@ This is the sheet if you are interested. Actual important value in <span class="
 The only thing I would do is **<span class="color-red">deactivate</span> the screen shaking**. It will probably give you motion sickness and make aiming a nightmare if activated.
 
 All in all, these are my battle settings, feel free to copy.  
-![battlesettings](media/battlesettings01.png ':size=300 :no-zoom')
+![battlesettings](media/battlesettings01.png){ width="300" }
 
 **<span class="color-blue">Aim assist can be a curse and a blessing. Certain stages require it, some stages do not. You will learn more about manual play later.</span>**
 
-![battlesettings02](media/battlesettings02.png ':size=300 :no-zoom')
+![battlesettings02](media/battlesettings02.png){ width="300" }
 
-![battlesettings03](media/battlesettings03.png ':size=300 :no-zoom')
+![battlesettings03](media/battlesettings03.png){ width="300" }
 
 # **How Deficit Works?**
 

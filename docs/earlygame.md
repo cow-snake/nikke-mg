@@ -22,7 +22,7 @@ You can check what element will have advantage in the **<span class="color-red">
 
 ![battlefieldinfo](media/battlefieldinfo.png)
 
-**Burst phase 1 NIKKES ![Burst 1, or shortened to B1](media/b1nikke.png ':size=20 :no-zoom')**
+**Burst phase 1 NIKKES ![Burst 1, or shortened to B1](media/b1nikke.png){ width="20" }**
 
 You may use **N102.** She is a <span class="color-purple">purple (SR)</span> rarity Nikke that buffs your whole team attack, and you will probably acquire her when you do your tutorial pull.
 
@@ -31,15 +31,15 @@ Rapi: Red Hood \> Liter \> D: Killer Wife \> Rouge \> Dorothy \> Volume
 
 Tia is a special case, as she **<span class="color-red">needs</span>** to be paired with Naga, a burst 2 nikke, as most of her skills need naga to be activated, along with another **burst 1 nikke,** because her burst skill re-enters burst phase 1\. <span class="color-red">If you use Tia as the only burst 1 in your team, you will not be able to do a full burst.</span> **The same applies to Alice: wonderland bunny and Rupee: Winter Shopper;** they cannot be used as the only burst 1 either.
 
-**Burst phase 2 NIKKES ![Burst 2, or shortened to B2](media/b2nikke.png ':size=20 :no-zoom')**
+**Burst phase 2 NIKKES ![Burst 2, or shortened to B2](media/b2nikke.png){ width="20" }**
 
 **Anis** is the standard pick. Very few burst 2 Nikkes are as good as her in the early game. Only swap her for Nikkes of tier A or higher, with a 20 second cooldown burst skill.
 With the exception of **Blanc,** which **<span class="color-red">needs</span>** to be paired with **Noir or Rouge,** if not paired, she will have a 60 second cooldown, making her rather unusable**.**
 
-**Burst phase 3 NIKKEs and Full Burst ![Burst 3, or shortened to B3](media/b3nikke.png ':size=20 :no-zoom')**
+**Burst phase 3 NIKKEs and Full Burst ![Burst 3, or shortened to B3](media/b3nikke.png){ width="20" }**
 
 Your burst 3 Nikkes will be **Rapi and Mihara,** later being replaced by **<span class="color-blue">Privaty</span>** and **<span class="color-pink">Alice</span>** or any other burst 3 you may get from pulls**.**  
-Ideally, you want to use a team with **one Burst 1 ![Burst 1, or shortened to B1](media/b1nikke.png ':size=20 :no-zoom'), one Burst 2 ![Burst 2, or shortened to B2](media/b2nikke.png ':size=20 :no-zoom') and three Burst 3 ![Burst 3, or shortened to B3](media/b3nikke.png ':size=20 :no-zoom'),** short for **1-1-3.** Most of the early game is skippable without a healer, but it’s a good addition if you happen to get it nonetheless.
+Ideally, you want to use a team with **one Burst 1 ![Burst 1, or shortened to B1](media/b1nikke.png){ width="20" }, one Burst 2 ![Burst 2, or shortened to B2](media/b2nikke.png){ width="20" } and three Burst 3 ![Burst 3, or shortened to B3](media/b3nikke.png){ width="20" },** short for **1-1-3.** Most of the early game is skippable without a healer, but it’s a good addition if you happen to get it nonetheless.
 
 **Burst cooldown and rotations**
 
@@ -138,9 +138,9 @@ Chapter 4 is a breeze, aside from 4-6, it’s one of the easiest. Remember to eq
 **At the start of the battle he will jump and target your NIKKE in the P3, you can press space/cover to avoid taking damage directly. After that he will jump back and stay still for a moment, <span class="color-red">this is the time when you need to deal as much damage as possible to the parts circled in red on the image below</span>. Guided missiles will come from it, targeting the NIKKE he jumped to, the first time will be the one in P3, then it's random. You can cover or destroy the missiles, even if they don’t do much damage, if the same NIKKE gets hit 10 times by them, she will be instantly killed. <span class="color-orange">Never destroy the head\!</span> If you do, he will enter a “rage” mode and damage all your NIKKEs per jump, and in rage mode he deals a lot more damage. <span class="color-orange">Only destroy the head if he has only a single health bar left, ensuring you will kill quickly enough.</span>**  
 **After you destroy <span class="color-red">the parts on his back</span>, they will regenerate after a short while.**
 
-![chatterboxminiboss4](media/chatterboxminiboss4.png ':size=300 :no-zoom')
+![chatterboxminiboss4](media/chatterboxminiboss4.png){ width="300" }
 
-**When you defeat him, <span class="color-blue">Shifty</span> ![Shifty](media/shifty.png ':size=50 :no-zoom') will bait you with [equipment upgrade](gamecontent.md#gears-and-collection-items). Skip the tutorial and equip the head piece you got, without upgrading it.**
+**When you defeat him, <span class="color-blue">Shifty</span> ![Shifty](media/shifty.png){ width="50" } will bait you with [equipment upgrade](gamecontent.md#gears-and-collection-items). Skip the tutorial and equip the head piece you got, without upgrading it.**
 
 **Now we need to use temporary NIKKEs. <span class="color-red">Just slot in one borrowed NIKKE at a time, from 4-10 onwards.</span> Use Marciana** over your burst 2**, then Liter** over your burst 1**, then Alice** over Mihara or any other burst 3**. This is a cheese, without borrowed NIKKEs this much progression would be almost impossible on the first day.**
 
@@ -177,7 +177,7 @@ Uneventful chapter. **<span class="color-red">You will use borrowed NIKKEs at th
 
 **Chapter 6**
 Boring chapter, even story wise. This one might get hard, if you can’t clear it on the second day just wait for the next day
-6-4 unlocks [**Solo Raid**](raids.md#solo-raid) and [**Collection items**](gamecontent.md#collection-and-favorite-items)**.** This is a limited monthly event, if you can’t find the ![solo raid icon](media/icon/soloraidicon.png ':size=30 :no-zoom') icon on your main screen, means that a solo raid isn’t active.
+6-4 unlocks [**Solo Raid**](raids.md#solo-raid) and [**Collection items**](gamecontent.md#collection-and-favorite-items)**.** This is a limited monthly event, if you can’t find the ![solo raid icon](media/icon/soloraidicon.png){ width="30" } icon on your main screen, means that a solo raid isn’t active.
 
 **6-6A-2 is a defense battle that has tanky healers and Tiaras. [This is a video on how to cheese it](https://youtu.be/EUfgkArT9lA) without borrowing a NIKKE.**
 
