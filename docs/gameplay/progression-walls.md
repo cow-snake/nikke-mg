@@ -35,7 +35,7 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 20-15: How Glasses could be annoying
 20-31: BOSS Nihilister  
 **21-29: Glasses \+ Bullwhip (seahorse) \+ Bronchus, prevent you from meeting Mother Whale**  
-**21-32: BOSS [**The Mother Whale**](lategame.md#mother-whale-chapter-21-boss)**  
+**21-32: BOSS [**The Mother Whale**](../progression/lategame.md#mother-whale-chapter-21-boss)**  
 22-27: Sniper \+ Cube in high terrain  
 22-36: Nihilister with Ark City background theme
 **23-9: Barrage volley with barbells (thick elites)**  
@@ -58,7 +58,7 @@ The ones listed in **bold** are the hardest stages among the hard stages.
 31-33: Insanely tanky stage with Sentry \+ Starfish  
 **31-35: Boss is Barbell (40% def up) with 3 healers Elite. GG**  
 **32-32: Launcher + Jellyfish + Bullwhip worst combo**  
-**32-33: BOSS [Mirror Container](lategame.md#mirror-container-chapter-32-boss)**  
+**32-33: BOSS [Mirror Container](../progression/lategame.md#mirror-container-chapter-32-boss)**  
 **33-5: Introduction of volleyballs**   
 **33-20: 30-5 but Iron**  
 **33-20B-1: 6 Bronchus base defense stage**   
@@ -96,7 +96,7 @@ Servant Class
 - Drifter: If you ignore them, they will explode. They deal damage to your Nikkes that CANNOT be dodged. Stuns your Attacker Nikkes (Supporters and Defenders are not affected). Introduced in Chapter 23\.  
 - **Volleyball:** This ball-shaped creature flies around and attacks you after you deal damage to it. You have to hit them with 1 strong-shot or just wipe using Distribute/Wipe Damage attacks. If you ignore them, they jump to your Nikke and suicide. Introduced in chapter 33\.
 
-![Volleyball](media/volleyball.png)  
+![Volleyball](../media/volleyball.png)  
 
 After the November 2024 update, they introduced a new rapture named Volleyball. This pesky ball will hinder your progress in chapter 33 and 34, as we said in Progression Wall.  
 

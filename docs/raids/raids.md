@@ -4,13 +4,13 @@ NIKKE’s Major Server Ranking Content
 
 **Solo Raid (SR)** follows an individual ranking system.The rewards vary from **gems, dolls and cube materials.** Depending on your rank, you can also receive a corresponding **frame**.
 
-**Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](media/icon/unionchipicon.png ':size=25 :no-zoom')** which are used in the Union Shop.
+**Union Raid (UR)**, is for  unions to participate in and be ranked based on the clear time. **Rewards are only going to be union chips ![union chip](../media/icon/unionchipicon.png){ width="25" }** which are used in the Union Shop.
 
-**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](media/icon/brokencoreicon.png ':size=25 :no-zoom')** and **<span class="color-orange"> rusted bones</span> ![rusted bone](media/rustedbone.png ':size=25 :no-zoom')** which are used in the Recycling Shop.
+**Coop** is a cooperative raid with 4 other random players or a mix of your friends and guildies.The  **rewards are <span class="color-red">broken cores</span> ![broken cores](../media/icon/brokencoreicon.png){ width="25" }** and **<span class="color-orange"> rusted bones</span> ![rusted bone](../media/rustedbone.png){ width="25" }** which are used in the Recycling Shop.
 
 ## **Solo Raid** 
 
-![solo raid](media/icon/soloraidicon.png)
+![solo raid](../media/icon/soloraidicon.png)
 
 If you do not see this icon on your main screen, it means there isn’t a Solo Raid ongoing.**
 
@@ -56,9 +56,9 @@ You can check the best teams for each Union Raid [here](https://docs.google.com/
 
 A time limited event that you can do with friends or random people. Unfortunately, the UI for coop is pretty outdated so in order for you to access it, you have to find the Coop tab as shown below. 
 
-It’s usually below your commander icon and/or can be accessed on the ![eventbannericon](media/eventbannericon.png) tab.
+It’s usually below your commander icon and/or can be accessed on the ![eventbannericon](../media/eventbannericon.png) tab.
 
-![coopbanner](media/coopbanner.png)
+![coopbanner](../media/coopbanner.png)
 
 COOP was a meaningless mode until Stellar Blade collab. The update added a "new" difficulty, new currency (rusted bones), new shop goodies (refer to img below), and separated the casuals from tryhards. 
 
@@ -68,4 +68,4 @@ Challenge mode is the old coop, with a twist. **Now your ranking actually matter
 
 Gather a party of friends or guildies and do your best! **Aim for at least top 10%**, its a massive 36% increase in rusted bones, if compared to top 30% reward.
 
-![coopuserinterface](media/coopuserinterface.png)
+![coopuserinterface](../media/coopuserinterface.png)
