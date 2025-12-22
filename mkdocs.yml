@@ -36,9 +36,10 @@ theme:
   features:
     - navigation.instant      # Instant loading (SPA-like)
     - navigation.tracking     # URL updates with scroll
-    - navigation.tabs         # Top-level sections as tabs
+    #- navigation.tabs         # Top-level sections as tabs
     - navigation.sections     # Sections in sidebar
     - navigation.top          # Back to top button
+    - navigation.footer       # Footer navigation
     - search.highlight        # Highlight search terms
     - search.share           # Share search results
     - search.suggest         # Search suggestions
@@ -55,14 +56,26 @@ nav:
   - Introduction: introduction.md
   - MLEM Tier List: mlem.md
   - FAQ: faq.md
-  - Early Game: earlygame.md
-  - Game Content: gamecontent.md
-  - Mid Game: midgame.md
-  - Manual Play: manualplay.md
-  - Progression Walls: progressionwalls.md
-  - Late Game: lategame.md
-  - Raids: raids.md
-  - End Game: endgame.md
+  - Gameplay:
+    - Team Building: gameplay/team-building.md
+    - Combat Mechanics: gameplay/combat-mechanics.md
+    - Progression Walls: gameplay/progression-walls.md
+  - Beginner:
+    - Walkthrough: beginner/walkthrough.md
+  - Features:
+    - Main Screen: features/main-screen.md
+    - Events: features/events.md
+    - Shops: features/shops.md
+    - Inventory: features/inventory.md
+    - Outpost: features/outpost.md
+    - NIKKEs: features/nikkes.md
+    - The Ark: features/the-ark.md
+  - Progression:
+    - Mid Game: progression/midgame.md
+    - Late Game: progression/lategame.md
+    - End Game: progression/endgame.md
+  - Raids:
+    - Raids Guide: raids/raids.md
   - Changelog: changelog.md
 
 # Plugins

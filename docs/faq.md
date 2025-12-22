@@ -37,7 +37,7 @@ To answer this, I need you to answer a question. **Are you past the 160 wall?**
 If your answer is: **No, I have yet to pass it,** or even, **what is the 160 wall**? 
 
 It is a time gated wall to block your progress. You need 5 NIKKEs that are max limit broken, meaning, 1 copy \+ 3 duplicates, at level 200, to pass the 160 synchro level.  
-Read the [**160 Wall**](gamecontent.md#_160-Wall) section if you need more information.
+Read the [**160 Wall**](features/nikkes.md#160-wall) section if you need more information.
 
 If your answer is: **Yes, I am past it.**   
 The answer is… **<span class="color-red">NO</span>!** You do not need duplicates anymore. **Each extra copy is merely less than a 3% final dmg increase of that NIKKE.** Duplicates add very little combat power, and aside from min/maxing ranking, regular players shouldn’t pull for more than 1 copy in any scenario past the 160 wall.  

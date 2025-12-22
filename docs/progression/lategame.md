@@ -19,7 +19,7 @@ As per default, your Nikke will receive 10% Elemental Damage bonus, which then c
 
 You probably didn’t face any real challenge, not up until now. Synchro levels or combat power won't solve this one easily. Meet the **Mother Whale**, the second most manual heavy boss in the game (even as of october 2025!). **This boss will force you to play manually.**
 
-![motherwhale](media/motherwhale.png){ width="300" }
+![motherwhale](../media/motherwhale.png){ width="300" }
 
 Profile  
 Class: Tyrant  
@@ -36,7 +36,7 @@ Range: Far
 
    For the first wave, she generates an **Elemental Shield** that protects her, but it can be destroyed by killing all first wave mobs on the ground. You have to kill them fast, otherwise she calls the second wave of mobs and it becomes increasingly more difficult.
 
-   ![motherwhalemob](media/motherwhalemob.png){ width="450" }
+   ![motherwhalemob](../media/motherwhalemob.png){ width="450" }
 
    *The Mob only receives 1 damage per shot (courtesy: kampretlordz gameplay)*
 
@@ -48,14 +48,14 @@ Range: Far
 4. **Calling out Master-class mobs that can wipe all your Nikkes**   
    This is by far the most annoying attack. She calls Master-class raptures which are tanky and hard to kill. They also do barrage attacks that deal damage to all your Nikkes. This cannot be avoided or prevented, even if you try to kill them before they can attack. Fortunately, this attack can be taunted to one Nikke, so you can avoid being completely wiped out.
 
-   ![motherwhalemobwipe](media/motherwhalemobwipe.png){ width="450" }
+   ![motherwhalemobwipe](../media/motherwhalemobwipe.png){ width="450" }
 
    *Master mobs are barragging a random Nikke (courtesy: kampretlordz gameplay)*
 
 5. **Second cycle**  
    After doing the patterns above, she then goes near the regen ports and goes back to its first pattern of attack. Then it calls mobs similar to the second pattern, but no elemental shield in this cycle. She can shoot Laser Showers that deal damage to all your Nikkes.   
      
-   ![motherwhalesecondcycle](media/motherwhalesecondcycle.png)
+   ![motherwhalesecondcycle](../media/motherwhalesecondcycle.png)
 
    *Laser Showers (courtesy: kampretlordz gameplay)*
 
@@ -64,7 +64,7 @@ Range: Far
 1. **AoE and/or Distribute Damage Nikkes**  
    Distributed damage is great because it ignores defense even when buffed as the mechanic of this attack states that the damage dealt will be distributed evenly no matter what. Mobs have very low HP so distributing damage can kill them fast.
 
-   ![motherwhaleaoe](media/motherwhaleaoe.png)
+   ![motherwhaleaoe](../media/motherwhaleaoe.png)
     
    *Scarlet kills all mobs with her burst skill (Courtesy: kampretlordz gameplay)*
 
@@ -93,13 +93,13 @@ Range: Far
 Chapter 28, 30 and 31 BOSS
 
 
-![Crystal Chamber Elemental QTE](media/elementalqte.png)
+![Crystal Chamber Elemental QTE](../media/elementalqte.png)
 
 ### **Mirror Container, Chapter 32 BOSS**
 
 The hardest boss to date (as of 07/10/2025). Has **defense buff mechanics** and parts that you must destroy with only **<span class="color-red">1 strong shot</span>**. If you ignore this, your damage will be as soft as a wet noodle or worse, only dealing 1 damage per shot. This rapture shows us how **important** elemental damage is.  
 
-![mirrorcontainer](media/mirrorcontainer.png){ width="300" }
+![mirrorcontainer](../media/mirrorcontainer.png){ width="300" }
 
 Profile  
 Class: Tyrant  
@@ -113,7 +113,7 @@ Range: Far
 
 2. **Glass Slippers: Defense Mode**
 
-   ![mirrorcontainerglassslippers1](media/mirrorcontainerglassslippers1.png)
+   ![mirrorcontainerglassslippers1](../media/mirrorcontainerglassslippers1.png)
 
    *Spawns Glass Slippers to buff his DEF (Courtesy: Kontossis on youtube)*
 
@@ -149,7 +149,7 @@ The best Nikkes against Mirror Container are Ein and Cinderella. They are design
 
 When it summons the Slippers, wait when it enters Attack Mode. Slippers will start to glow blue and will start going backwards. You can see in the image below.
 
-![mirrorcontainerglassslippers2](media/mirrorcontainerglassslippers2.png)
+![mirrorcontainerglassslippers2](../media/mirrorcontainerglassslippers2.png)
 
 *Glass slipper: Attack mode (Courtesy: Kontossis at youtube)*
 
@@ -161,7 +161,7 @@ If you shoot it when you’re full burst, you have to command all Nikkes to take
 
 Profile  
 Class: Tyrant  
-Element: P.S.I.D WaterCode, weak against ElectricCode![electric](media/icon/elementelectricicon.png)  
+Element: P.S.I.D WaterCode, weak against ElectricCode![electric](../media/icon/elementelectricicon.png)  
 Range: Far
 
 **Prerequisites**
@@ -235,7 +235,7 @@ If you ran out of time, even at a low deficit, don't worry! Behemoth is the firs
 
 Profile  
 Class: Tyrant  
-Element: H.S.T.A FireCode - Weak agaisnt WaterCode![water](media/icon/elementwatericon.png)  
+Element: H.S.T.A FireCode - Weak agaisnt WaterCode![water](../media/icon/elementwatericon.png)  
 Range: Far
 
 WIP
@@ -244,7 +244,7 @@ WIP
 
 Profile  
 Class: Tyrant  
-Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](media/icon/elementfireicon.png)  
+Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](../media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
@@ -253,7 +253,7 @@ WIP
 
 Profile  
 Class: Tyrant  
-Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](media/icon/elementfireicon.png)  
+Element: A.N.M.I Windcode - Weak agaisnt FireCode![fire](../media/icon/elementfireicon.png)  
 Range: Far
 
 WIP
@@ -264,28 +264,28 @@ WIP
 
 **Each boss comes from previous Solo Raids or story chapters with increased difficulty and phases. The level cap is 400, but it’s not fixed, like the Special Interception.**   
 **This might sound like a bad thing but,** **at the same time** **<span class="color-yellow">even the first stage of AI, Stage 1, gives better rewards than Special Interception</span>**.   
-Another really cool thing is the ![customlockicon](media/customlockicon.png){ width="25" } **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
+Another really cool thing is the ![customlockicon](../media/customlockicon.png){ width="25" } **Custom Lock that you get when you clear AI**. You can get these from any stage. **They allow you to lock OL lines, 20 custom locks for 1 line locked, 30 for another one at the same time. Even if it’s just once and you have to lock again each time, it’s still better than just locking with custom modules(rocks).**
 
 **There are 5 bosses, each with the same set of base rewards and also Boss-specific additional rewards linked to each.**   
 **All items that are guaranteed to drop from Stage 1:**   
-**Tier 9 fodder gear, custom locks ![customlockicon](media/customlockicon.png){ width="25" } and gear pity boxes ![gear box](media/icon/gearpityboxicon.png){ width="25" } with the exception of <span class="color-green">Kraken</span>, as it does not drop gear pity boxes.**  
-**They also have the chance to drop 1 to 3 custom modules ![custom module](media/icon/custommoduleicon.png){ width="25" } (rocks), the drop % changes depending on the Stage you reached.**
+**Tier 9 fodder gear, custom locks ![customlockicon](../media/customlockicon.png){ width="25" } and gear pity boxes ![gear box](../media/icon/gearpityboxicon.png){ width="25" } with the exception of <span class="color-green">Kraken</span>, as it does not drop gear pity boxes.**  
+**They also have the chance to drop 1 to 3 custom modules ![custom module](../media/icon/custommoduleicon.png){ width="25" } (rocks), the drop % changes depending on the Stage you reached.**
 
 **However, the main benefit of doing Anomaly Interception is that you can choose what boss you want to fight.** 
 
-**<span class="color-green">Kraken</span> ![wind](media/icon/elementwindicon.png) custom modules and custom module pity boxes but DOES NOT drop any t9m gear**  
-**<span class="color-orange">Ultra</span> ![iron](media/icon/elementironicon.png) chance to drop t9m helmet and guaranteed helmet pity boxes**  
-**<span class="color-red">Indivillia</span> ![fire](media/icon/elementfireicon.png) chance to drop t9m chest and guaranteed chest pity boxes**  
-**<span class="color-purple">Mirror Container</span> ![electric](media/icon/elementelectricicon.png) chance to drop t9m gauntlets and guaranteed gauntlets pity boxes**  
-**<span class="color-blue">Harvester</span> ![water](media/icon/elementwatericon.png) chance to drop t9m boots and guaranteed boots pity boxes**  
+**<span class="color-green">Kraken</span> ![wind](../media/icon/elementwindicon.png) custom modules and custom module pity boxes but DOES NOT drop any t9m gear**  
+**<span class="color-orange">Ultra</span> ![iron](../media/icon/elementironicon.png) chance to drop t9m helmet and guaranteed helmet pity boxes**  
+**<span class="color-red">Indivillia</span> ![fire](../media/icon/elementfireicon.png) chance to drop t9m chest and guaranteed chest pity boxes**  
+**<span class="color-purple">Mirror Container</span> ![electric](../media/icon/elementelectricicon.png) chance to drop t9m gauntlets and guaranteed gauntlets pity boxes**s**  
+**<span class="color-blue">Harvester</span> ![water](../media/icon/elementwatericon.png) chance to drop t9m boots and guaranteed boots pity boxes**  
 
-![interceptionaidrop](media/interceptionaidrop.png)
+![interceptionaidrop](../media/interceptionaidrop.png)
 
 **Sheet credits to akusetsu**
 
 **Guides for the boss:**
 
-**<span class="color-green">Kraken</span>**
+###**<span class="color-green">Kraken</span>**
 
 The easiest boss that you encounter in AI. His main body is in the middle. His tentacle is the core. Punching bag boss at it’s finest.
 
@@ -318,7 +318,7 @@ Burst 1 and 2 will be Liter and Crown, then you can choose Wind Burst 3 Nikke as
 2. Boomer Finger: Scarlet Black Shadow with Sakura: Bloom in Summer. Flex will be Naga. you can try Noir as an alternative Naga and make the run less sweaty.  
 3. SG team with Noir and Guilty works against this squid, with Blanc as healer. They can deal decent damage because of the big target of the main body.
 
-**<span class="color-orange">Ultra</span>** 
+###**<span class="color-orange">Ultra</span>** 
 
 This Ultra has a destructible core unlike campaign counterparts, so his core isn’t permanent. He never moves so basically acts like a punching bag for Pierce-type Nikkes. 
 
@@ -357,17 +357,17 @@ The second mechanic of stage 4 core is that it, along with every other core (sta
 
 You can put all Iron Nikkes in your team. For example, a team consists of Liter and Crown as burst 1 and 2, for burst 3 DPS, you pick Red Hood, then choose between Snow White or Maxwell (which have higher Elemental Damage OL line). For flex you can pick Helm: Aquamarine to amplify your team damage. If you need survival, you can take out one of the Iron-type Nikkes, for example Naga is a good choice for extra core damage.
 
-**<span class="color-purple">Mirror Container</span>**
+###**<span class="color-purple">Mirror Container</span>**
 
 Basically it's the Mirror Container in Chapter 32, but easier. Core is permanent, so you can deal more damage. Glass Slippers (replica) only shows up in 2 cycles. The most important difference is that **it will not restore Slippers that buff DEF by 360% when going into Destroy Mode. **
 
 Team Building gameplay will be the same as the Mirror Container Chapter 32 Boss. Cindy and Xmaiden or Ein with Anis: Sparkling Summer is your best choice against it. Example comp would be Burst 1 and 2 Rouge with Crown and if you want to optimize Cindy’s damage, you can put Siren or Liter instead of Rouge. Flex can be Maid Mast if you miss xmaiden.
 
-**<span class="color-blue">Harvester</span>**
+###**<span class="color-blue">Harvester</span>**
 
 This spider likes to call mobs during the fight. These mobs distract your Nikke and the attacks are the kamikaze type so if you ignore them you’re likely to lose a Nikke or two. The difference from campaign mode Harvester is that this spider has a core on his head and you need to destroy it first to access the core.
 
-**<span class="color-red">Indivillia</span>**
+###**<span class="color-red">Indivillia</span>**
 
 Hardest boss that you can encounter in AI. Has an attack that is unavoidable, so your iron supporters (Liter and Crown) have a high chance of dying. Has the highest base Defense stats and moves around a lot so hitting the core can be difficult.
 
@@ -375,7 +375,7 @@ Problem is, our best fire DPS Nikkes besides Alice and Modernia for now (Novembe
 
 **Tyrant-class Boss Tier List**
 
-![tyrantbosstier](media/tyrantbosstier.png)
+![tyrantbosstier](../media/tyrantbosstier.png)
 
 As per October 2025:
 

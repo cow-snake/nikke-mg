@@ -14,7 +14,7 @@ Aside from the MLEM tier list, we don't plan to make one for character usefulnes
 
 **Now, <span class="color-red">New players</span>**! The early game will be overwhelming as the vast majority of content NIKKE has is unlocked in the first few chapters. Also, don’t just read this guide, read as many guides as you can, watch videos, you name it! More information you have the better.
 
-**<span class="color-red">Veteran players</span>**, if you want, go directly to the [Mid Game](midgame.md), [Late Game](lategame.md), or [End Game](endgame.md) section.
+**<span class="color-red">Veteran players</span>**, if you want, go directly to the [Mid Game](progression/midgame.md), [Late Game](progression/lategame.md), or [End Game](progression/endgame.md) section.
 
 # Useful Links
 | Category | Links |
